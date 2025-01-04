@@ -1,0 +1,3 @@
+azure-identity==1.19.0
+azure-keyvault-secrets==4.9.0
+lightrag-hku==1.0.8

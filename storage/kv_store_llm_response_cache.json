@@ -1,0 +1,42 @@
+{
+  "naive": {
+    "9e06c41927e35da38dbb14c70912fb1c": {
+      "return": "The names of the parties involved in the lease agreement are as follows:\n\n- **Lessor**: SkyHigh Leasing Ltd., a company organized and existing under the laws of Ireland, with its principal office located at 123 Aviation Avenue, Dublin, Ireland.\n\n- **Lessee**: Global Air Transport Inc., a company organized and existing under the laws of the United States, with its principal office located at 456 Jetway Boulevard, Houston, Texas, USA. \n\nThis agreement was made on July 19, 2024, and outlines the terms and conditions for the lease of an aircraft between these two entities.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    }
+  },
+  "local": {
+    "d0eb8788763404833101c307fde1ff7a": {
+      "return": "The names of the parties involved in the lease agreement are as follows:\n\n### Lessee\n- **Global Air Transport Inc.**: This organization is the party leasing the aircraft from the lessor. The lessee is responsible for the operational control, maintenance, and compliance with the terms of the lease agreement.\n\n### Lessor\n- **SkyHigh Leasing Ltd.**: This organization is the party providing the aircraft for lease. The lessor retains ownership of the aircraft and is responsible for ensuring that it meets the specified conditions before delivery to the lessee.\n\nThese two entities are bound by the terms outlined in the lease agreement, which governs their respective rights and obligations regarding the aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    }
+  },
+  "global": {
+    "60a840ff174ad1fb0123660b3f4dfdd0": {
+      "return": "The names of the lessee and lessor involved in the aircraft lease agreement are as follows:\n\n### Lessee\n- **Global Air Transport Inc.**: This organization is based in the United States and is responsible for leasing the aircraft from the lessor. The Chief Operating Officer of Global Air Transport Inc. is Jane Smith, who plays a significant role in managing the lease agreement.\n\n### Lessor\n- **SkyHigh Leasing Ltd.**: This company is based in Ireland and specializes in leasing aircraft. The Chief Executive Officer of SkyHigh Leasing Ltd. is John Doe, who oversees the leasing operations and agreements.\n\nThese two organizations are engaged in a contractual relationship defined by the Aircraft Lease Agreement, which outlines their respective roles and responsibilities regarding the leased aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    }
+  },
+  "hybrid": {
+    "30064171d6da6a8f6d64d1d2a3a7f289": {
+      "return": "The names of the lessee and lessor involved in the aircraft lease agreement are as follows:\n\n### Lessee\n- **Global Air Transport Inc.**: This organization is based in the United States and is responsible for leasing the aircraft from the lessor. The Chief Operating Officer of Global Air Transport Inc. is Jane Smith, who plays a significant role in managing the lease agreement and the operations of the airline.\n\n### Lessor\n- **SkyHigh Leasing Ltd.**: This organization is based in Ireland and specializes in leasing aircraft. The Chief Executive Officer of SkyHigh Leasing Ltd. is John Doe, who oversees the leasing operations and agreements with lessees like Global Air Transport Inc.\n\nThese two entities are engaged in a contractual relationship defined by the Aircraft Lease Agreement, which outlines their respective roles and responsibilities regarding the leased aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    }
+  }
+}

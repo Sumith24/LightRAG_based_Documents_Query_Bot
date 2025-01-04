@@ -1,0 +1,21 @@
+2025-01-02 19:46:51,096 - lightrag - INFO - Logger initialized for working directory: ./storage
+2025-01-02 19:46:51,096 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-02 19:46:51,096 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-02 19:46:51,096 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-02 19:46:51,103 - lightrag - INFO - Loaded document status storage with 0 records
+2025-01-02 19:46:51,103 - lightrag - INFO - Creating a new event loop in main thread.
+2025-01-02 19:46:51,103 - lightrag - INFO - Processing 1 new unique documents
+2025-01-02 19:46:51,422 - lightrag - INFO - Inserting 15 vectors to chunks
+2025-01-02 20:08:45,884 - lightrag - INFO - Inserting entities into storage...
+2025-01-02 20:08:45,961 - lightrag - INFO - Inserting relationships into storage...
+2025-01-02 20:08:45,970 - lightrag - INFO - Inserting 1287 vectors to entities
+2025-01-02 20:10:57,914 - lightrag - INFO - Inserting 70 vectors to relationships
+2025-01-02 20:11:05,874 - lightrag - INFO - Writing graph with 1287 nodes, 70 edges
+2025-01-02 20:11:07,334 - lightrag - INFO - Truncate 15 to 4 chunks
+2025-01-02 20:11:11,920 - lightrag - INFO - kw_prompt result:
+2025-01-02 20:11:13,244 - lightrag - INFO - Local query uses 60 entites, 31 relations, 3 text units
+2025-01-02 20:11:18,836 - lightrag - INFO - kw_prompt result:
+2025-01-02 20:11:20,258 - lightrag - INFO - Global query uses 54 entites, 60 relations, 3 text units
+2025-01-02 20:11:25,766 - lightrag - INFO - kw_prompt result:
+2025-01-02 20:11:27,171 - lightrag - INFO - Local query uses 60 entites, 26 relations, 3 text units
+2025-01-02 20:11:28,667 - lightrag - INFO - Global query uses 54 entites, 60 relations, 3 text units
