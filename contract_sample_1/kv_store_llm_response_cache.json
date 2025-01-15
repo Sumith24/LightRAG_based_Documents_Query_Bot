@@ -1,0 +1,746 @@
+{
+  "naive": {
+    "9e06c41927e35da38dbb14c70912fb1c": {
+      "return": "The names of the parties involved in the lease agreement are as follows:\n\n- **Lessor**: SkyHigh Leasing Ltd., a company organized and existing under the laws of Ireland, with its principal office located at 123 Aviation Avenue, Dublin, Ireland.\n\n- **Lessee**: Global Air Transport Inc., a company organized and existing under the laws of the United States, with its principal office located at 456 Jetway Boulevard, Houston, Texas, USA. \n\nThis agreement was made on July 19, 2024, and outlines the terms and conditions for the lease of an aircraft between these two entities.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    },
+    "9ef0ae6ef00442079eaa944ee9723517": {
+      "return": "The Maximum Zero Fuel Weight (MZFW) is a critical specification for aircraft, indicating the maximum weight of the aircraft without any usable fuel. For the Boeing 737 MAX 8, as specified in the documents, the MZFW is **65,000 kilograms (KGS)**. \n\nThis weight limit is essential for ensuring the aircraft's structural integrity and performance during flight. Exceeding the MZFW can lead to operational issues, including difficulties in takeoff, landing, and overall aircraft handling. It is a key parameter that pilots and ground crew must monitor to maintain safety and compliance with aviation regulations. \n\nIn summary, the MZFW for the Boeing 737 MAX 8 is set at 65,000 KGS, and it plays a vital role in the aircraft's operational limits.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the MZFW?"
+    },
+    "71bd72ebb0ab94e43cb34494dd0f44e2": {
+      "return": "The maximum takeoff weight (MTOW) for the Boeing 737 MAX 8 aircraft, as specified in the documents, is **82,000 kilograms (KGS)**. This weight is crucial for ensuring that the aircraft operates within safe limits during takeoff, affecting performance, fuel efficiency, and overall safety. \n\nIn aviation, the MTOW is a critical parameter that must be adhered to, as exceeding this weight can lead to operational issues and potential safety hazards. It is determined by various factors, including the aircraft's design, structural integrity, and regulatory requirements. \n\nIf you have any further questions about aircraft specifications or related topics, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the maximum takeoff weight?"
+    },
+    "68b925a813901026fc4aafbba04b408c": {
+      "return": "The date of the Aircraft Lease Agreement is July 19, 2024. This date is referenced in multiple documents, including the Lease Supplement No. 1 and the Certificate of Delivery Technical Acceptance, confirming the execution of the agreement on that specific date.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the date of agreement?"
+    },
+    "de7ca3d80106b7405b195b7c34462e4d": {
+      "return": "In the Boeing Voyager -737 Aircraft Lease Agreement, the airport fees are specified as follows:\n\n- **Landing Fees**: The Lessee is responsible for paying **$2,000 per landing**. \n\nThese fees are incurred each time the aircraft lands at an airport, and they are categorized under additional costs that the Lessee must cover during the lease term. This cost is separate from other operational expenses such as fuel, crew costs, and maintenance reserves. \n\nOverall, the agreement outlines that the Lessee must manage various operational costs, including these airport fees, to ensure compliance with the terms of the lease.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the airport fees per landing? in Boeing Voyager -737 aircraft lease agreement"
+    },
+    "dbafa223853dcf632d5b13f7bae3ebf1": {
+      "return": "In Contract Sample 1, the Auxiliary Power Unit (APU) of the aircraft is manufactured by Honeywell Aerospace. The specific type and model of the APU is the GTCP131-9B, with the serial number H-12345. \n\nThis information is detailed in Exhibit A, which outlines the specifications of the aircraft, including its components.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "in contract sample 1, who manufactures the APU of aircraft? "
+    },
+    "4b4e1c88018a1c415f1580a9930cc613": {
+      "return": "The Auxiliary Power Unit (APU) of the aircraft is manufactured by Honeywell Aerospace. The specific type and model of the APU mentioned in the documents is the GTCP131-9B.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": " who manufactures the APU of aircraft?"
+    },
+    "ba19948a64fde1f55c243f44befb7bb4": {
+      "return": "The Auxiliary Power Unit (APU) of the aircraft mentioned in the documents is manufactured by Honeywell Aerospace. The specific type and model of the APU is the GTCP131-9B, with the serial number H-12345. \n\nHoneywell Aerospace is known for producing a variety of aerospace components, including APUs, which provide power for aircraft systems while on the ground and during flight, ensuring that the aircraft can operate independently of ground power sources.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "who manufactures the APU of aircraft?"
+    },
+    "ad8913f70eed7717c1b20297d6a219b3": {
+      "return": "In the Aircraft Lease Agreement (Contract Sample 1), the rent is fixed. The Basic Rent is specified as $250,000 per month, which is payable in advance on the first business day of each month. This fixed amount does not fluctuate based on market conditions or other variables, making it a stable and predictable cost for the Lessee throughout the Lease Term.\n\nAdditionally, the contract outlines that the Basic Rent is part of the overall financial obligations of the Lessee, which also includes other costs such as maintenance reserves, insurance, and operational expenses. However, the Basic Rent itself remains constant at the stated amount for the duration of the lease. \n\nOverall, the fixed nature of the rent provides clarity and certainty for both parties involved in the agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Is the rent fixed or floating in contract sample 1?"
+    },
+    "a4a7acb68743da185ed8ea43c2da9ab0": {
+      "return": "The name of the lessor is **SkyHigh Leasing Ltd.**",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the name of lessor?"
+    },
+    "75b450d4c8fb2898bcb4900bbdc60d95": {
+      "return": "The lessor of the contract is **SkyHigh Leasing Ltd.**, a company organized and existing under the laws of Ireland, with its principal office located at 123 Aviation Avenue, Dublin, Ireland. \n\nThe lessee is **Global Air Transport Inc.**, a company organized and existing under the laws of the United States, with its principal office at 456 Jetway Boulevard, Houston, Texas, USA. \n\nThis aircraft lease agreement outlines the terms under which SkyHigh Leasing Ltd. leases an aircraft to Global Air Transport Inc.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is lessor and lessee of the contract?"
+    },
+    "bfb419ea8a8882b9cada0cbe962a6889": {
+      "return": "The late payment interest on overdue rent, as specified in the contract sample, is set at 5% per annum on the overdue amount. This interest is calculated daily, meaning that for each day the payment remains unpaid beyond the due date, the Lessee will incur additional interest charges at this rate. \n\nThis provision serves as a financial incentive for timely payments and outlines the consequences of failing to meet payment obligations under the lease agreement. It is important for the Lessee to be aware of this penalty to avoid incurring additional costs associated with late payments.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How much is the late payment interest on overdue rent? in contract sample 1."
+    },
+    "5b8254a4492c30e66d3b2975bda7805d": {
+      "return": "The next scheduled date for heavy maintenance, as outlined in the maintenance schedule of the contract sample, is July 1, 2026. The estimated cost for this heavy maintenance is $1,000,000. \n\nThis maintenance is crucial as it typically involves comprehensive inspections and repairs to ensure the aircraft remains in compliance with safety and operational standards. Regular heavy maintenance is essential for the longevity and airworthiness of the aircraft, and planning for such costs is a vital part of aircraft management.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "When is the next scheduled date for heavy maintenance, and what is its estimated cost? in contract sample 1."
+    },
+    "8facd686c9e6695de8335e52391a7cde": {
+      "return": "The name of the lessee is **Global Air Transport Inc.**",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Name of the lessee?"
+    },
+    "29e7d8f01ec44da27088b325f13150be": {
+      "return": "In the Aircraft Lease Agreement, the names of the parties involved are as follows:\n\n- **Lessor**: SkyHigh Leasing Ltd., a company organized and existing under the laws of Ireland, with its principal office located at 123 Aviation Avenue, Dublin, Ireland.\n\n- **Lessee**: Global Air Transport Inc., a company organized and existing under the laws of the United States, with its principal office located at 456 Jetway Boulevard, Houston, Texas, USA. \n\nThis agreement outlines the terms under which the Lessor leases an aircraft to the Lessee, including various conditions and responsibilities associated with the lease.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is the name of lessee and lessor in the contract?"
+    },
+    "3a7b599e92540586f43c144f30b9f0c4": {
+      "return": "The airport fees per landing for the leased aircraft are estimated to be $2,000. This fee is applicable each time the aircraft lands at an airport. \n\n### Additional Context on Airport Fees\nThese fees are part of the operational costs that the Lessee, Global Air Transport Inc., is responsible for during the lease term. In addition to landing fees, the Lessee will incur other costs such as fuel costs, crew salaries, and maintenance reserves, which are also essential to consider for overall budgeting and financial planning related to the operation of the aircraft.\n\n### Summary of Operational Costs\n- **Airport Fees:** $2,000 per landing\n- **Fuel Costs:** Estimated at $500 per hour of flight\n- **Crew Costs:** Approximately $100,000 monthly for pilot and cabin crew salaries\n\nUnderstanding these fees is crucial for effective financial management and ensuring compliance with the lease agreement's terms.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the airport fees per landing?"
+    },
+    "555ea0e27c4d42992088b403cb0524cb": {
+      "return": "### APU Specifications\n\nThe aircraft is equipped with an **Auxiliary Power Unit (APU)** manufactured by **Honeywell Aerospace**. The specific type and model of the APU is the **GTCP131-9B**. \n\n### Serial Number\n\nThe serial number for this APU is **H-12345**. \n\nThis information is crucial for maintenance and operational records, ensuring that the APU can be tracked for service history and compliance with regulatory standards.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what type of APU is on the aircraft and is there a serial number?"
+    },
+    "f52545db8c39103e1c6b26729df4bbdd": {
+      "return": "### Engine Type and Model\n\nThe aircraft specified in the documents is equipped with two (2) **Pratt & Whitney PW4000** engines. This information is consistent across both the Lease Supplement No. 1 and the Certificate of Delivery Technical Acceptance, confirming the engine type and model for the Boeing Voyager -737 aircraft bearing Manufacturer’s Serial Number 56789. \n\n### Summary\n\nThe Pratt & Whitney PW4000 series is known for its reliability and efficiency, making it a popular choice for various aircraft models. The inclusion of these engines indicates that the aircraft is designed for optimal performance in commercial aviation settings.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is the engine type and model?"
+    },
+    "d65252570e45434c5729dd87aa632a1a": {
+      "return": "### Basic Rent Overview\n\nIn the context of the Aircraft Lease Agreement between SkyHigh Leasing Ltd. (the Lessor) and Global Air Transport Inc. (the Lessee), \"Basic Rent\" refers to the fixed monthly payment that the Lessee is obligated to pay for the lease of the aircraft. This payment is a crucial component of the lease agreement, ensuring that the Lessor receives a consistent income for the use of the aircraft.\n\n### Rent Rate for the Aircraft\n\nThe Basic Rent for the aircraft, specifically the Boeing Voyager -737, is set at **$250,000 per month**. This amount is payable in advance on the first business day of each month throughout the duration of the lease term, which is specified to be 60 months, commencing on the Delivery Date of August 1, 2024. \n\nThis structured payment plan is designed to provide clarity and predictability for both parties involved in the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is basic rent and mention the rent rate for the aircraft?"
+    },
+    "1382efaccb7164f52a5019d2ee78e8ec": {
+      "return": "The lease term expiration date is not explicitly stated in the provided documents. However, it is indicated that the Lessee must adhere to a maintenance schedule and return the Aircraft upon the expiration or termination of the Lease. \n\nTo determine the specific expiration date, one would typically refer to the original lease agreement, which should outline the start date and duration of the lease term. If you have access to that information, you can calculate the expiration date based on the agreed-upon lease duration. \n\nIf you need further assistance or have additional details about the lease, feel free to share!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "When the lease term is expiring?"
+    },
+    "22113f63be0d74dfa8551f9ea1eba3b6": {
+      "return": "### Security Deposit Overview\n\nThe **Security Deposit** is a financial guarantee that the Lessee pays to the Lessor as part of the lease agreement for the aircraft. This deposit serves as a form of assurance that the Lessee will fulfill their obligations under the terms of the lease.\n\n### Key Details\n\n- **Value**: The Security Deposit is set at **$500,000**. This amount is to be paid prior to the delivery of the aircraft.\n- **Purpose**: The primary purpose of the Security Deposit is to protect the Lessor against any potential defaults or breaches of the lease agreement by the Lessee. It acts as a safeguard for the Lessor, ensuring that they have a financial cushion in case of any issues that may arise during the lease term.\n\n### Importance in Lease Agreements\n\nIn lease agreements, the Security Deposit is a common practice, especially for high-value assets like aircraft. It provides the Lessor with a level of security and confidence that the Lessee is committed to maintaining the terms of the lease. Upon the successful completion of the lease term and fulfillment of all obligations, the Security Deposit is typically refunded to the Lessee, subject to any deductions for damages or unpaid amounts.\n\nIn summary, the Security Deposit is a crucial component of the lease agreement, ensuring both parties are protected and that the Lessee has a vested interest in adhering to the terms of the contract.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is Security Deposit?"
+    },
+    "afd5d0dd619ee58648ae7c3f1628a846": {
+      "return": "### Airframe Heavy Maintenance Reserves\n\nAirframe Heavy Maintenance Reserves are a financial provision established within aircraft leasing agreements to cover the costs associated with major structural inspections and overhauls of the aircraft's airframe. These reserves are crucial for ensuring that the aircraft remains compliant with safety regulations and operational standards throughout its lease term.\n\n#### Purpose and Importance\n\nThe primary purpose of the Airframe Heavy Maintenance Reserves is to allocate funds specifically for significant maintenance activities that are not part of routine upkeep. These activities may include:\n\n- **Major Inspections**: Comprehensive checks that assess the structural integrity and overall condition of the aircraft.\n- **Overhauls**: Extensive repairs or replacements of critical components that may be necessary after a certain number of flight hours or cycles.\n\nBy setting aside these reserves, both the lessor and lessee can ensure that the aircraft is maintained in a safe and airworthy condition, thereby minimizing the risk of unexpected costs arising from heavy maintenance needs.\n\n#### Financial Structure\n\nAccording to the leasing agreement, the lessee is required to make monthly contributions to the Airframe Heavy Maintenance Reserve. The amount specified for these reserves is **$10,000 per month**. This structured payment plan allows for predictable budgeting and financial planning for both parties involved in the lease.\n\n#### Compliance and Accountability\n\nThe lessee is responsible for managing these reserves and ensuring that the funds are utilized appropriately for the intended maintenance activities. The lessor retains the right to audit the lessee’s maintenance operations and records to ensure compliance with the terms of the lease agreement. If the lessee fails to comply with maintenance requirements, the lessor may demand corrective actions and seek reimbursement for any associated costs.\n\nIn summary, Airframe Heavy Maintenance Reserves play a vital role in the maintenance and operational integrity of leased aircraft, ensuring that significant maintenance needs are anticipated and funded appropriately. This proactive approach helps maintain safety standards and operational efficiency throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Explain Airframe Heavy Maintenance Reserves?"
+    },
+    "428b9ebb3fc52226cfd2b7dabffb123c": {
+      "return": "Yes, there are provisions for adjustments to maintenance payments as outlined in the lease agreement. The Lessor reserves the right to adjust the maintenance reserve payments every 12 months based on actual maintenance costs and industry standard rates. The Lessee will be notified of any adjustments at least 60 days prior to the change taking effect. Importantly, the adjustment rate is capped at a maximum increase of 10% annually unless both parties mutually agree to a different rate.\n\nThis adjustment mechanism ensures that the maintenance payments remain aligned with the actual costs incurred for maintaining the aircraft, reflecting any changes in the market or operational requirements. It is essential for the Lessee to stay informed about these potential adjustments to manage their financial obligations effectively throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Is there any adjustments for maintenance payments?"
+    },
+    "b5f6a1d52f9fa5c8414e325a82df6bfe": {
+      "return": "The names of the parties involved in the lease agreement are as follows:\n\n- **Lessor**: SkyHigh Leasing Ltd., a company organized and existing under the laws of Ireland, with its principal office located at 123 Aviation Avenue, Dublin, Ireland.\n\n- **Lessee**: Global Air Transport Inc., a company organized and existing under the laws of the United States, with its principal office located at 456 Jetway Boulevard, Houston, Texas, USA. \n\nThis information is part of the Aircraft Lease Agreement made on July 19, 2024.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is the name of the lessor, lessee?"
+    },
+    "250717b73e5168d1708cae4be2e38918": {
+      "return": "The aircraft being leased is a **Boeing Voyager -737**. This information is specified in the Aircraft Lease Agreement between SkyHigh Leasing Ltd. and Global Air Transport Inc.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the name of the aircraft being leased?"
+    },
+    "f7cccbbc1cf832e780d641e17e7f7342": {
+      "return": "The Maximum Landing Weight (MLW) for the aircraft specified in the documents is 69,000 kilograms (KGS). This weight is crucial for ensuring safe landing operations, as it represents the maximum weight at which the aircraft can safely land without risking structural integrity or performance issues. \n\nIn aviation, adhering to weight limits is essential for maintaining safety standards and operational efficiency. The MLW is determined based on various factors, including the aircraft's design, structural capabilities, and regulatory requirements.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the Maximum Landing Weight?"
+    },
+    "2665c7d36cbeb208c13e74979b7b03a2": {
+      "return": "The Maximum Zero Fuel Weight (MZFW) is a critical specification in aviation that refers to the maximum weight of an aircraft without any usable fuel on board. This weight includes the aircraft's structure, payload (passengers, cargo, and baggage), and any other items that are not fuel. The MZFW is essential for ensuring that the aircraft operates within safe limits, particularly during takeoff and landing.\n\nIn the context of the provided documents, the Maximum Zero Fuel Weight for the Boeing 737 MAX 8 aircraft is specified as **65,000 kilograms (KGS)**. This means that when the aircraft is loaded with passengers and cargo, but without any fuel, it should not exceed this weight to maintain safety and performance standards. \n\nUnderstanding the MZFW is crucial for flight planning and weight management, as exceeding this limit can lead to structural issues and affect the aircraft's performance during flight operations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is Maximum Zero Fuel Weight?"
+    },
+    "df1c2b73bbf103b335a0ee828f7c743e": {
+      "return": "The delivery date for the Aircraft is set for **July 19, 2024**. The location for the delivery is **Shannon Airport, Ireland**. \n\nAt the time of delivery, the Aircraft is required to be in an airworthy condition, fully equipped with all necessary parts, components, and avionics, and compliant with all applicable airworthiness directives and maintenance requirements. The Lessee has the right to conduct a pre-delivery inspection within five business days prior to the scheduled delivery date to ensure that the Aircraft meets the agreed conditions. \n\nIf there are any issues with the Aircraft that prevent it from meeting the delivery conditions, the Lessee has the option to refuse acceptance until necessary repairs or adjustments are made.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "When is the delivery date and it's location? "
+    },
+    "67b9db52f96825514b450fba8a231436": {
+      "return": "The delivery delay of the Aircraft can be attributed to several factors as outlined in the documents. Primarily, delays may occur due to reasons attributable to the Lessor, such as mechanical issues or missing documents. In such cases, the Lessee is entitled to remedies, which include a daily penalty of $5,000 for each day of delay beyond the agreed Delivery Date. Additionally, the commencement of rent may be deferred until the Aircraft is delivered in an acceptable condition.\n\nIt is also important to note that delays caused by events beyond the control of either party, referred to as force majeure events (e.g., natural disasters or governmental restrictions), will not incur penalties. This provision ensures that both parties are protected from unforeseen circumstances that could impact the delivery timeline.\n\nIn summary, the causes of delivery delays can range from Lessor-related issues, which may lead to financial penalties for the Lessor, to uncontrollable external factors that do not result in penalties for either party.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the cause of the delivery delay?"
+    },
+    "d3cb15c4ba14a660e4d4f63842e8ff33": {
+      "return": "### Remedies Available to the Lessor Upon Lessee's Failure to Cure\n\nIn the event that the Lessee fails to cure any default as specified in the lease agreement, the Lessor has several remedies available to address the situation. These remedies are outlined in the lease agreement and can be exercised depending on the nature of the default. Below are the key remedies that the Lessor may pursue:\n\n1. **Declaration of Default**: \n   - The Lessor may declare an event of default if the Lessee fails to cure a payment default within the specified 10-business-day period. This declaration allows the Lessor to take further action as stipulated in the agreement.\n\n2. **Late Payment Penalties**: \n   - If the Lessee fails to make timely payments, the Lessor can impose a late payment penalty of 2% of the overdue amount for each day the payment remains unpaid beyond the due date.\n\n3. **Termination of Lease**: \n   - The Lessor may have the right to terminate the lease agreement if the Lessee does not remedy a breach of any material covenant or obligation within the specified cure period.\n\n4. **Recovery of Damages**: \n   - The Lessor can seek to recover any damages incurred as a result of the Lessee's default, including costs associated with the maintenance and operation of the Aircraft.\n\n5. **Indemnification Claims**: \n   - The Lessor may pursue indemnification from the Lessee for any claims, liabilities, losses, or damages arising from the Lessee’s use, possession, or operation of the Aircraft, particularly if the Lessee's actions led to regulatory violations or other defaults.\n\n6. **Reclamation of the Aircraft**: \n   - The Lessor may reclaim possession of the Aircraft if the Lessee fails to cure defaults related to payment or maintenance obligations, as the Lessor retains full legal and beneficial title to the Aircraft during the lease term.\n\n7. **Legal Action**: \n   - The Lessor may initiate legal proceedings to enforce the terms of the lease agreement and seek any other remedies available under applicable law.\n\n8. **Cross-Default Provisions**: \n   - If the Lessee defaults on any other lease or financing arrangement with the Lessor or its affiliates, the Lessor may exercise remedies related to those defaults as well.\n\n### Conclusion\n\nThe remedies available to the Lessor are designed to protect their interests and ensure compliance with the lease agreement. It is crucial for the Lessee to adhere to the terms and conditions outlined in the agreement to avoid triggering these remedies.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "list all the remedies can be exercised by Lessor when Lessee fails to cure?"
+    },
+    "8eb13cb6caa9b6692aa0e852496884dd": {
+      "return": "The rent for the lease of the Boeing Voyager -737 aircraft is fixed. According to the lease agreement, the Basic Rent is set at **$250,000 per month**. This amount is payable in advance on the first business day of each month throughout the duration of the lease.\n\nIn addition to the Basic Rent, the Lessee is also responsible for **Maintenance Reserve Payments**, which amount to **$35,000 per month**. These payments are intended to cover future maintenance and overhaul costs associated with the aircraft.\n\nOverall, the total monthly payment that the Lessee is obligated to make, combining both the Basic Rent and the Maintenance Reserve Payments, amounts to **$285,000**. This structure ensures that the Lessee has a clear understanding of their financial obligations throughout the lease term, which is fixed for a period of **60 months**, commencing on the delivery date of the aircraft. \n\nIn summary, the rent is fixed at **$250,000 per month**, with an additional **$35,000 per month** for maintenance, leading to a total of **$285,000 per month**.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Is the rent fixed or floating and what are the amounts?"
+    },
+    "a055adb20ff11a8aa64dba7475af7c2b": {
+      "return": "The date of the Aircraft Lease Agreement is July 19, 2024. This date is also referenced in various related documents, including the Lease Supplement No. 1, the Certificate of Delivery Technical Acceptance, and the Certificate of Redelivery Technical Acceptance, all of which were executed on the same date.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is the date of the agreement?"
+    },
+    "36b83c12a6d8b976aab87e8e721f4eac": {
+      "return": "### Maintenance of Aircraft\n\nThe maintenance of the aircraft, specifically the Boeing Voyager -737, is governed by a comprehensive set of provisions outlined in the lease agreement. These provisions ensure that the aircraft remains in an airworthy condition throughout the lease term, which is set for 60 months, commencing on July 19, 2024, and expiring on July 19, 2029.\n\n#### Scheduled Maintenance\n\nThe lessee is responsible for all costs related to routine scheduled maintenance. This includes inspections, repairs, and replacements of parts necessary to keep the aircraft operational. The lessee is required to make monthly payments of $35,000 as part of the Maintenance Reserve Payments, which are due alongside the basic rent.\n\n#### Unscheduled Maintenance\n\nIn the event of unscheduled maintenance, which may arise due to wear and tear, defects, or operational incidents, the lessee must bear the costs. The lessee is obligated to promptly notify the lessor of any significant issues affecting the aircraft's airworthiness. Payment for unscheduled maintenance is due within 30 days of receiving an invoice from the maintenance provider.\n\n#### Engine and Airframe Maintenance Reserves\n\nTo prepare for future maintenance needs, the lessee must contribute to several reserve funds:\n- **Engine Overhaul Reserves**: $15,000 per engine per month.\n- **Airframe Heavy Maintenance Reserves**: $10,000 per month.\n- **Landing Gear Overhaul Reserves**: $5,000 per month.\n\nThese reserves are intended to cover the costs associated with major overhauls and inspections.\n\n#### Return Condition Maintenance\n\nUpon the expiration or early termination of the lease, the lessee is responsible for ensuring that the aircraft is returned in the condition specified in the lease agreement. This includes performing any necessary maintenance to meet the return condition standards. The costs incurred for this maintenance will be billed to the lessee within 30 days after the return inspection.\n\n#### Maintenance Audits and Compliance\n\nThe lessor retains the right to audit the lessee’s maintenance operations and records at any time to ensure compliance with the lease agreement. If non-compliance is found, the lessor may demand immediate corrective actions and seek reimbursement for any associated costs.\n\n#### Deferred Maintenance\n\nAny maintenance that is deferred by the lessee beyond recommended timeframes must receive approval from the lessor. The lessor may require additional payments or reserves to cover any increased risk or costs associated with deferred maintenance.\n\n#### Maintenance Payment Adjustments\n\nThe lessor reserves the right to adjust maintenance reserve payments annually based on actual maintenance costs and industry standards. The lessee will be notified of any adjustments at least 60 days prior to the change taking effect, with adjustments not exceeding a 10% increase annually unless mutually agreed upon.\n\n### Conclusion\n\nThe maintenance provisions outlined in the lease agreement are designed to ensure that the aircraft remains in optimal condition throughout the lease term. By establishing clear responsibilities and financial obligations for both scheduled and unscheduled maintenance, the agreement aims to uphold safety and compliance with aviation regulations. The lessee's adherence to these provisions is crucial for the operational integrity of the aircraft and the fulfillment of the lease terms.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Explain MAINTENANCE OF AIRCRAFT  table?"
+    },
+    "744a59f310c21593e4f06facf3eb3bf0": {
+      "return": "### Types of Insurance for the Aircraft\n\nThe Lessee is required to maintain several types of insurance for the Aircraft throughout the Lease Term. Each type of insurance serves a specific purpose and must meet certain criteria. Below is a comprehensive list of the insurance types specified:\n\n1. **Hull All-Risk Insurance**\n   - Coverage must equal or exceed the full replacement value of the Aircraft.\n   - Protects against physical loss or damage from all risks of flight and ground operation, including accidents, fire, theft, vandalism, and more.\n   - Claims proceeds are payable to the Lessor as the loss payee.\n\n2. **Third-Party Liability Insurance**\n   - Minimum coverage limit of $500 million per occurrence.\n   - Protects against legal liabilities arising from bodily injury, death, or property damage to third parties related to the operation of the Aircraft.\n\n3. **Passenger Liability Insurance**\n   - Minimum coverage of $100,000 per passenger, or as required by applicable law.\n   - Covers bodily injury or death to passengers aboard the Aircraft.\n\n4. **War Risk Insurance**\n   - Covers losses from war, terrorism, hijacking, sabotage, and other war-related perils.\n   - Minimum coverage limit of $100 million or as specified by the Lessor.\n   - Includes protection against confiscation, seizure, or nationalization of the Aircraft.\n\n5. **Crew Liability Insurance**\n   - Covers liability arising from claims made by or on behalf of crew members for bodily injury, death, or personal harm.\n   - Minimum coverage of $50 million per occurrence or as required by local labor laws.\n\n6. **Cargo and Baggage Liability Insurance**\n   - Required if the Aircraft is used for cargo operations.\n   - Covers loss, damage, or destruction of cargo transported on the Aircraft, with coverage limits consistent with the value of the cargo.\n   - Also extends to personal baggage of passengers, with minimum coverage limits of $1,500 per passenger.\n\n7. **Ground Risk Insurance**\n   - Covers the Aircraft when it is not in motion (e.g., hangar, storage).\n   - Protects against theft, fire, and natural disasters, providing coverage for full replacement value or repair costs if damaged while grounded.\n\n### Additional Provisions for Insurance Policies\n\nAll insurance policies must include specific provisions to protect the Lessor's interests, such as naming the Lessor as an additional insured and loss payee, including a non-cancellation clause, and a waiver of subrogation in favor of the Lessor. The Lessee is also responsible for providing proof of insurance and ensuring compliance with all requirements throughout the Lease Term.\n\nThis comprehensive insurance coverage is essential to mitigate risks associated with the operation and use of the Aircraft, ensuring both the Lessee and Lessor are adequately protected.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "List all type of insurance availble for the aircraft?"
+    },
+    "478455bce25be2ff42693da3976a7239": {
+      "return": "The lease term for the aircraft, as specified in the Aircraft Lease Agreement, is 60 months. This term commences on the Delivery Date, which is set for August 1, 2024. Therefore, the lease will run from August 1, 2024, until July 31, 2029, unless terminated earlier under the provisions outlined in the agreement. \n\nThis lease term is a standard duration for aircraft leases, allowing the lessee, Global Air Transport Inc., to utilize the aircraft for a significant period while ensuring that the lessor, SkyHigh Leasing Ltd., retains ownership and oversight of the asset.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the lease term for the aircraft?"
+    },
+    "7cccd9c66b12d1edf760a15bfc97f18e": {
+      "return": "The aircraft leased under this agreement is a **Boeing 737 MAX 8**. The specific details regarding the aircraft include its manufacturer's serial number, which is **12345**, and it is equipped with engines manufactured by **CFM International**, specifically the **LEAP-1B** model. \n\nThe agreement outlines that the aircraft will be delivered to the lessee, Global Air Transport Inc., on **August 1, 2024**, and the lease term will last for **60 months** from that date. The aircraft is intended for commercial passenger transport, and the lessee is responsible for its operational control and compliance with all applicable aviation regulations. \n\nIn summary, the leased aircraft is a **Boeing 737 MAX 8**, and it is part of a formal lease agreement between SkyHigh Leasing Ltd. and Global Air Transport Inc.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What type of aircraft is leased under this agreement?"
+    },
+    "b918634d36ce89509d32cf8bd2f4676b": {
+      "return": "The Lessee has several key obligations regarding the aircraft's insurance coverage, which are outlined in detail in the lease agreement. These obligations ensure that the aircraft is adequately protected against various risks and that the Lessor's interests are safeguarded.\n\n### Types of Insurance Required\n\n1. **Hull All-Risk Insurance**: The Lessee must maintain coverage that equals or exceeds the full replacement value of the aircraft. This insurance protects against physical loss or damage from all risks associated with flight and ground operations, including accidents, fire, theft, and vandalism. Claims proceeds must be payable to the Lessor as the loss payee.\n\n2. **Third-Party Liability Insurance**: The Lessee is required to have a minimum coverage limit of $500 million per occurrence. This insurance covers legal liabilities arising from bodily injury, death, or property damage to third parties due to the operation of the aircraft.\n\n3. **Passenger Liability Insurance**: The Lessee must provide coverage for bodily injury or death to passengers, with a minimum of $100,000 per passenger, or as required by applicable laws.\n\n4. **War Risk Insurance**: This insurance covers losses from war, terrorism, hijacking, and other related perils, with a minimum coverage limit of $100 million.\n\n5. **Crew Liability Insurance**: The Lessee must maintain coverage for claims made by crew members, with a minimum of $50 million per occurrence.\n\n6. **Cargo and Baggage Liability Insurance**: If the aircraft is used for cargo operations, the Lessee must have insurance covering loss or damage to cargo and personal baggage of passengers.\n\n7. **Ground Risk Insurance**: This insurance covers the aircraft when it is not in motion, protecting against theft, fire, and natural disasters.\n\n### Insurance Policy Provisions\n\nThe insurance policies must include specific provisions to protect the Lessor:\n\n- **Lessor as Additional Insured and Loss Payee**: The Lessor must be named as an additional insured and loss payee under all policies, ensuring that claims proceeds are payable directly to the Lessor or jointly to both parties.\n\n- **Non-Cancellation Clause**: Each policy must include a provision requiring a 30-day prior written notice to the Lessor before any cancellation or material change in coverage.\n\n- **Waiver of Subrogation**: All policies must include a waiver of subrogation in favor of the Lessor, preventing insurers from seeking reimbursement from the Lessor for any claims paid.\n\n- **Primary Insurance**: The policies must be primary and non-contributory, meaning they take precedence over any other insurance the Lessor may hold.\n\n### Proof of Insurance\n\nThe Lessee is obligated to provide the Lessor with certificates of insurance and other documentation confirming compliance with the insurance requirements. This includes:\n\n- Certificates of insurance confirming coverage types and amounts.\n- Policy endorsements that may affect the Lessor’s rights.\n- Renewal certificates to ensure no lapse in coverage.\n- Immediate notice of any claims or occurrences that may give rise to a claim.\n\n### Consequences of Non-Compliance\n\nIf the Lessee fails to maintain the required insurance coverage, the Lessor has the option to procure the necessary insurance on behalf of the Lessee and recover the costs as additional rent, or declare an event of default under the agreement. The Lessee must indemnify the Lessor for any losses incurred due to the failure to maintain insurance.\n\nIn summary, the Lessee's obligations regarding insurance coverage are comprehensive and designed to protect both the aircraft and the interests of the Lessor throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the lessee’s obligations regarding the aircraft’s insurance coverage?"
+    },
+    "6bdaca0e99db95293c25a93683b63865": {
+      "return": "### Consequences of Rent Payment Default by the Lessee\n\nIn the event that the Lessee fails to make a rent payment, several consequences are outlined in the lease agreement. The primary repercussions are categorized under \"Default Events,\" which include the following:\n\n1. **Failure to Pay Rent**: If the Lessee does not pay any rent, additional rent, or other amounts due under the agreement within 10 business days of the due date, this constitutes a default. This includes various payments such as Basic Rent, Maintenance Reserves, insurance premiums, and taxes.\n\n2. **Late Payment Penalties**: Should the Lessee fail to cure the payment default within the specified 10-day period, a late payment penalty of 2% of the overdue amount will be incurred for each day the payment remains unpaid beyond the due date.\n\n3. **Event of Default Declaration**: If the payment is not made within the 10-day cure period, the Lessor has the right to declare an event of default. This declaration allows the Lessor to exercise its remedies as specified in the lease agreement, which may include termination of the lease or other legal actions to recover the owed amounts.\n\n4. **Indemnification**: The Lessee may also be required to indemnify the Lessor for any costs, losses, or damages incurred as a result of the default, further complicating the financial implications of failing to make timely payments.\n\n5. **Potential Legal Action**: Continued failure to pay rent could lead to legal proceedings initiated by the Lessor to recover the owed amounts, which may include court costs and additional legal fees.\n\n### Summary\n\nIn summary, the consequences of failing to make a rent payment are significant and can lead to financial penalties, legal actions, and potential termination of the lease agreement. The Lessee is encouraged to adhere to the payment schedule to avoid these adverse outcomes.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": " What are the consequences if the lessee fails to make a rent payment?"
+    },
+    "d84f85d22d45d4f343a650b9e2f85dfd": {
+      "return": "The Lessee has several critical maintenance obligations during the lease term to ensure the Aircraft remains in an airworthy condition and compliant with all applicable regulations. These obligations are outlined in detail below:\n\n### Scheduled Maintenance\nThe Lessee is required to adhere to the Aircraft’s maintenance schedule as stipulated by the manufacturer. This includes performing routine and scheduled maintenance, repairs, and inspections, which encompass:\n\n- **A-checks, B-checks, C-checks, and D-checks**: These checks are essential for ensuring the Aircraft's operational safety and compliance with aviation standards.\n- **Engine Inspections**: This includes regular inspections and overhauls as dictated by the engine manufacturer’s maintenance program.\n- **Landing Gear Inspections**: The Lessee must ensure that landing gear is inspected, refurbished, or replaced as specified by the manufacturer or regulatory authorities.\n\n### Maintenance Records\nThe Lessee is responsible for maintaining accurate and up-to-date maintenance records, logs, and technical documents for the Aircraft. These records must include:\n\n- **Flight Logs**: Detailing all flight hours and cycles.\n- **Maintenance Logs**: Documenting all repairs, inspections, and modifications made to the Aircraft.\n- **Component Records**: Detailing the status and life-cycle of key components such as engines, landing gear, and avionics.\n\nThese records must be made available to the Lessor for inspection upon request, ensuring transparency and compliance with the lease agreement.\n\n### Compliance with Regulations\nThe Lessee must ensure that all repairs and maintenance activities are carried out by certified and approved maintenance organizations. Additionally, the Aircraft must be operated in accordance with any Airworthiness Directives (ADs), Service Bulletins (SBs), and Mandatory Modifications issued by the manufacturer or aviation authorities.\n\n### Financial Responsibility\nThe Lessee bears all costs associated with maintaining, repairing, and operating the Aircraft. This includes labor, parts, materials, and any regulatory fees that may arise during the lease term.\n\n### Summary\nIn summary, the Lessee's maintenance obligations are comprehensive and designed to ensure the Aircraft's safety, compliance, and operational efficiency. By adhering to these obligations, the Lessee not only fulfills contractual requirements but also contributes to the overall safety and reliability of the Aircraft throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What maintenance obligations does the lessee have during the lease term?"
+    },
+    "70bc0e0ab810996976e406c82ecd4750": {
+      "return": "The total insurance coverage required for third-party liability under the lease agreement is a minimum of **$500 million per occurrence**. This coverage is designed to protect against legal liabilities arising from bodily injury, death, or property damage caused to third parties in connection with the operation or use of the Aircraft. \n\nAdditionally, the policy must include coverage for liabilities that may arise from ground handling operations, passenger-related claims, and damage caused to airport property or other aircraft. This comprehensive coverage ensures that the Lessee is adequately protected against significant financial risks associated with third-party claims. \n\nIn summary, the Lessee must maintain third-party liability insurance with a minimum coverage limit of **$500 million per occurrence** to comply with the terms of the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the total insurance coverage required for third-party liability?"
+    },
+    "cffeb69247ab783dbe15f02869217895": {
+      "return": "In the event of a \"Total Loss\" of the aircraft, which is defined as the aircraft being destroyed, rendered permanently unfit for use, or when the cost of repair exceeds its market value, several key provisions come into play as outlined in the lease agreement.\n\n### Total Loss Declaration\nThe aircraft is considered a Total Loss under specific circumstances:\n- It is destroyed or damaged beyond economical repair.\n- It is permanently lost or cannot be recovered, such as in cases of hijacking or unlawful seizure.\n- It has been condemned as unfit for service by an aviation authority.\n\n### Assignment of Insurance Proceeds\nUpon a Total Loss, the Lessee is required to assign all rights to the insurance proceeds to the Lessor. This includes amounts payable under various insurance policies, such as Hull All-Risk Insurance and War Risk Insurance. The Lessee must:\n- Notify the insurance provider immediately about the Total Loss.\n- Ensure that all claims are submitted and processed promptly.\n- Cooperate fully with the Lessor and the insurers to facilitate the settlement of claims.\n\n### Use of Proceeds\nThe Lessor has sole discretion over how the insurance proceeds are utilized. This may include:\n- Settling any outstanding amounts owed by the Lessee under the lease agreement.\n- Utilizing the funds to repair or replace the aircraft, if feasible.\n- Retaining the proceeds in the event of termination of the lease.\n\n### Termination or Replacement Options\nUpon a Total Loss, the Lessor has the right to terminate the lease agreement with written notice to the Lessee. The Lessee must then return any records or documents related to the aircraft that were not destroyed and pay any outstanding amounts owed under the agreement.\n\nAlternatively, the Lessee may propose to replace the aircraft with a similar one of comparable value, age, and condition, subject to the Lessor’s approval. The replacement aircraft must meet specific criteria, including being in good working order and compliant with aviation regulations. All costs associated with the procurement and delivery of the replacement aircraft are the responsibility of the Lessee.\n\n### Restoration of the Aircraft\nIf the aircraft is not deemed a Total Loss but requires significant repairs, the Lessee may elect to restore it to its original condition, subject to the Lessor’s approval of the repair plan. The Lessee bears all costs associated with the restoration, and the aircraft must undergo thorough inspection and certification before being returned to service.\n\nIn summary, the provisions surrounding a Total Loss of the aircraft are comprehensive, ensuring that both the Lessor's interests are protected and that the Lessee is held accountable for their obligations under the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": " What happens in case of a \"Total Loss\" of the aircraft?"
+    },
+    "cf212fab0755db4df0667b30e898a163": {
+      "return": "The estimated annual insurance cost is not explicitly stated in the provided documents. However, we can infer some details regarding the types of insurance the Lessee is required to maintain for the Aircraft, which may help in estimating the overall insurance costs.\n\nThe Lessee must maintain several types of insurance, including:\n\n1. **Hull All-Risk Insurance**: Coverage must equal or exceed the full replacement value of the Aircraft, which is currently valued at $50,000,000.\n2. **Third-Party Liability Insurance**: The coverage limit must be no less than $500 million per occurrence.\n3. **Passenger Liability Insurance**: Minimum coverage of $100,000 per passenger.\n4. **War Risk Insurance**: Coverage limits must be no less than $100 million.\n5. **Crew Liability Insurance**: Coverage for any liability arising from claims made by or on behalf of crew members.\n\nWhile the specific premiums for these insurance types are not provided, the Lessee is responsible for maintaining these policies at their own expense, and they must be procured from insurance companies with a minimum A.M. Best rating of A- or equivalent.\n\nTo accurately determine the estimated annual insurance cost, one would typically need to consult with insurance providers for quotes based on the coverage requirements outlined in the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How much is the estimated annual insurance cost?"
+    },
+    "2ef3a15776e005280266826666852c0b": {
+      "return": "### Maintenance Reserve Payments for the Aircraft\n\nThe maintenance reserve payments for the aircraft are structured to cover various maintenance needs throughout the lease term. These payments are essential for ensuring that the aircraft remains in optimal condition and complies with all regulatory requirements. Below is a detailed breakdown of the maintenance reserve payments:\n\n1. **Scheduled Maintenance**: \n   - **Amount**: $35,000 per month\n   - **Frequency**: Monthly, paid alongside the Basic Rent.\n   - **Responsibility**: The Lessee is responsible for all costs related to routine scheduled maintenance, including inspections, repairs, and parts replacements.\n\n2. **Engine Overhaul Reserves**: \n   - **Amount**: $15,000 per engine per month\n   - **Frequency**: Monthly.\n   - **Purpose**: These payments are allocated to cover future costs associated with engine overhauls.\n\n3. **Airframe Heavy Maintenance Reserves**: \n   - **Amount**: $10,000 per month\n   - **Frequency**: Monthly.\n   - **Purpose**: This reserve is intended for costs related to major structural inspections and overhauls of the aircraft.\n\n4. **Landing Gear Overhaul Reserves**: \n   - **Amount**: $5,000 per month\n   - **Frequency**: Monthly.\n   - **Purpose**: This fund is specifically for landing gear overhauls.\n\n### Additional Considerations\n\n- **Unscheduled Maintenance**: Any unscheduled maintenance costs that arise due to wear and tear, defects, or operational incidents will be borne by the Lessee. The costs for these repairs can vary based on the nature of the repairs needed.\n  \n- **Return Condition Maintenance**: Upon the expiration or early termination of the lease, the Lessee is responsible for ensuring that the aircraft is returned in the condition specified in the lease agreement. This may involve additional maintenance costs, which will be billed after the return inspection.\n\nThese structured payments are crucial for maintaining the aircraft's airworthiness and ensuring compliance with aviation regulations throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": " What are the maintenance reserve payments for the aircraft?"
+    },
+    "a00994a9a631e1f0bd21e6986798843d": {
+      "return": "The late payment interest on overdue rent is set at 5% per annum on the overdue amount. This interest is calculated daily, meaning that for each day the payment remains unpaid beyond the due date, the Lessee will incur additional interest charges based on the outstanding amount. \n\nThis provision is designed to encourage timely payments and to compensate the Lessor for the delay in receiving the agreed-upon rent. It is important for the Lessee to be aware of this penalty to avoid incurring additional costs associated with late payments.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How much is the late payment interest on overdue rent?"
+    },
+    "abce688026343f463370a3465420e533": {
+      "return": "The next scheduled date for heavy maintenance on the aircraft is July 1, 2026. The estimated cost for this maintenance is $1,000,000. \n\nHeavy maintenance is typically performed every two years, ensuring that the aircraft remains in compliance with safety and operational standards. This type of maintenance is crucial for the longevity and airworthiness of the aircraft, addressing any significant repairs or overhauls that may be necessary.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "When is the next scheduled date for heavy maintenance, and what is its estimated cost?"
+    },
+    "9a29fbe42e1ea035fa6b28354d174936": {
+      "return": "The frequency of line maintenance for the aircraft is every 500 flight hours. The estimated cost for this maintenance is $25,000. \n\nLine maintenance is a crucial aspect of aircraft upkeep, ensuring that the aircraft remains in optimal operating condition between more extensive maintenance checks. Regular line maintenance helps to identify and address minor issues before they escalate into more significant problems, thereby enhancing safety and reliability during operations. \n\nIn summary, the aircraft requires line maintenance every 500 flight hours at a cost of $25,000, which is part of the overall maintenance strategy to ensure airworthiness and compliance with regulatory standards.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the frequency of line maintenance for the aircraft, and what is the estimated cost?"
+    },
+    "4019022be657a767c1d9914a02b98204": {
+      "return": "The aircraft's engine overhaul is required every 5,000 cycles. The estimated cost for this service is approximately $4,000,000. This maintenance is crucial to ensure the engine operates efficiently and safely throughout its operational life. Regular overhauls help in identifying potential issues before they lead to more significant problems, thereby enhancing the overall reliability of the aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How often is the aircraft’s engine overhaul required, and what is the estimated cost for this service?"
+    },
+    "c181f9f62ed434bc55f71a76c4421501": {
+      "return": "The avionics check for the aircraft is scheduled to occur annually. The estimated cost for this maintenance is $100,000. The next scheduled date for the avionics check is December 15, 2024. \n\nThis regular maintenance is crucial for ensuring that all avionics systems are functioning correctly and comply with safety regulations, thereby contributing to the overall airworthiness of the aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the scheduled frequency and cost of the avionics check?"
+    },
+    "6eefcb834552bcd102a433a4b76e1481": {
+      "return": "The estimated cost of the landing gear overhaul is **$750,000**. This maintenance task is required to be performed **every 7 years**. \n\nThis schedule is part of the overall maintenance plan for the aircraft, which includes various other maintenance activities with their respective frequencies and costs. Regular maintenance, including the landing gear overhaul, is crucial to ensure the aircraft remains airworthy and compliant with safety regulations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the estimated cost of the landing gear overhaul, and how frequently does it need to be performed?"
+    },
+    "c484e68dd27364cb39439746438e0f04": {
+      "return": "The documents provided do not specify an estimated cost or repair time for unscheduled maintenance related to minor engine damage. The costs for unscheduled maintenance are described as variable, based on actual repair costs incurred. Additionally, the documents do not provide specific timelines for repairs, indicating that the Lessee must promptly notify the Lessor of any significant issues affecting the airworthiness of the Aircraft.\n\nIn general, the cost and time for unscheduled maintenance can vary widely depending on the nature of the damage, the availability of parts, and the specific maintenance provider's rates. For minor engine damage, it is advisable to consult with a qualified maintenance provider to obtain a detailed estimate based on the specific circumstances.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "If unscheduled maintenance is required for minor engine damage, what is the estimated cost and repair time?"
+    },
+    "ca52cdcd67239355c7d4546f44592773": {
+      "return": "The estimated cost for unscheduled hydraulic issues with the landing gear is **$50,000**. The time required to repair these issues is approximately **1 week**. \n\nThis information is crucial for budgeting and planning maintenance activities, as unscheduled repairs can impact the operational availability of the aircraft. It is advisable for the Lessee to maintain a reserve fund to cover such unexpected maintenance costs to ensure smooth operations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the estimated cost and repair time for unscheduled hydraulic issues with the landing gear?"
+    },
+    "4cb2e9c6fbdf2a0c430a748867a3ce35": {
+      "return": "The sales tax rate on lease payments is 7% of the lease payments. This tax is paid monthly, specifically on the first business day of each month, as outlined in the lease agreement. The jurisdiction for this tax is the State of Texas, USA, and the estimated annual amount for this tax is approximately $210,000. \n\nThis structure ensures that the Lessee remains compliant with local tax regulations while managing their financial obligations related to the lease. Regular monthly payments help in maintaining a consistent cash flow for tax liabilities.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the sales tax rate on lease payments, and how often is it paid?"
+    },
+    "f7409508918b01d01a6f99b578a5c202": {
+      "return": "The property tax for the aircraft is due in Harris County, Texas, USA. The estimated annual amount for this property tax is $1,000,000.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "In which jurisdiction is the property tax for the aircraft due, and what is the estimated annual amount?"
+    },
+    "a0c658ec16e24e8a6245466174c3a854": {
+      "return": "The documents provided do not specify an estimated annual amount for international fees related to the operation of the Aircraft. However, they do outline that the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the Aircraft. This includes customs duties or import/export fees that may arise when the Aircraft is operated across international borders.\n\n### Application of Fees\n\n1. **Types of Fees**: The Lessee must cover various fees, including:\n   - Sales tax, use tax, and excise tax on lease payments.\n   - Airport landing fees, navigation charges, and airport parking fees.\n   - Customs duties or import/export fees when operating internationally.\n\n2. **Indemnification**: The Lessee agrees to indemnify and hold harmless the Lessor from any tax liabilities or penalties that may arise from the Lessee’s failure to comply with its tax obligations.\n\n3. **Payment Responsibility**: The Lessee is solely responsible for ensuring that all applicable fees are paid in a timely manner to avoid any legal or financial repercussions.\n\nIn summary, while the documents do not provide a specific estimated annual amount for international fees, they emphasize the Lessee's responsibility for various taxes and fees associated with the operation of the Aircraft, particularly when crossing international borders.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the estimated annual amount for international fees, and how are these fees applied?"
+    },
+    "94d53e63cf2168d6c506bb13390993eb": {
+      "return": "The responsibility for paying the tax liability on the sale or transfer of the aircraft lies with the Lessor. The tax rate for this liability is set at 10% of the aircraft's value. \n\nIn the context of the lease agreement, the Lessee is required to indemnify the Lessor for any tax liabilities not covered under the terms of the agreement. This includes the scenario of tax on the sale or transfer of the aircraft, where the Lessor pays the tax, and the Lessee indemnifies the Lessor for this amount. \n\nThis arrangement ensures that while the Lessor is responsible for the payment, the financial burden ultimately falls on the Lessee, as they are required to reimburse the Lessor for this tax liability.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is responsible for paying the tax liability on the sale or transfer of the aircraft, and what is the rate of this tax?"
+    },
+    "ce677d6a5f99a3db0c3cc275541003b8": {
+      "return": "In the context of international customs duties as outlined in the provided documents, the Lessee is responsible for covering the tax liability. The Lessee must pay these customs duties immediately upon incurring the liability. This obligation is part of the broader responsibilities that the Lessee has regarding taxes, duties, fees, and other charges imposed by governmental authorities in connection with the possession, use, or operation of the Aircraft.\n\n### Summary of Responsibilities\n\n- **Tax Liability**: The Lessee is responsible for international customs duties.\n- **Payment Timing**: Payment must be made immediately when the liability arises.\n\nThis clear delineation of responsibilities ensures that the Lessor is indemnified from any tax liabilities that may arise from the Lessee's operations, thereby protecting the Lessor's interests in the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "In the case of international customs duties, who is responsible for covering the tax liability, and when must it be paid?"
+    },
+    "f9238836df7de74e0dce82bec8888884": {
+      "return": "The penalty for late tax payments is set at 5% per month of the unpaid tax amount. This penalty is the responsibility of the Lessee, who must pay any penalties and interest that accrue due to late tax payments. \n\nIn summary, if the Lessee fails to make timely tax payments, they will incur a penalty of 5% for each month the tax remains unpaid, and it is their obligation to cover these penalties. This ensures that the Lessee remains accountable for their tax obligations throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the penalty for late tax payments, and who is responsible for covering it?"
+    },
+    "1b44484748813b9476e5552a62aa1193": {
+      "return": "The estimated annual sales tax amount for the lease payments is $210,000. This tax is applicable in the State of Texas, USA, where the sales tax rate is set at 7% on the lease payments. The Lessee is responsible for paying this tax on a monthly basis as part of their obligations under the lease agreement. \n\nThis information is crucial for budgeting and financial planning, as it highlights the additional costs associated with the lease beyond the basic rent. Understanding the tax obligations ensures compliance with local regulations and helps avoid potential penalties for late payments.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How much is the estimated annual sales tax amount for the lease payments, and in which jurisdiction is it applicable?"
+    },
+    "9d93359ba5644352d232465848854631": {
+      "return": "### Property Tax Payment Frequency and Rate\n\nThe property tax associated with the lease is paid **monthly** on the lease payments. The rate for this property tax is set at **2%**. \n\n### Summary\n\nIn summary, the Lessee is responsible for paying property tax at a rate of 2% on the lease payments, with payments made on a monthly basis. This structure ensures that the Lessee remains compliant with local tax obligations throughout the duration of the lease.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How often is the property tax paid, and what is its rate based on?"
+    },
+    "552fde4f7a286e7f3b6be9b3a653d158": {
+      "return": "In the event of a late tax payment, the Lessee incurs a penalty of **5% per month** on the unpaid tax. This penalty applies to any tax liabilities that are not paid by the due date, and the Lessee is responsible for paying both the penalties and any interest that may accrue as a result of the late payment. \n\nThis provision emphasizes the importance of timely tax payments to avoid additional financial burdens, ensuring that the Lessee remains compliant with their tax obligations throughout the lease term.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "In case of a late tax payment, what percentage penalty does the Lessee incur each month on the unpaid tax?"
+    },
+    "72ca57fc73ada18ac8143f3c9e267cec": {
+      "return": "In the lease agreement, the Lessee is responsible for indemnifying the Lessor for any tax liabilities not covered under the terms of the agreement. This includes various scenarios such as taxes on the sale or transfer of the Aircraft, international customs duties, and penalties for late tax payments. \n\n### Tax Indemnity Details\n\n1. **Tax on Sale or Transfer of Aircraft**: The Lessor is responsible for paying a 10% tax on the aircraft's value, but the Lessee must indemnify the Lessor for this amount.\n   \n2. **International Customs Duties**: The Lessee is responsible for paying any variable customs duties immediately.\n\n3. **Penalties for Late Tax Payments**: If there are penalties for late tax payments, the Lessee is liable for these, which include a 5% penalty per month on any unpaid tax.\n\nThis indemnification clause ensures that the Lessor is protected from any financial liabilities that may arise from the Lessee's actions or failures regarding tax obligations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who indemnifies the Lessor for tax liabilities not covered under the terms of the lease agreement?"
+    },
+    "4d977b2157a415bb181360bf0c867407": {
+      "return": "### Circumstances for Total Loss of the Aircraft\n\nThe aircraft will be deemed a Total Loss under specific conditions as outlined in the lease agreement. These conditions include:\n\n1. **Destruction or Damage Beyond Economical Repair**: If the aircraft is destroyed or sustains damage that is so severe that the cost of repair exceeds its market value, it will be classified as a Total Loss.\n\n2. **Permanent Loss or Inability to Recover**: The aircraft will be considered a Total Loss if it is permanently lost or cannot be recovered. This includes situations such as hijacking, unlawful seizure, or disappearance.\n\n3. **Condemnation by Regulatory Authorities**: If an aviation authority or relevant regulatory body condemns the aircraft as unfit for service, it will also be classified as a Total Loss.\n\n### Implications of Total Loss\n\nIn the event that the aircraft is declared a Total Loss, several actions are required:\n\n- **Assignment of Insurance Proceeds**: The Lessee must assign all rights to the insurance proceeds to the Lessor. This includes amounts payable under various insurance policies such as Hull All-Risk Insurance and War Risk Insurance.\n\n- **Notification and Cooperation**: The Lessee is required to notify the insurance provider immediately and ensure that all claims are submitted and processed in a timely manner. Full cooperation with the Lessor and insurers is also necessary to facilitate prompt settlement of claims.\n\n- **Use of Proceeds**: The Lessor has sole discretion over the use of the insurance proceeds, which may include settling any outstanding amounts owed by the Lessee or utilizing the funds to repair or replace the aircraft.\n\nThese provisions ensure that both parties are protected and that the financial implications of a Total Loss are clearly defined and managed.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances will the aircraft be deemed a Total Loss?"
+    },
+    "3a4d55b0dec91a0ea5cdb592b0328110": {
+      "return": "In the event of a Total Loss of the Aircraft, the responsibility for assigning insurance proceeds lies with the Lessee. Specifically, the Lessee is required to assign all rights to the insurance proceeds to the Lessor. This assignment includes any amounts payable under various insurance policies, which are crucial in the event of a Total Loss.\n\nThe insurance policies involved in this process include:\n\n1. **Hull All-Risk Insurance**: This policy covers physical loss or damage to the Aircraft from all risks associated with flight and ground operations. It is essential for protecting the Aircraft's value.\n\n2. **War Risk Insurance**: This policy provides coverage for losses arising from war, terrorism, hijacking, and other war-related perils. It is particularly important in scenarios where the Aircraft may be exposed to hostile actions.\n\n3. **Third-Party Liability Insurance**: While not directly related to the Total Loss of the Aircraft, this policy protects against legal liabilities arising from bodily injury or property damage caused to third parties during the operation of the Aircraft.\n\nIn the event of a Total Loss, the Lessee must notify the insurance provider immediately, ensure that all claims are submitted and processed in a timely manner, and cooperate fully with the Lessor and the insurers to facilitate the prompt settlement of claims. The Lessor retains sole discretion over the use of the insurance proceeds, which may include settling any outstanding amounts owed by the Lessee or utilizing the funds to repair or replace the Aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is responsible for assigning insurance proceeds in the event of a Total Loss, and what insurance policies are involved?"
+    },
+    "940c8f07a37fc59d10cd42ea1f1570fe": {
+      "return": "In the event of a Total Loss being declared for the Aircraft, the Lessee is required to undertake several immediate actions to ensure compliance with the lease agreement and facilitate the resolution of the situation. These steps are crucial for both the Lessee's obligations and the Lessor's interests. Below are the key actions the Lessee must take:\n\n### Immediate Notification\nThe Lessee must promptly notify the Lessor of the Total Loss. This notification should be made in writing and must occur as soon as the Total Loss is confirmed. The Lessee is also required to ensure that all claims related to the Total Loss are submitted and processed in a timely manner with the insurance provider.\n\n### Assignment of Insurance Proceeds\nUpon declaring a Total Loss, the Lessee must assign all rights to the insurance proceeds to the Lessor. This includes any amounts payable under various insurance policies such as Hull All-Risk Insurance and War Risk Insurance. The Lessee must cooperate fully with the Lessor and the insurers to facilitate the prompt settlement of claims.\n\n### Cooperation with Authorities\nIf the Total Loss involves any criminal activity, such as hijacking or unlawful seizure, the Lessee is obligated to fully cooperate with law enforcement and aviation authorities. This cooperation includes keeping the Lessor informed of all communications with these authorities.\n\n### Return of Records and Documents\nUpon termination of the lease agreement due to the Total Loss, the Lessee must return any records, documents, or parts related to the Aircraft that were not destroyed in the incident. This return must be done promptly to ensure that the Lessor can manage the situation effectively.\n\n### Payment of Outstanding Amounts\nThe Lessee is responsible for paying any outstanding amounts owed under the lease agreement, including Rent, Additional Rent, or other fees accrued up to the date of termination. This financial obligation must be settled to avoid further complications.\n\n### Summary\nThese steps are essential for the Lessee to fulfill their obligations under the lease agreement following a Total Loss. By promptly notifying the Lessor, assigning insurance proceeds, cooperating with authorities, returning relevant documents, and settling outstanding payments, the Lessee can ensure a smoother transition and resolution of the situation.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What steps must the Lessee take immediately after a Total Loss is declared?"
+    },
+    "4ddb9f898496dfbfc6f4939aaf600262": {
+      "return": "In the event of a Total Loss of the Aircraft, the Lessor has several options regarding the use of the insurance proceeds. These options are outlined in the lease agreement and include the following:\n\n### 1. Settlement of Outstanding Amounts\nThe Lessor may apply the insurance proceeds to settle any outstanding amounts owed by the Lessee under the lease agreement. This includes any unpaid rent, additional rent, or other fees that have accrued up to the date of the Total Loss.\n\n### 2. Repair or Replacement of the Aircraft\nThe Lessor has the discretion to utilize the insurance proceeds to repair or replace the Aircraft, if feasible. This means that if the Aircraft can be restored to operational status, the funds may be allocated towards the necessary repairs.\n\n### 3. Retention of Proceeds\nIn the event of termination of the lease due to a Total Loss, the Lessor may retain any remaining insurance proceeds after settling the Lessee’s obligations. This ensures that the Lessor is compensated for any losses incurred as a result of the Total Loss.\n\n### Conclusion\nOverall, the Lessor's options regarding the use of insurance proceeds are designed to protect their financial interests while also providing a framework for addressing the consequences of a Total Loss. The Lessor's ability to apply these proceeds towards outstanding debts, repairs, or retention ensures that they can manage the situation effectively and maintain their rights under the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What options does the Lessor have regarding the use of insurance proceeds in the event of a Total Loss?"
+    },
+    "44fd70c10da614591c8a5b97ae311972": {
+      "return": "In the event of a Total Loss of the Aircraft, the Agreement provides specific provisions regarding termination and the obligations of the Lessee. A Total Loss is defined as a situation where the Aircraft is destroyed, damaged beyond economical repair, permanently lost, or condemned as unfit for service by an aviation authority.\n\n### Termination of the Agreement\n\nUpon a Total Loss, the Lessor has the right to terminate the Agreement by providing written notice to the Lessee. Following termination, the Lessee is required to promptly return any records, documents, or parts related to the Aircraft that were not destroyed in the Casualty Occurrence. Additionally, the Lessee must settle any outstanding amounts owed under the Agreement, which includes Rent, Additional Rent, or other fees accrued up to the date of termination. Any remaining insurance proceeds, after the settlement of the Lessee’s obligations, will be retained by the Lessor.\n\n### Obligations of the Lessee\n\nIf the Agreement is terminated due to a Total Loss, the Lessee has several obligations:\n\n1. **Return of Records**: The Lessee must return all records and documents related to the Aircraft that were not destroyed in the incident.\n   \n2. **Settlement of Outstanding Amounts**: The Lessee is responsible for paying any outstanding amounts owed under the Agreement, including any accrued Rent and Additional Rent.\n\n3. **Insurance Proceeds**: The Lessee must ensure that any insurance proceeds are assigned to the Lessor, which may be used to settle any outstanding amounts owed by the Lessee or to repair or replace the Aircraft if feasible.\n\n4. **Cooperation with Insurance Claims**: The Lessee is obligated to notify the insurance provider immediately of the Total Loss and ensure that all claims are submitted and processed in a timely manner. They must also cooperate fully with the Lessor and the insurers to facilitate the prompt settlement of claims.\n\n5. **Assignment of Rights**: The Lessee must assign all claims, payments, and recovery rights to the Lessor, ensuring that the Lessor has control over the insurance proceeds.\n\nIn summary, the termination of the Agreement due to a Total Loss places significant responsibilities on the Lessee, including the return of records, settlement of outstanding debts, and cooperation with insurance processes. These obligations are crucial for ensuring a smooth transition and resolution following such an unfortunate event.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What happens to the Agreement in the event of a Total Loss, and what obligations does the Lessee have if the Agreement is terminated?"
+    },
+    "b4fdbc8d8d1b0dbf8b66ca0408546967": {
+      "return": "In the event of a Total Loss, the Lessor has sole discretion over the use of the insurance proceeds. This means that the Lessor can decide whether the proceeds will be applied to settle any outstanding amounts owed by the Lessee under the lease agreement, utilized to repair or replace the Aircraft if feasible, or retained in the event of termination of the lease.\n\nThe Lessee is required to notify the insurance provider immediately of the Total Loss and ensure that all claims are submitted and processed in a timely manner. Additionally, the Lessee must cooperate fully with the Lessor and the insurers to facilitate the prompt settlement of claims and assign all claims, payments, and recovery rights to the Lessor.\n\nThis structure ensures that the Lessor maintains control over the financial aspects related to the insurance proceeds, allowing them to make decisions that align with their interests and the terms of the lease agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "In the event of a Total Loss, who decides whether the insurance proceeds will be used to repair or replace the aircraft?"
+    },
+    "c90cc3848ac5bcad7c903a3ab2513b17": {
+      "return": "In the event that the aircraft is permanently lost or cannot be recovered, it is classified as a \"Total Loss.\" The following provisions apply:\n\n### Total Loss Declaration\nThe aircraft is deemed a Total Loss under several circumstances:\n- If it is destroyed or damaged beyond economical repair.\n- If it is permanently lost or cannot be recovered, such as in cases of hijacking or unlawful seizure.\n- If an aviation authority or relevant regulatory body condemns it as unfit for service.\n\n### Assignment of Insurance Proceeds\nUpon a Total Loss, the Lessee is required to assign all rights to the insurance proceeds to the Lessor. This includes amounts payable under various insurance policies, such as Hull All-Risk Insurance and War Risk Insurance. The Lessee must:\n- Notify the insurance provider immediately about the Total Loss.\n- Ensure that all claims are submitted and processed promptly.\n- Cooperate fully with the Lessor and the insurers to facilitate the settlement of claims.\n\n### Use of Proceeds\nThe Lessor has sole discretion over the use of the insurance proceeds, which may include:\n- Settling any outstanding amounts owed by the Lessee under the lease agreement.\n- Utilizing the funds to repair or replace the aircraft, if feasible.\n- Retaining the proceeds in the event of termination of the lease.\n\n### Termination or Replacement\nUpon a Total Loss, the Lessor has the right to terminate the lease agreement with written notice to the Lessee. The Lessee must return any records or documents related to the aircraft that were not destroyed in the incident and pay any outstanding amounts owed under the agreement.\n\nAlternatively, the Lessee may propose to replace the aircraft with a similar one of comparable value, age, and condition, subject to the Lessor’s approval. The replacement aircraft must meet specific criteria and be delivered within 90 days of the Total Loss occurrence.\n\nIn summary, if the aircraft is permanently lost or cannot be recovered, the Lessee must follow specific procedures regarding insurance claims and may face termination of the lease or the opportunity to replace the aircraft, depending on the Lessor's decision.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What happens if the aircraft is permanently lost or cannot be recovered?"
+    },
+    "052d6ddcc6ed129d17b260cc16554b47": {
+      "return": "In the event of a Total Loss and subsequent termination of the Agreement, the Lessee is required to return specific items as outlined in the document. Here are the key provisions regarding the return of items:\n\n### 1. **Insurance Proceeds Assignment**\nUpon a Total Loss, the Lessee must assign all rights to the insurance proceeds to the Lessor. This includes amounts payable under various insurance policies such as Hull All-Risk Insurance and War Risk Insurance. The Lessee is responsible for notifying the insurance provider immediately and ensuring that all claims are submitted and processed in a timely manner.\n\n### 2. **Documentation**\nThe Lessee must provide comprehensive documentation related to the Total Loss. This includes:\n- Initial notification to the insurance provider.\n- All claims and recovery rights assigned to the Lessor.\n- Cooperation with the Lessor and insurers to facilitate the prompt settlement of claims.\n\n### 3. **Use of Proceeds**\nThe Lessor has sole discretion over the use of the insurance proceeds, which may include:\n- Settling any outstanding amounts owed by the Lessee under the Agreement.\n- Repairing or replacing the Aircraft.\n\n### 4. **Obligations Following Total Loss**\nWhile the Aircraft itself may not be returned due to its Total Loss status, the Lessee must ensure that all necessary actions are taken to comply with the terms of the Agreement regarding the assignment of insurance proceeds and documentation.\n\n### Conclusion\nIn summary, after a Total Loss, the Lessee is primarily responsible for assigning insurance proceeds to the Lessor and providing all necessary documentation related to the loss. The physical return of the Aircraft is not applicable in this scenario, but the Lessee must fulfill their obligations regarding the insurance and any outstanding liabilities.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "If the Agreement is terminated after a Total Loss, what specific items must the Lessee return?"
+    },
+    "7432a59136b797d8be131337bd40543c": {
+      "return": "When the aircraft is returned, the engines must meet specific operational limits as outlined in the lease agreement. Each engine should have at least **1,500 flight hours** or **750 cycles** remaining before the next major overhaul is required. Additionally, the aircraft must be returned with no engine or Auxiliary Power Unit (APU) exceeding **10% of its allowable time between overhaul (TBO)**. This ensures that the engines are in good operating condition and do not require immediate major repairs.\n\nIn terms of documentation, the Lessee is required to provide complete maintenance records for the aircraft, engines, and components. This includes proof of compliance with all applicable airworthiness directives (ADs) and service bulletins (SBs) issued by the relevant aviation authorities. These records are crucial for verifying that all scheduled maintenance has been completed and that the aircraft is returned in an airworthy condition, free of any liens, and suitable for immediate commercial operation. \n\nOverall, the return conditions emphasize the importance of maintaining the aircraft and its components to ensure safety and compliance with aviation standards.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What condition must the engines meet when the aircraft is returned, and what records are required?"
+    },
+    "e608dde4187da5b9c34f6344d892963d": {
+      "return": "Upon the return of the aircraft, the airframe must meet specific conditions and documentation requirements as outlined in the lease agreement. \n\n### Airframe Condition at Return\n\n1. **Airworthy Condition**: The aircraft must be returned in an airworthy condition, free of any liens, and suitable for immediate commercial operation. This includes compliance with the standards set by the aviation authorities governing its operation.\n\n2. **Operational Limits**: The airframe should have less than 15,000 hours since the last heavy maintenance check. Additionally, each engine must have at least 1,500 flight hours or 750 cycles remaining before the next major overhaul is required, and the landing gear must have at least 1,000 cycles remaining before the next overhaul.\n\n3. **Interior Condition**: The interior of the aircraft must be in good condition, clean, and free from any damage beyond normal wear and tear. All components, such as seats, flooring, and lavatories, must be fully functional and meet commercial passenger standards.\n\n4. **Maintenance Compliance**: All scheduled maintenance due during the lease term must be completed before the aircraft is returned. There should be no overdue items or deferred maintenance tasks outstanding, and the aircraft must comply with all airworthiness directives (ADs) and service bulletins (SBs) issued by the relevant aviation authorities.\n\n### Required Documentation\n\n1. **Maintenance Records**: The Lessee must provide complete maintenance records for the aircraft, engines, and components. This includes proof of compliance with all applicable ADs and SBs.\n\n2. **Return Condition Documentation**: Any documentation that verifies the aircraft's condition and compliance with the return standards must be presented. This may include inspection reports and maintenance completion certificates.\n\n3. **Final Inspection Reports**: A comprehensive physical and records inspection will be conducted by the Lessor or an independent third-party inspector prior to acceptance of the returned aircraft.\n\nIn summary, the airframe must be in a well-maintained, airworthy condition with all necessary documentation to ensure compliance with the lease agreement's return conditions.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What condition must the airframe be in upon return of the aircraft, and what documentation is required?"
+    },
+    "cee5d59cc9b399d1a9907db41461d2a2": {
+      "return": "### Avionics Acceptability for Return\n\nFor the avionics of the Aircraft to be considered acceptable upon return, they must meet specific operational and compliance standards. The following conditions must be satisfied:\n\n1. **Operational Status**: All avionics systems must be fully operational. This means that they should function correctly without any defects that could impair their use in commercial operations.\n\n2. **Compliance with OEM Specifications**: The avionics must comply with the original equipment manufacturer’s (OEM) specifications. This ensures that the systems are up to the required standards for safety and performance.\n\n3. **Documentation of Maintenance**: The Lessee is required to provide complete maintenance records for the Aircraft, which includes documentation specifically related to the avionics systems. This documentation should demonstrate compliance with all applicable airworthiness directives (ADs) and service bulletins (SBs) issued by the relevant aviation authorities.\n\n### Necessary Documentation\n\nThe following documentation is necessary to validate the condition and compliance of the avionics at the time of return:\n\n- **Maintenance Records**: Detailed records showing all maintenance performed on the avionics systems during the lease term, including any repairs or replacements.\n\n- **Compliance Certificates**: Certificates or documentation that confirm the avionics meet all applicable airworthiness directives and service bulletins.\n\n- **Inspection Reports**: Any inspection reports conducted during the lease term that pertain to the avionics systems, demonstrating their operational status and compliance.\n\n- **Final Acceptance Documentation**: Upon return, the Lessee must provide all necessary documents for the transfer of operational control back to the Lessor, which includes the avionics compliance documentation.\n\nBy ensuring that these conditions and documentation requirements are met, the Lessee can facilitate a smooth return process for the Aircraft, particularly concerning the avionics systems.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is required for the avionics to be considered acceptable for return, and what documentation is necessary?"
+    },
+    "96a879853130d754ad9056f989365052": {
+      "return": "### Requirements for Aircraft Interior Upon Return\n\nWhen returning the aircraft, the Lessee must ensure that the interior meets specific conditions to comply with the return provisions outlined in the agreement. The interior of the aircraft must be in good condition, clean, and free from any damage beyond normal wear and tear. This includes ensuring that all components such as seats, flooring, lavatories, and other cabin elements are fully functional and meet commercial passenger standards.\n\n#### Specific Conditions Include:\n- **Operational Status**: All interior components must be operational and in compliance with the standards set by aviation authorities.\n- **Condition**: The interior should be free from significant damage, which includes issues like torn seats or broken panels.\n- **Repairs**: Any damage that exceeds normal wear and tear must be repaired at the Lessee's expense before the aircraft is returned.\n\n### Responsibility for Major Damage\n\nThe Lessee is responsible for any major damage to the aircraft's interior that occurs during the lease term. This responsibility includes ensuring that the aircraft is returned in the condition specified in the return conditions clause. If there is any damage beyond normal wear and tear, the Lessee must cover the costs of repairs prior to the return of the aircraft. \n\nIn summary, the Lessee must maintain the aircraft's interior in a condition suitable for immediate commercial operation and bear the costs for any necessary repairs due to major damage incurred during the lease period.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the requirements for the aircraft's interior upon return, and who is responsible for major damage?"
+    },
+    "29342512516921a3e3132d1a321a22ae": {
+      "return": "### Documentation Required for Aircraft Return\n\nWhen returning the aircraft, the Lessee must ensure that a comprehensive set of documentation is provided in both digital and hard copy formats. This documentation is crucial for verifying the aircraft's condition and compliance with the terms of the lease agreement. Below is a detailed list of the required documents:\n\n#### 1. **Aircraft Maintenance Records**\n   - Complete records detailing all maintenance performed on the aircraft, including scheduled and unscheduled maintenance.\n   - Documentation of compliance with all applicable Airworthiness Directives (ADs) and Service Bulletins (SBs).\n\n#### 2. **Certificates**\n   - All relevant certificates pertaining to the aircraft's airworthiness and operational status.\n\n#### 3. **Engineering Documentation**\n   - Technical documents that provide insights into the aircraft's design and operational specifications.\n\n#### 4. **Configuration Status**\n   - Documentation that outlines the current configuration of the aircraft, including any modifications made during the lease term.\n\n#### 5. **Historical Records**\n   - A complete history of the aircraft, including previous ownership, maintenance history, and any incidents or accidents.\n\n#### 6. **Engine Records**\n   - Detailed records for each engine, including maintenance history, performance data, and compliance with overhaul requirements.\n\n#### 7. **APU Records**\n   - Documentation related to the Auxiliary Power Unit, including maintenance and operational records.\n\n#### 8. **Aircraft Maintenance Status Summaries**\n   - Summaries that provide an overview of the aircraft's maintenance status at the time of return.\n\n#### 9. **Digital Formats**\n   - All documents must be provided in a digital format that is easily accessible and readable, such as PDF files or other commonly used formats.\n\n### Conclusion\n\nThe return of the aircraft must be accompanied by these essential documents to ensure compliance with the lease agreement and facilitate a smooth transition back to the Lessor. Both digital and hard copy formats are required to meet the documentation standards set forth in the agreement.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What documentation must be returned along with the aircraft in both digital and hard copy format?"
+    },
+    "d1240c48995b84279bbc9a61b3319ee1": {
+      "return": "To demonstrate that the aircraft is certified as airworthy, the specific original document that must be returned is the **Certificate of Airworthiness**. This document is essential as it confirms that the aircraft meets all applicable regulations and airworthiness standards set by the relevant aviation authorities, such as the European Union Aviation Safety Agency (EASA) and the Federal Aviation Administration (FAA). \n\nAdditionally, the Lessee is required to provide all relevant documentation, including maintenance logs, service bulletins, and inspection records, to support the airworthiness status of the aircraft upon its return. This comprehensive documentation ensures that the aircraft is in satisfactory condition for future operations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What specific original document must be returned to show that the aircraft is certified as airworthy?"
+    },
+    "f6681894cea46bb264e84ef615e948cd": {
+      "return": "To report on the aircraft's engine performance, the required document in digital format is the **Engine Records**. This document is essential for maintaining accurate and up-to-date information regarding the operational status and performance metrics of the aircraft's engines.\n\nRegarding the operational limits, the engines must cover **less than 1,000 cycles** at the time of delivery. This ensures that the engines are within acceptable usage parameters, contributing to the overall airworthiness and reliability of the aircraft. \n\nIn summary, the **Engine Records** document is crucial for engine performance reporting, and the engines should have fewer than **1,000 cycles** to meet the specified delivery conditions.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What document is required in digital format to report on the aircraft's engine performance, and how many cycles must it cover?"
+    },
+    "e390db9c3ece9081b44a2481713deb91": {
+      "return": "Upon returning the aircraft, the Lessee must provide complete maintenance records for the aircraft, engines, and components, which should include proof of compliance with all applicable Airworthiness Directives (ADs) and Service Bulletins (SBs). Additionally, the Lessee is required to deliver certificates of insurance evidencing compliance with the insurance requirements outlined in the lease agreement.\n\nThe certificates of insurance must be in a format that clearly demonstrates the following:\n\n1. **Coverage Types**: The insurance must cover Hull All-Risk, Hull War Risk, Third-Party Liability, and Passenger Liability, as specified in the lease agreement.\n2. **Limits of Liability**: The certificates should indicate that the coverage meets or exceeds the minimum limits required, such as $500 million for third-party liability and $100,000 per passenger for passenger liability.\n3. **Lessor as Additional Insured**: The certificates must name the Lessor as an additional insured and loss payee.\n4. **Insurance Carrier Rating**: The insurance must be issued by reputable insurance carriers with an A.M. Best rating of at least A- or equivalent.\n5. **Cancellation Notice**: There should be a provision requiring 30 days' prior written notice to the Lessor before any cancellation, material modification, or expiration of the policy.\n6. **Waiver of Subrogation**: The certificates must include a waiver of subrogation in favor of the Lessor.\n\nThese documents should be delivered on or before the commencement of the Lease Term and upon each renewal or replacement of the policies. This ensures that the Lessor is adequately protected and that all insurance obligations are met before the aircraft is returned.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What proof of insurance must the Lessee provide upon returning the aircraft, and in what format?"
+    },
+    "c71b1e0205228869b1190b7183f060a5": {
+      "return": "The responsibility for ensuring that the aircraft's avionics are fully functional and calibrated upon return lies with the Lessee. According to the Return Conditions outlined in the documents, the Aircraft must be returned in an airworthy condition, which includes all components, such as avionics, being operational and meeting the specifications set by the original equipment manufacturer (OEM). \n\nFurthermore, the Lessee is required to provide complete maintenance records for the Aircraft, including proof of compliance with all applicable airworthiness directives (ADs) and service bulletins (SBs). This implies that the Lessee must ensure that all systems, including avionics, are not only functional but also calibrated according to the necessary standards before the Aircraft is returned to the Lessor.\n\nIn summary, the Lessee bears the responsibility for the operational status and calibration of the avionics, ensuring compliance with the stipulated return conditions.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is responsible for ensuring that the aircraft’s avionics are fully functional and calibrated when returned?"
+    },
+    "4409cda16c617a54641be6133ae4d066": {
+      "return": "### Cure Period for Payment Default\n\nUnder the lease agreement, the cure period for a payment default is specified as **10 business days** from the date the payment is due. This applies to any failure by the Lessee to pay Rent, Additional Rent, or any other amounts required under the agreement, including Basic Rent, Maintenance Reserves, insurance premiums, and taxes.\n\n### Consequences of Failing to Cure the Default\n\nIf the Lessee fails to remedy the payment default within the 10-day cure period, the Lessor has the right to declare an event of default. This declaration allows the Lessor to exercise its remedies as outlined in the lease agreement. Additionally, the Lessee will incur a **late payment penalty** of **2% of the overdue amount for each day** the payment remains unpaid beyond the due date. This penalty serves as a financial incentive for the Lessee to address any payment issues promptly and underscores the importance of adhering to the payment schedule established in the lease agreement. \n\nIn summary, the lease agreement provides a clear framework for addressing payment defaults, emphasizing the need for timely payments and the potential consequences of non-compliance.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How long is the cure period for a payment default under the lease agreement, and what happens if the Lessee fails to cure the default within this period?"
+    },
+    "2be2eda860a0f71d6358a40e4d118bec": {
+      "return": "The Lessee incurs a late payment penalty of 2% of the overdue amount for each day the payment remains unpaid beyond the due date. This penalty applies in addition to the obligation for the Lessee to cure the payment default within a specified cure period of 10 business days. If the Lessee fails to remedy the payment default within this timeframe, the Lessor may declare an event of default and exercise its remedies as outlined in the agreement. \n\nThis structure emphasizes the importance of timely payments and the financial consequences of delays, ensuring that the Lessor is compensated for any late payments while providing the Lessee a brief opportunity to rectify the situation.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What penalty does the Lessee incur if a payment remains unpaid beyond the due date?"
+    },
+    "d294f0acf20a2d9afda03d585472d6e4": {
+      "return": "### Cure Period for Non-Payment Defaults\n\nIn the event of a non-payment default, the Lessee is granted a **30-day cure period** to remedy the breach. This means that if the Lessee fails to comply with any material term, covenant, or obligation under the lease agreement, they have a full month to correct the issue after being notified of the default.\n\n### Actions Required Within 10 Business Days\n\nIf the default pertains specifically to a failure to pay rent or any other amount due under the agreement, the Lessee has a shorter timeframe. They must cure the payment default within **10 business days** from the date the payment is due. This includes any amounts such as Basic Rent, Maintenance Reserves, insurance premiums, taxes, or other required payments.\n\nIf the Lessee fails to remedy the payment default within this 10-day period, the Lessor has the right to declare an event of default and may exercise its remedies as outlined in the lease agreement. Additionally, the Lessee will incur a late payment penalty of **2% of the overdue amount for each day** the payment remains unpaid beyond the due date. \n\nIn summary, the Lessee has a 30-day period for non-payment defaults and a strict 10-day period to address payment defaults, with specific penalties for non-compliance.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the cure period for non-payment defaults, and what must the Lessee do within 10 business days of receiving notice of the default?"
+    },
+    "f0a410d53cf294afb4edf8cfa3fc0c19": {
+      "return": "If the Lessee fails to remedy a non-payment default within the specified 30-day cure period, it constitutes an event of default under the lease agreement. This means that the Lessor has the right to declare an event of default and may exercise its remedies as outlined in the lease agreement.\n\n### Default Events\nThe lease agreement specifies several events that can trigger a default, including:\n- **Failure to Pay Rent**: If the Lessee does not pay any rent or additional amounts due within the designated time frame.\n- **Breach of Material Covenant**: This includes failing to comply with any significant term or obligation, such as maintenance or operational standards.\n- **Insolvency or Bankruptcy**: If the Lessee becomes unable to pay debts or files for bankruptcy.\n- **Misrepresentation**: If any material representation made by the Lessee is found to be untrue or misleading.\n\n### Consequences of Default\nOnce an event of default is declared, the Lessor may pursue various remedies, which could include:\n- **Termination of the Lease**: The Lessor may choose to terminate the lease agreement.\n- **Recovery of the Aircraft**: The Lessor may take possession of the Aircraft.\n- **Legal Action**: The Lessor may initiate legal proceedings to recover any amounts owed or to enforce the terms of the lease.\n\n### Importance of Compliance\nIt is crucial for the Lessee to address any non-payment defaults promptly within the 30-day period to avoid these serious consequences. The lease agreement emphasizes the importance of maintaining compliance with all terms to ensure the continued use of the Aircraft and to protect the Lessee's interests. \n\nIn summary, failing to remedy a non-payment default within the 30-day cure period can lead to significant repercussions, including the potential loss of the Aircraft and legal actions by the Lessor.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What happens if the Lessee cannot remedy a non-payment default within the 30-day cure period?"
+    },
+    "636724950367bd3cce4bdc6c1b0928e4": {
+      "return": "### Situations Without a Cure Period\n\nIn the context of the lease agreement, there are specific scenarios where no cure period is applicable, leading to immediate consequences for the Lessee. These situations include:\n\n1. **Failure to Pay Rent**: If the Lessee fails to pay any rent or additional amounts due under the agreement, the Lessor may declare an event of default immediately after the 10 business day grace period for payment defaults has expired. This includes all forms of payments such as Basic Rent, Maintenance Reserves, and insurance premiums.\n\n2. **Breach of Material Covenant**: Certain breaches, such as failing to maintain the Aircraft in compliance with applicable laws or unauthorized modifications, can lead to immediate default without a cure period. The Lessor can act upon these breaches without waiting for the Lessee to remedy the situation.\n\n3. **Insolvency or Bankruptcy**: If the Lessee becomes insolvent, files for bankruptcy, or is subjected to liquidation, these events trigger immediate default. There is no opportunity for the Lessee to cure these defaults, as they indicate a fundamental inability to meet obligations.\n\n4. **Misrepresentation**: If any material representation made by the Lessee is found to be untrue or misleading, and this is not corrected within 30 days of notice from the Lessor, it constitutes an immediate default.\n\n5. **Unauthorized Alterations or Transfers**: Any unauthorized modification, transfer, or sublease of the Aircraft without prior written consent from the Lessor results in immediate default.\n\n6. **Regulatory Violations**: If the Aircraft is grounded or detained due to regulatory violations, this also leads to immediate default.\n\n### Consequences of Immediate Default\n\nThe consequences of these immediate defaults can be significant for the Lessee:\n\n- **Termination of Lease**: The Lessor may terminate the lease agreement, which would require the Lessee to return the Aircraft immediately.\n  \n- **Financial Liabilities**: The Lessee may be liable for any costs, losses, or damages incurred by the Lessor as a result of the default. This includes potential penalties and the costs associated with recovering the Aircraft.\n\n- **Legal Action**: The Lessor may pursue legal action to recover any amounts owed or to enforce the terms of the lease agreement.\n\n- **Loss of Rights**: The Lessee may lose any rights to use the Aircraft, and the Lessor may take possession of the Aircraft without further notice.\n\nIn summary, certain breaches and defaults outlined in the lease agreement do not allow for a cure period, leading to immediate consequences that can severely impact the Lessee's rights and financial obligations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Are there any situations where no cure period is applicable, and what are the consequences?"
+    }
+  },
+  "local": {
+    "d0eb8788763404833101c307fde1ff7a": {
+      "return": "The names of the parties involved in the lease agreement are as follows:\n\n### Lessee\n- **Global Air Transport Inc.**: This organization is the party leasing the aircraft from the lessor. The lessee is responsible for the operational control, maintenance, and compliance with the terms of the lease agreement.\n\n### Lessor\n- **SkyHigh Leasing Ltd.**: This organization is the party providing the aircraft for lease. The lessor retains ownership of the aircraft and is responsible for ensuring that it meets the specified conditions before delivery to the lessee.\n\nThese two entities are bound by the terms outlined in the lease agreement, which governs their respective rights and obligations regarding the aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    },
+    "4359914a844dd815f1ea834e6e3053dc": {
+      "return": "The term \"MZFW\" stands for \"Maximum Zero Fuel Weight.\" It is a critical parameter in aviation that refers to the maximum weight of an aircraft when it is loaded with passengers, cargo, and fuel, but without any usable fuel in the tanks. This weight limit is essential for ensuring the structural integrity and safety of the aircraft during flight.\n\n### Importance of MZFW\n\n1. **Structural Integrity**: The MZFW is determined by the aircraft manufacturer and is based on the structural design of the aircraft. Exceeding this weight can lead to structural failure or damage during flight or while on the ground.\n\n2. **Operational Efficiency**: Adhering to the MZFW helps airlines optimize their operations. It ensures that the aircraft is loaded within safe limits, which can improve fuel efficiency and reduce operational costs.\n\n3. **Safety Regulations**: Aviation authorities enforce strict regulations regarding weight limits, including MZFW, to ensure the safety of passengers and crew. Compliance with these regulations is mandatory for all commercial flights.\n\n### Calculation of MZFW\n\nThe MZFW is calculated by considering the aircraft's empty weight, the weight of passengers, cargo, and any additional equipment. It is crucial for flight planning and load management to ensure that the aircraft remains within safe operational limits.\n\nIn summary, MZFW is a vital aspect of aircraft operations, impacting safety, efficiency, and regulatory compliance. Understanding and adhering to this weight limit is essential for all aviation professionals involved in flight operations and management.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the MZFW?"
+    },
+    "5975ea1af82d95eb8f4d48a6c294a4b0": {
+      "return": "I'm sorry, but the provided data tables do not contain information regarding the maximum takeoff weight of the aircraft. If you have access to specific aircraft specifications or manuals, such as the Aircraft's Operating Manuals or Technical Specifications, those documents would typically include such details. If you need assistance with anything else, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the maximum takeoff weight?"
+    }
+  },
+  "global": {
+    "60a840ff174ad1fb0123660b3f4dfdd0": {
+      "return": "The names of the lessee and lessor involved in the aircraft lease agreement are as follows:\n\n### Lessee\n- **Global Air Transport Inc.**: This organization is based in the United States and is responsible for leasing the aircraft from the lessor. The Chief Operating Officer of Global Air Transport Inc. is Jane Smith, who plays a significant role in managing the lease agreement.\n\n### Lessor\n- **SkyHigh Leasing Ltd.**: This company is based in Ireland and specializes in leasing aircraft. The Chief Executive Officer of SkyHigh Leasing Ltd. is John Doe, who oversees the leasing operations and agreements.\n\nThese two organizations are engaged in a contractual relationship defined by the Aircraft Lease Agreement, which outlines their respective roles and responsibilities regarding the leased aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    },
+    "1fdd4cc90fd932b4206b2c49f0eab362": {
+      "return": "I don't have information on the Maximum Zero Fuel Weight (MZFW) in the provided data tables. The MZFW is a critical parameter in aviation that refers to the maximum weight of an aircraft without any usable fuel. It is essential for ensuring the aircraft's structural integrity and performance during flight. If you need specific details about the MZFW for a particular aircraft model, such as the Boeing Voyager -737, I recommend consulting the aircraft's maintenance manual or specifications directly.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the MZFW?"
+    },
+    "365c736c2dea986246d9ed82b07f3cb3": {
+      "return": "I'm sorry, but the provided data does not include information regarding the maximum takeoff weight of the aircraft. If you have any other questions or need information on a different topic, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the maximum takeoff weight?"
+    }
+  },
+  "hybrid": {
+    "30064171d6da6a8f6d64d1d2a3a7f289": {
+      "return": "The names of the lessee and lessor involved in the aircraft lease agreement are as follows:\n\n### Lessee\n- **Global Air Transport Inc.**: This organization is based in the United States and is responsible for leasing the aircraft from the lessor. The Chief Operating Officer of Global Air Transport Inc. is Jane Smith, who plays a significant role in managing the lease agreement and the operations of the airline.\n\n### Lessor\n- **SkyHigh Leasing Ltd.**: This organization is based in Ireland and specializes in leasing aircraft. The Chief Executive Officer of SkyHigh Leasing Ltd. is John Doe, who oversees the leasing operations and agreements with lessees like Global Air Transport Inc.\n\nThese two entities are engaged in a contractual relationship defined by the Aircraft Lease Agreement, which outlines their respective roles and responsibilities regarding the leased aircraft.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the names of lessee and lessor?"
+    },
+    "15d5804cf9ae4ee4619d7bd837dd886a": {
+      "return": "I'm sorry, but the provided data does not contain any information regarding the Maximum Zero Fuel Weight (MZFW) or any related specifications for the aircraft. If you have any other questions or need information on a different topic, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the MZFW?"
+    },
+    "6c1ce69dc56eb27c218b7c1059c7760d": {
+      "return": "The provided data tables do not include specific information regarding the maximum takeoff weight of the Boeing Voyager -737 aircraft. This detail is typically found in the aircraft's technical specifications or maintenance manuals, which are not included in the available data.\n\nFor accurate information on the maximum takeoff weight, it is advisable to consult the aircraft's official documentation or the manufacturer's specifications. If you have access to the Aircraft Maintenance Manual (AMM) or other technical documents related to the Boeing Voyager -737, those would be the best sources for this information.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the maximum takeoff weight?"
+    }
+  }
+}

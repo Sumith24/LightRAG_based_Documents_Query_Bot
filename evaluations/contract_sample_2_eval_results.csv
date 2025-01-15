@@ -1,0 +1,1785 @@
+question,ground_truth,msgraphrag_evaluations,question_category,LightRAG_naive_response,similarity_scores,LightRAG_evaluation_result
+"What type of APU is installed on the aircraft, and does it have a serial number?","The APU installed on the aircraft is a AP-1000, and and the serial number is APU-54321.",No,Specific/Factual,"### Aircraft APU Information
+
+The aircraft is equipped with an Auxiliary Power Unit (APU) manufactured by TAE Aerospace. The specific type and model of the APU installed on the aircraft is the **AP-1000**. 
+
+Additionally, the APU has a serial number, which is **APU-54321**. This information is crucial for maintenance and operational records, ensuring that all components of the aircraft are properly documented and traceable. 
+
+If you have any further questions regarding the aircraft specifications or other components, feel free to ask!",tensor(0.9456),Yes
+what type of engines are on the aircraft?,"The aircraft is equipped with Pratt & Whitney PW1100G engines, with serial numbers 1234 and 5678.",No,Specific/Factual,"The aircraft, identified as a SkyLiner A350 with Manufacturer’s Serial Number 2098745 and Registration Number G12345, is equipped with two (2) Pratt & Whitney PW4000 engines. This information is specified in the Power of Attorney document related to the aircraft's deregistration process. 
+
+Additionally, in the Lease Supplement No. 1, it is mentioned that the aircraft is also equipped with two (2) Rolls-Royce Trent XWB engines. This indicates that there may be a distinction between the engines referenced in different documents, suggesting that the aircraft could potentially have been modified or that there are two different configurations being discussed. 
+
+In summary, the aircraft is associated with both Pratt & Whitney PW4000 engines and Rolls-Royce Trent XWB engines, depending on the context of the documentation.",tensor(0.9190),Yes
+What is the maximum takeoff weight?,"85,000 KGS",No,Numerical,"The maximum takeoff weight (MTOW) for the aircraft specified in the documents is **85,000 kilograms (KGS)**. This weight is crucial for ensuring that the aircraft operates within safe limits during takeoff, as exceeding this weight can compromise performance and safety. 
+
+In aviation, the MTOW is a critical parameter that affects various aspects of flight operations, including fuel capacity, payload, and overall aircraft performance. It is essential for pilots and operators to adhere to this limit to ensure compliance with safety regulations and operational efficiency.",tensor(0.8685),No
+which aircraft / contract is this for? give me summary information about the aircarft.,"The contract, titled ""contract sample-2.pdf,"" is for the lease of a SkyLiner A350 aircraft. The aircraft has a manufacturer's serial number of 2098745 and a registration number of G12345. The basic rent for the lease is $180,000 per month, and details regarding the delivery date and lease term are outlined in Sections 3 and 4 of the agreement.",No,Descriptive,"## Aircraft and Contract Summary
+
+### Contract Overview
+The contract in question is an **Aircraft Lease Agreement** made on **August 10, 2025**, between **AeroSky Rentals Ltd.** (the Lessor) and **BlueJet Airways Corp.** (the Lessee). The agreement pertains to the lease of a specific aircraft, which is detailed in the accompanying documentation.
+
+### Aircraft Specifications
+The aircraft being leased is a **SkyLiner A350** with the following specifications:
+
+- **Manufacturer's Serial Number**: 2098745
+- **Registration Number**: G12345
+- **Engines**: Equipped with two **Rolls-Royce Trent XWB** engines.
+
+#### Airframe Details
+- **Type and Model**: SkyLiner A350
+- **Maximum Take Off Weight (MTOW)**: 85,000 KGS
+- **Maximum Landing Weight (MLW)**: 70,500 KGS
+- **Maximum Zero Fuel Weight (MZFW)**: 66,500 KGS
+
+#### Engine Specifications
+- **Engine Manufacturer**: Rolls-Royce
+- **Type and Model**: Trent XWB
+- **Serial Numbers**: Specific serial numbers for the engines are not provided in the summary.
+
+### Additional Information
+The aircraft is to be delivered to the Lessee at **London Heathrow Airport** on **September 15, 2025**, and the lease term is set for **72 months**. The Lessee is responsible for maintaining the aircraft in accordance with the terms outlined in the lease agreement.
+
+This summary encapsulates the essential details regarding the aircraft involved in the lease agreement, providing a clear understanding of its specifications and contractual context.",tensor(0.9260),Yes
+Please create a table detailing the unscheduled maintenance costs for this aircraft. ,"Component Type of Repair Estimated Cost(USD) Time to Repair Engine Minor damage $120,000 3 weeks Landing Gear Hydraulic issues $60,000 2 week Avionics Communication fault $20,000 4 days",No,Tabular,"Certainly! Below is a table detailing the unscheduled maintenance costs for the aircraft:
+
+| **Component** | **Type of Repair**      | **Estimated Cost (USD)** | **Time to Repair** |
+|---------------|-------------------------|--------------------------|---------------------|
+| Engine        | Minor damage            | $120,000                 | 3 weeks             |
+| Landing Gear  | Hydraulic issues        | $60,000                  | 2 weeks             |
+| Avionics      | Communication fault     | $20,000                  | 4 days              |
+
+This table summarizes the costs associated with unscheduled maintenance, including the type of repair needed and the estimated time required for each repair.",tensor(0.9075),Yes
+Please list out the key terms of Rent,"1. Basic Rent: The Lessee shall pay a Basic Rent of $180,000 per month, payable in advance on the first business day of each month. 2. Additional Costs: Any costs arising from the Lessee’s use of the Aircraft, such asinsurance, taxes, or operational expenses, are summarized below: Category Cost Description Frequency Estimated Annual Amount (USD) Insurance Hull and liability coverage Annually $2,200,000 Maintenance Reserve Engine and airframe maintenance Monthly $40,000 Fuel Costs Based on flight hours and routes Per flight $450/hour Airport Fees Landing, parking, handling Per use $1,800 per landing Crew Costs Pilot and cabin crew salaries Monthly $90,000",No,Specific/Factual,"### Key Terms of Rent in the Aircraft Lease Agreement
+
+The Rent section of the Aircraft Lease Agreement outlines the financial obligations of the Lessee to the Lessor. Below are the key terms related to Rent:
+
+#### 1. Basic Rent
+- **Amount**: The Lessee is required to pay a Basic Rent of **$180,000 per month**.
+- **Payment Schedule**: This amount is payable in advance on the first business day of each month.
+
+#### 2. Additional Costs
+In addition to the Basic Rent, the Lessee is responsible for various additional costs associated with the operation of the Aircraft. These include:
+
+- **Insurance**: 
+  - **Coverage**: Hull and liability coverage.
+  - **Frequency**: Annually.
+  - **Estimated Annual Amount**: **$2,200,000**.
+
+- **Maintenance Reserve**: 
+  - **Purpose**: To cover engine and airframe maintenance.
+  - **Frequency**: Monthly.
+  - **Amount**: **$40,000**.
+
+- **Fuel Costs**: 
+  - **Basis**: Based on flight hours and routes.
+  - **Cost**: **$450 per hour**.
+
+- **Airport Fees**: 
+  - **Description**: Includes landing, parking, and handling fees.
+  - **Cost**: **$1,800 per landing**.
+
+- **Crew Costs**: 
+  - **Description**: Salaries for pilot and cabin crew.
+  - **Frequency**: Monthly.
+  - **Amount**: **$90,000**.
+
+#### 3. Late Payment Interest
+- **Penalty**: In the event of late payments, the Lessee must pay a **Late Payment Interest** of **6% per annum** on the overdue amount, calculated daily.
+
+### Summary
+The financial obligations under the Rent section of the Aircraft Lease Agreement are structured to ensure that the Lessor receives timely payments while also covering the operational costs incurred by the Lessee. The Basic Rent is a fixed monthly payment, while additional costs vary based on usage and operational needs. Late payment penalties are also stipulated to encourage timely compliance with payment obligations.",tensor(0.9475),Yes
+"what is the name of the lessor, lessee, and MSN number?","The name of the lessor is AeroSky Rentals Ltd., the lessee is BlueJet Airways Corp., and the manufacturer’s serial number (MSN) is 2098745.",No,Specific/Factual,"### Lessor, Lessee, and Aircraft Identification
+
+In the provided documents, the following details are specified regarding the lessor, lessee, and the aircraft:
+
+- **Lessor**: AeroSky Rentals Ltd.
+- **Lessee**: BlueJet Airways Corp.
+- **Manufacturer’s Serial Number (MSN)**: 2098745
+
+These entities are involved in an aircraft lease agreement dated August 10, 2025, concerning the SkyLiner A350 aircraft identified by the serial number mentioned above.",tensor(0.9635),Yes
+Is the rent fixed or floating and what are the amounts?,"The rent is fixed. The amounts are as follows:
+
+Basic Rent: $180,000 per month, payable in advance on the first business day of each month.
+Additionally, there are additional costs associated with the use of the aircraft:
+
+Category	Cost Description	Frequency	Estimated Annual Amount (USD)
+Insurance	Hull and liability coverage	Annually	$2,200,000
+Maintenance Reserve	Engine and airframe maintenance	Monthly	$40,000
+Fuel Costs	Based on flight hours and routes	Per flight	$450/hour
+Airport Fees	Landing, parking, handling	Per use	$1,800 per landing
+Crew Costs	Pilot and cabin crew salaries	Monthly	$90,000",No,Specific/Factual,"The rent for the aircraft lease is fixed. According to the lease agreement, the Basic Rent is set at **$180,000 per month**. In addition to the Basic Rent, the Lessee is also required to make **Maintenance Reserve Payments** of **$40,000 per month**. 
+
+This means that the total monthly payment the Lessee is obligated to pay to the Lessor amounts to **$220,000** when combining both the Basic Rent and the Maintenance Reserve Payments. The lease term is defined as lasting for **60 months**, commencing on **August 1, 2025**, and expiring on **August 1, 2030**. 
+
+Overall, the fixed nature of the rent provides clarity and predictability for the Lessee in terms of budgeting and financial planning throughout the lease term.",tensor(0.9367),Yes
+Can you please provide a summary table of the aircraft specifications. Include the aircraft type and other elements throughout the lease,"1. AIRFRAME
+Manufacturer: AirWorks Aviation
+Type and Model: AWX-900
+Serial Number: 98765
+Maximum Take Off Weight (MTOW): 85,000 KGS
+Maximum Landing Weight (MLW): 70,500 KGS
+Maximum Zero Fuel Weight (MZFW): 66,500 KGS
+2. ENGINES
+Engine Manufacturer: Pratt & Whitney
+Type and Model: PW1100G
+Serial Numbers: 1234 and 5678
+3. APU (Auxiliary Power Unit)
+Manufacturer: TAE Aerospace
+Type and Model: AP-1000
+Serial Number: APU-54321
+4. LANDING GEAR
+Manufacturer: Messier-Bugatti-Dowty
+Type and Model: Position P/N S/N
+? NLG (Nose Landing Gear): LG-98765-0001 | 15N12345
+? LH MLG (Left Hand Main Landing Gear): LG-87654-0001 | 15LH5432
+? RH MLG (Right Hand Main Landing Gear): LG-76543-0001 | 15RH6789
+5. AIRCRAFT DOCUMENTS
+A. Certificates
+B. Maintenance Manuals on Boeing Toolbox
+A2
+Classification: Controlled
+C. Airworthiness Directives(AD) Documentation
+D. Engineering Documentation
+E. Aircraft Maintenance Status Summaries
+F.AircraftMaintenance Records
+G. Configuration Status
+H. AircraftHistorical Records
+I. Engine Records
+J. APU Records
+",No,Tabular,"Certainly! Below is a summary table of the aircraft specifications along with key elements from the lease agreement.
+
+### Aircraft Specifications Summary
+
+| **Specification**                     | **Details**                          |
+|---------------------------------------|--------------------------------------|
+| **Aircraft Type and Model**           | AWX-900                              |
+| **Manufacturer**                      | AirWorks Aviation                    |
+| **Serial Number**                     | 98765                                |
+| **Maximum Take Off Weight (MTOW)**   | 85,000 KGS                           |
+| **Maximum Landing Weight (MLW)**      | 70,500 KGS                           |
+| **Maximum Zero Fuel Weight (MZFW)**   | 66,500 KGS                           |
+| **Engine Manufacturer**               | Pratt & Whitney                      |
+| **Engine Type and Model**            | PW1100G                              |
+| **Engine Serial Numbers**             | 1234 and 5678                       |
+| **APU Manufacturer**                  | TAE Aerospace                        |
+| **APU Type and Model**               | AP-1000                              |
+| **APU Serial Number**                 | APU-54321                            |
+| **Landing Gear Manufacturer**         | Messier-Bugatti-Dowty               |
+| **Nose Landing Gear P/N**            | LG-98765-0001                        |
+| **Nose Landing Gear S/N**            | 15N12345                             |
+| **Left Hand Main Landing Gear P/N**  | LG-87654-0001                        |
+| **Left Hand Main Landing Gear S/N**  | 15LH5432                             |
+| **Right Hand Main Landing Gear P/N** | LG-76543-0001                        |
+| **Right Hand Main Landing Gear S/N** | 15RH6789                             |
+
+### Lease Agreement Key Elements
+
+| **Element**                           | **Details**                          |
+|---------------------------------------|--------------------------------------|
+| **Lessor**                            | AeroSky Rentals Ltd.                 |
+| **Lessee**                            | BlueJet Airways Corp.                |
+| **Basic Rent**                        | $180,000 per month                   |
+| **Lease Term**                       | 60 months (5 years)                  |
+| **Security Deposit**                  | $600,000                             |
+| **Maintenance Reserve Payments**      | $40,000 per month                   |
+| **Delivery Date**                     | August 1, 2025                       |
+| **Return Condition**                  | Fully airworthy, meeting regulatory requirements |
+| **Insurance Coverage**                | Hull insurance up to $70,000,000; third-party liability of no less than $150,000,000 |
+| **Utilization Rate**                  | 5,000 flight hours or 2,500 cycles per year |
+
+This summary provides a concise overview of the aircraft specifications and key elements of the lease agreement, ensuring clarity on the essential details involved in the leasing arrangement.",tensor(0.8822),No
+What is the MZFW?,"Maximum Zero Fuel Weight (MZFW): 66,500 KGS",No,Numerical,"### Maximum Zero Fuel Weight (MZFW)
+
+The Maximum Zero Fuel Weight (MZFW) is a critical specification in aviation that refers to the maximum weight of an aircraft without any usable fuel. This weight includes the aircraft's structure, payload (passengers, cargo, and baggage), and any other items on board, but excludes the weight of the fuel. 
+
+In the context of the provided documents, the MZFW for the aircraft specified is **66,500 KGS**. This means that the total weight of the aircraft, including passengers and cargo, must not exceed this limit when the aircraft is not loaded with fuel. 
+
+### Importance of MZFW
+
+Understanding the MZFW is essential for flight planning and safety. Exceeding this weight can lead to structural issues and affect the aircraft's performance, including its ability to take off and land safely. Therefore, operators must ensure that the combined weight of the aircraft's contents does not surpass the MZFW to maintain compliance with safety regulations and operational guidelines. 
+
+In summary, the MZFW is a vital parameter that helps ensure the safe operation of the aircraft, and in this case, it is set at 66,500 KGS.",tensor(0.9644),Yes
+what is the date of the agreement?,"This Agreement is made on August 10, 2025",No,Specific/Factual,"The date of the Aircraft Lease Agreement between AeroSky Rentals Ltd. (Lessor) and BlueJet Airways Corp. (Lessee) is August 10, 2025. This date is consistent across multiple documents related to the lease, including the Certificate of Delivery Technical Acceptance and the Deregistration Power of Attorney. 
+
+The agreement outlines various terms and conditions regarding the lease of a SkyLiner A350 aircraft, including responsibilities for maintenance, return conditions, and the process for deregistration.",tensor(0.8315),No
+Is there any minimum insurance requirement or MIR?,"Yes, there are minimum insurance requirements (MIR) outlined in the operational insurance clause. The key requirements include:
+
+Hull All-Risk Insurance: Coverage for the full replacement value of the aircraft against physical loss or damage due to any cause.
+
+Hull War Risk Insurance: Coverage for loss or damage resulting from acts of war, terrorism, hijacking, or other hostile actions.
+
+Third-Party Liability Insurance: Minimum liability limits of $600 million per occurrence for bodily injury, death, and property damage to third parties, or higher amounts as mandated by applicable law or required by the lessor.
+
+Passenger Liability Insurance: Minimum coverage of $150,000 per passenger for bodily injury or death, or as stipulated by applicable law.",No,Specific/Factual,"### Minimum Insurance Requirements (MIR)
+
+Yes, there are specific minimum insurance requirements outlined for the Lessee in the context of operating the Aircraft. These requirements ensure that adequate coverage is maintained throughout the Lease Term. Below are the key types of insurance and their respective minimum coverage limits:
+
+1. **Hull All-Risk Insurance**:
+   - Coverage must equal or exceed the full replacement value of the Aircraft. This insurance protects against physical loss or damage from various risks, including accidents, fire, theft, and vandalism.
+
+2. **Third-Party Liability Insurance**:
+   - Minimum coverage limit of **$500 million** per occurrence. This insurance covers legal liabilities arising from bodily injury, death, or property damage caused to third parties during the operation of the Aircraft.
+
+3. **Passenger Liability Insurance**:
+   - Minimum coverage of **$100,000** per passenger, or as required by applicable law. This insurance covers bodily injury or death to passengers aboard the Aircraft.
+
+4. **War Risk Insurance**:
+   - Coverage for losses arising from war, terrorism, hijacking, and other war-related perils. The policy limits must be no less than **$100 million** or as specified by the Lessor.
+
+5. **Crew Liability Insurance**:
+   - Minimum coverage of **$50 million** per occurrence for claims made by or on behalf of crew members related to bodily injury or death.
+
+6. **Cargo and Baggage Liability Insurance**:
+   - Coverage for loss, damage, or destruction of cargo transported on the Aircraft, with minimum coverage limits of **$1,500** per passenger for personal baggage.
+
+7. **Ground Risk Insurance**:
+   - Coverage for the Aircraft when not in motion, including protection against theft, fire, and natural disasters, with coverage for full replacement value or repair costs.
+
+### Additional Provisions
+
+All insurance policies must also include several important provisions:
+- The Lessor must be named as an additional insured and loss payee.
+- A 30-day prior written notice is required for any cancellation or significant modification of the policy.
+- A waiver of subrogation in favor of the Lessor must be included, ensuring that insurers cannot seek reimbursement from the Lessor for any claims paid.
+
+These minimum insurance requirements are designed to protect both the Lessee and the Lessor, ensuring that adequate coverage is in place for various operational risks associated with aircraft operations.",tensor(0.9597),Yes
+Are there any Liens in this lease?,"Yes, there are provisions regarding liens in this lease:
+
+Lessee’s Obligation: The lessee is prohibited from creating, permitting, or suffering any liens, charges, or encumbrances on the aircraft, except for those resulting from routine maintenance or repairs, which must be promptly discharged.
+
+Lessor’s Rights: If a lien occurs, the lessor reserves the right to require the lessee to pay any necessary amounts to release such liens within 30 days.",Yes,Specific/Factual,"In the context of the Aircraft Lease Agreement, the provisions regarding liens are outlined in Section 14, which addresses the obligations of both the Lessee and the Lessor concerning liens on the Aircraft.
+
+### Lessee's Obligations
+The Lessee is explicitly prohibited from creating, permitting, or suffering any liens, charges, or encumbrances on the Aircraft, except for those that may arise from routine maintenance or repairs. In such cases, the Lessee is required to promptly discharge these liens. This means that the Lessee must ensure that no third-party claims or encumbrances are placed on the Aircraft that could affect the Lessor's ownership rights.
+
+### Lessor's Rights
+Should any lien arise, the Lessor reserves the right to require the Lessee to pay any necessary amounts to release such liens within a period of 30 days. This provision ensures that the Lessor can protect its interests in the Aircraft and maintain clear title.
+
+### Summary
+Overall, while the lease agreement does not indicate any existing liens at the time of signing, it establishes strict guidelines to prevent the creation of liens by the Lessee and outlines the Lessor's rights to address any potential liens that may arise during the lease term. The Lessee's obligation to maintain the Aircraft free of liens is a critical aspect of the agreement, ensuring the Lessor's ownership rights are safeguarded throughout the lease period.",tensor(0.9656),Yes
+what is the landing weight of the aircraft?,"Maximum Landing Weight (MLW): 70,500 KGS",No,Numerical,"The maximum landing weight (MLW) of the aircraft, specifically the SkyLiner A350, is 70,500 kilograms. This specification is crucial for ensuring that the aircraft operates within safe limits during landing, as exceeding this weight can compromise the aircraft's performance and safety. 
+
+In the context of aircraft operations, understanding the maximum landing weight is essential for flight planning, as it affects fuel load, passenger capacity, and overall operational efficiency. The MLW is determined by various factors, including structural integrity and regulatory requirements, ensuring that the aircraft can safely land without risking damage or safety hazards.",tensor(0.9516),Yes
+Can you summarize Exhibit D?,"Maintenance Payment Provisions
+Scheduled Maintenance
+Provision: The Lessee shall be responsible for all costs related to routine scheduled maintenance of
+the Aircraft during the Lease Term, including inspections, repairs, and replacements of parts.
+Payment Frequency: Monthly, along with Basic Rent.
+Amount: $45,000 per month as part of the Maintenance Reserve Payments.
+Unscheduled Maintenance
+Provision: The Lessee shall bear the costs for any unscheduled maintenance,repairs, or
+replacements that arise due to wear and tear, defects, or operational incidents. The Lessee shall
+promptly notify the Lessor of any significant issues that affect the airworthiness of the Aircraft.
+Payment Due: Within 30 days of invoice from the maintenance provider or upon reimbursement
+request by the Lessor.
+Amount: Variable, based on actual repair costs.
+Engine Overhaul Reserves
+Provision: The Lessee shall make monthly paymentsinto an Engine Overhaul Reserve fund to cover
+future costs of engine overhauls. The Lessor may draw from this reserve when major overhauls are
+required.
+Payment Frequency:Monthly.
+Amount: $15,000 per engine per month.
+Airframe Heavy Maintenance Reserves
+Provision: The Lessee shall contribute to an Airframe Heavy Maintenance Reserve to account for
+costs related to major structural inspections and overhauls.
+Payment Frequency:Monthly.
+Amount: $10,000 per month.
+Landing Gear Overhaul Reserves
+Provision: The Lessee shall be required to makemonthly paymentsto a reserve fund specifically for
+landing gear overhauls.
+Payment Frequency:Monthly.
+Amount: $5,000 per month.
+Return Condition Maintenance
+Provision: Upon the expiration or early termination of the Lease, the Lessee shall be responsible for
+ensuring that the Aircraft is returned to the Lessor in the condition outlined in the Return Condition
+clause, including performing any necessary maintenance.
+Payment Due: Prior to the return of the Aircraft, with any additional costs billed within 30 days after
+the return inspection.
+Amount: Variable, based on the actual costsincurred to meet return condition standards.
+D2
+Classification: Controlled
+Maintenance Audits
+Provision: The Lessor shall have the right to audit the Lessee’s maintenance operations and records
+at any time, to ensure compliance with this Agreement. If the Lessee is found non-compliant, the
+Lessor may demand immediate corrective actions and seek reimbursement for any associated costs.
+Payment Due: For costs arising from non-compliance, payment is due within 30 days of Lessor’s
+notice.
+Amount: Variable, based on the audit findings.
+Deferred Maintenance
+Provision: Any maintenance deferred by the Lessee beyond recommended timeframes must be
+approved by the Lessor. In the event of deferred maintenance, the Lessor may require additional
+payments or reservesto cover any increased risk or costs.
+Payment Due: Upon approval of deferred maintenance or as agreed in the deferral terms.
+Amount: Determined based on the deferral period and estimated impact.
+Maintenance Payment Adjustments
+Provision: The Lessor reserves the right to adjust maintenance reserve payments every 12 months
+based on actual maintenance costs and industry standard rates. The Lessee shall be notified of any
+adjustments at least 60 days prior to the change taking effect.
+Adjustment Rate: Not to exceed a 10% increase annually unless mutually agreed by both parties.
+Reimbursement for Maintenance
+Provision: If the Lessee performs any major maintenance or overhaul that falls under the Lessor's
+responsibility or if the Lessor agrees to cover certainmaintenance costs, the Lessee shall be
+reimbursed.
+Payment Due: Reimbursement will be made within 60 days of receipt of the invoice and supporting
+documentation.
+Amount: Variable, based on approved maintenance costs.
+",No,Descriptive,"### Summary of Exhibit D: Maintenance Payment Provisions
+
+Exhibit D outlines the responsibilities and financial obligations of the Lessee regarding the maintenance of the Aircraft during the Lease Term. The provisions are categorized into several key areas:
+
+#### Scheduled Maintenance
+The Lessee is responsible for all costs associated with routine scheduled maintenance, which includes inspections, repairs, and parts replacements. Payments for this maintenance are made monthly, amounting to **$45,000** as part of the Maintenance Reserve Payments.
+
+#### Unscheduled Maintenance
+For any unscheduled maintenance that arises due to wear and tear or operational incidents, the Lessee must cover the costs. The Lessee is required to notify the Lessor of significant issues affecting airworthiness promptly. Payment for these costs is due within **30 days** of receiving an invoice, and the amount varies based on actual repair costs.
+
+#### Engine Overhaul Reserves
+The Lessee must contribute **$15,000 per engine per month** into an Engine Overhaul Reserve fund to cover future engine overhaul costs. The Lessor can draw from this reserve when major overhauls are necessary.
+
+#### Airframe Heavy Maintenance Reserves
+A monthly payment of **$10,000** is required for an Airframe Heavy Maintenance Reserve, which accounts for costs related to major structural inspections and overhauls.
+
+#### Landing Gear Overhaul Reserves
+The Lessee is also required to make monthly payments of **$5,000** into a reserve fund specifically for landing gear overhauls.
+
+#### Return Condition Maintenance
+Upon the expiration or early termination of the Lease, the Lessee must ensure the Aircraft is returned in the condition specified in the Return Condition clause. Any necessary maintenance costs incurred to meet these standards will be billed within **30 days** after the return inspection.
+
+#### Maintenance Audits
+The Lessor reserves the right to audit the Lessee’s maintenance operations and records at any time. If non-compliance is found, the Lessee must take corrective actions and reimburse the Lessor for associated costs, which are due within **30 days** of notice.
+
+#### Deferred Maintenance
+Any maintenance deferred by the Lessee beyond recommended timeframes requires Lessor approval. Additional payments or reserves may be required to cover increased risks or costs associated with deferred maintenance.
+
+#### Maintenance Payment Adjustments
+The Lessor can adjust maintenance reserve payments annually based on actual costs and industry standards, with a maximum increase of **10%** unless mutually agreed otherwise.
+
+#### Reimbursement for Maintenance
+If the Lessee performs major maintenance that falls under the Lessor's responsibility, reimbursement will be made within **60 days** of receipt of the invoice and supporting documentation.
+
+### Conclusion
+Exhibit D establishes a comprehensive framework for maintenance responsibilities and financial obligations of the Lessee, ensuring that the Aircraft remains in airworthy condition throughout the Lease Term. The provisions emphasize the importance of timely payments and compliance with maintenance standards to avoid penalties and ensure operational readiness.",tensor(0.9747),Yes
+what is the MSN and lessee for this lease,"The manufacturer’s serial number (MSN) for this lease is 2098745, and the lessee is BlueJet Airways Corp.",No,Specific/Factual,"The Manufacturer's Serial Number (MSN) for the aircraft in this lease is **2098745**. The Lessee for this lease agreement is **BlueJet Airways Corp.**, a company organized and existing under the laws of the United Kingdom, with its principal office located at 321 Flightpath Avenue, London, England, UK. 
+
+This lease agreement is part of an Aircraft Lease Agreement made on August 10, 2025, between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee). The aircraft being leased is identified as the SkyLiner A350.",tensor(0.9535),Yes
+what jurisdictional law applies to this lease?,"The jurisdictional law that applies to this lease is the laws of the United Kingdom, without regard to its conflicts of law principles.",No,Specific/Factual,"The lease agreement specifies that it shall be governed by and construed in accordance with the laws of the United Kingdom. This is explicitly stated in the section regarding the governing law of the Power of Attorney, which is part of the overall lease agreement. 
+
+### Key Points:
+- **Governing Law**: United Kingdom
+- **Context**: This applies to the entire lease agreement, including the responsibilities and rights of both the Lessor and the Lessee.
+
+This jurisdictional choice indicates that any legal disputes arising from the lease will be subject to UK law, which is important for both parties to understand as it affects their legal rights and obligations under the agreement.",tensor(0.9141),Yes
+What are the rental details for this contract?,"SECTION 4: RENT
+1. Basic Rent: The Lessee shall pay a Basic Rent of $180,000 per month, payable in advance on
+the first business day of each month.
+2. Additional Costs: Any costs arising from the Lessee’s use of the Aircraft, such asinsurance,
+taxes, or operational expenses, are summarized below:
+Category Cost Description Frequency Estimated Annual
+Amount (USD)
+Insurance Hull and liability
+coverage
+Annually $2,200,000
+Maintenance
+Reserve
+Engine and airframe
+maintenance
+Monthly $40,000
+Fuel Costs Based on flight hours
+and routes
+Per flight $450/hour
+Airport Fees Landing, parking,
+handling
+Per use $1,800 per landing
+Crew Costs Pilot and cabin crew
+salaries
+Monthly $90,000
+",No,Specific/Factual,"### Rental Details of the Aircraft Lease Agreement
+
+The Aircraft Lease Agreement between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee) outlines specific rental terms that are crucial for both parties. Below are the key details regarding the rental aspects of the contract:
+
+#### Basic Rent
+- **Amount**: The Lessee is required to pay a Basic Rent of **$180,000 per month**. This payment is to be made in advance on the first business day of each month.
+
+#### Additional Costs
+In addition to the Basic Rent, the Lessee is responsible for several additional costs associated with the operation and maintenance of the Aircraft. These costs include:
+
+1. **Insurance**: The Lessee must maintain hull and liability coverage, estimated at **$2,200,000 annually**.
+2. **Maintenance Reserve**: A monthly payment of **$40,000** is required for engine and airframe maintenance.
+3. **Fuel Costs**: Fuel expenses are calculated based on flight hours and routes, estimated at **$450 per hour**.
+4. **Airport Fees**: Costs incurred for landing, parking, and handling are **$1,800 per landing**.
+5. **Crew Costs**: Monthly salaries for pilots and cabin crew amount to **$90,000**.
+
+#### Lease Term
+- The lease term is set for **72 months**, commencing on the **Delivery Date**, which is scheduled for **September 15, 2025**. This means the lease will continue until **September 15, 2031**, unless terminated earlier under the provisions outlined in the agreement.
+
+#### Payment Schedule
+- The Basic Rent and additional costs are structured to ensure that the Lessee is financially prepared for the ongoing expenses associated with the Aircraft's operation. Payments are to be made in a timely manner to avoid penalties.
+
+#### Late Payment Interest
+- In the event of late payments, the Lessee will incur a penalty interest of **6% per annum** on the overdue amount, calculated daily.
+
+### Conclusion
+The rental details of this Aircraft Lease Agreement are designed to ensure that both the Lessor and Lessee have a clear understanding of their financial obligations. The structured payment system, along with the additional costs, provides a comprehensive framework for the lease arrangement, ensuring that the Lessee is equipped to manage the operational and maintenance expenses associated with the Aircraft.",tensor(0.9210),Yes
+"
+Can you please provide a summary table of the aircraft specifications. Include the aircraft type and other elements throughout the lease","Here is a summary table of the aircraft specifications based on the provided lease information:
+
+Category	Specification
+Aircraft Type and Model	AWX-900
+Manufacturer	AirWorks Aviation
+Serial Number	98765
+Maximum Take Off Weight	85,000 KGS
+Maximum Landing Weight	70,500 KGS
+Maximum Zero Fuel Weight	66,500 KGS
+Engine Manufacturer	Pratt & Whitney
+Engine Type and Model	PW1100G
+Engine Serial Numbers	1234 and 5678
+APU Manufacturer	TAE Aerospace
+APU Type and Model	AP-1000
+APU Serial Number	APU-54321
+Landing Gear Manufacturer	Messier-Bugatti-Dowty
+Nose Landing Gear	LG-98765-0001
+Left Hand Main Landing Gear	LG-87654-0001
+Right Hand Main Landing Gear	LG-76543-0001",No,Tabular,"Certainly! Below is a summary table of the aircraft specifications along with key elements from the lease agreement.
+
+### Aircraft Specifications Summary
+
+| **Specification**                     | **Details**                          |
+|---------------------------------------|--------------------------------------|
+| **Aircraft Type and Model**           | AWX-900                              |
+| **Manufacturer**                      | AirWorks Aviation                    |
+| **Serial Number**                     | 98765                                |
+| **Maximum Take Off Weight (MTOW)**   | 85,000 KGS                           |
+| **Maximum Landing Weight (MLW)**      | 70,500 KGS                           |
+| **Maximum Zero Fuel Weight (MZFW)**   | 66,500 KGS                           |
+| **Engine Manufacturer**               | Pratt & Whitney                      |
+| **Engine Type and Model**             | PW1100G                              |
+| **Engine Serial Numbers**             | 1234 and 5678                       |
+| **APU Manufacturer**                  | TAE Aerospace                        |
+| **APU Type and Model**                | AP-1000                              |
+| **APU Serial Number**                 | APU-54321                            |
+| **Landing Gear Manufacturer**         | Messier-Bugatti-Dowty               |
+| **Nose Landing Gear P/N and S/N**    | LG-98765-0001 | 15N12345           |
+| **Left Hand Main Landing Gear P/N and S/N** | LG-87654-0001 | 15LH5432      |
+| **Right Hand Main Landing Gear P/N and S/N** | LG-76543-0001 | 15RH6789      |
+
+### Lease Agreement Key Elements
+
+| **Element**                           | **Details**                          |
+|---------------------------------------|--------------------------------------|
+| **Lessor**                            | AeroSky Rentals Ltd.                 |
+| **Lessee**                            | BlueJet Airways Corp.                |
+| **Basic Rent**                        | $180,000 per month                   |
+| **Lease Term**                       | 60 months (5 years)                  |
+| **Security Deposit**                  | $600,000                             |
+| **Maintenance Reserve Payments**      | $40,000 per month                    |
+| **Delivery Date**                     | August 1, 2025                       |
+| **Return Condition**                  | Fully airworthy, meeting regulatory requirements |
+| **Insurance Coverage**                | Hull insurance up to $70,000,000; third-party liability of no less than $150,000,000 |
+| **Utilization Rate**                  | 5,000 flight hours or 2,500 cycles per year |
+
+This summary provides a concise overview of the aircraft specifications and key elements of the lease agreement, ensuring clarity on the essential details involved in the leasing arrangement.",tensor(0.9231),Yes
+The SkyLiner A350 aircraft is from which contract?,The SkyLiner A350 aircraft is associated with the contract named contract sample-2.pdf.,No,Specific/Factual,"The SkyLiner A350 aircraft is part of the Aircraft Lease Agreement dated August 10, 2025, between AeroSky Rentals Ltd. (""Lessor"") and BlueJet Airways Corp. (""Lessee""). This agreement outlines the terms and conditions for the lease of the specific aircraft, which bears Manufacturer’s Serial Number 2098745 and Registration Number G12345. 
+
+### Key Details of the Contract
+
+1. **Aircraft Identification**: The aircraft is identified as a SkyLiner A350, equipped with two Rolls-Royce Trent XWB engines. It has been inspected and confirmed to be in airworthy condition as of the delivery date specified in the agreement.
+
+2. **Lease Supplement**: The contract includes a Lease Supplement No. 1, which modifies certain provisions of the original Lease Agreement. This supplement specifies additional terms, including a maintenance reserve payment and the lease term duration.
+
+3. **Lease Term**: The lease term for the SkyLiner A350 is set for 60 months, commencing on August 10, 2025, and concluding on August 10, 2029, with an option for a 12-month extension.
+
+This contract establishes the framework for the leasing arrangement, ensuring both parties are aware of their rights and obligations regarding the aircraft.",tensor(0.9288),Yes
+what is the MSN and registration numner of SkyLiner A350?,"The SkyLiner A350, having the manufacturer's serial number 2098745 and registration number G12345, as described in Exhibit A.",Yes,Specific/Factual,"The SkyLiner A350 has the following identification details:
+
+- **Manufacturer’s Serial Number (MSN):** 2098745
+- **Registration Number:** G12345
+
+These details are specified in the Power of Attorney and the Lease Agreement documents related to the aircraft.",tensor(0.9708),Yes
+What is the amount payable by the Lessee for the lease of the Aircraft?,"The amount payable by the Lessee for the lease of the Aircraft, calculated as $180,000 per month, as detailed in Section 4.",No,Numerical,"The amount payable by the Lessee for the lease of the Aircraft, referred to as ""Basic Rent,"" is $180,000 per month. This payment is to be made in advance on the first business day of each month throughout the Lease Term. 
+
+In addition to the Basic Rent, the Lessee is also responsible for various additional costs associated with the operation and maintenance of the Aircraft. These include insurance, maintenance reserves, fuel costs, airport fees, and crew costs, which contribute to the overall financial obligations of the Lessee during the lease period. 
+
+Overall, the lease agreement outlines a structured payment plan that ensures the Lessor receives timely compensation while also holding the Lessee accountable for the operational costs associated with the Aircraft.",tensor(0.9646),Yes
+How much is the lease payment for the Aircraft per month?,"The amount payable by the Lessee for the lease of the Aircraft, calculated as $180,000 per month, as detailed in Section 4.",No,Numerical,"The lease payment for the Aircraft, referred to as ""Basic Rent,"" is set at **$180,000 per month**. This amount is payable in advance on the first business day of each month, as detailed in Section 4 of the Aircraft Lease Agreement. 
+
+In addition to the Basic Rent, the Lessee is responsible for various additional costs associated with the use of the Aircraft, which include maintenance reserves, insurance, fuel costs, airport fees, and crew costs. For instance, the estimated annual cost for insurance is approximately **$2,200,000**, and the monthly maintenance reserve is **$40,000**. These additional costs can significantly impact the overall financial commitment of the Lessee beyond the Basic Rent. 
+
+Overall, while the Basic Rent is a fixed monthly payment, the total monthly expenditure for the Lessee will be higher when accounting for these additional operational costs.",tensor(0.9543),Yes
+In which section is the lease amount detailed?,"The amount payable by the Lessee for the lease of the Aircraft, calculated as $180,000 per month, as detailed in Section 4.",No,Specific/Factual,"The lease amount is detailed in **Section 4: Rent** of the Aircraft Lease Agreement. This section specifies the Basic Rent that the Lessee is required to pay for the lease of the Aircraft, which is calculated as $180,000 per month. Additionally, it outlines any additional costs associated with the Lessee's use of the Aircraft, such as maintenance reserve payments and other operational expenses. 
+
+This section is crucial as it provides clarity on the financial obligations of the Lessee throughout the lease term.",tensor(0.9693),Yes
+What is the Delivery Date for the Aircraft?,"Delivery: The Aircraftshall be delivered by the Lessor at London Heathrow Airport on September 15, 2025.",No,Specific/Factual,"The Delivery Date for the Aircraft, specifically the SkyLiner A350 bearing Manufacturer’s Serial Number 2098745 and Registration Number G12345, is set for **August 10, 2025**. This date is specified in the various documents related to the Aircraft Lease Agreement and is crucial for both the Lessor and Lessee in terms of operational planning and compliance with the lease terms.
+
+Additionally, the delivery will take place at **Shannon Airport, Ireland**, unless a different location is mutually agreed upon by both parties. It is important to note that any delays caused by the Lessor in delivering the Aircraft may result in penalties, including rent credits or an extension of the Lease Term, ensuring that both parties are protected in the event of unforeseen circumstances.",tensor(0.8803),No
+When is the Aircraft delivered to the Lessee?,"Delivery: The Aircraftshall be delivered by the Lessor at London Heathrow Airport on September 15, 2025.",No,Specific/Factual,"The Aircraft, a SkyLiner A350 with Manufacturer’s Serial Number 2098745 and Registration Number G12345, is scheduled to be delivered to the Lessee, BlueJet Airways Corp., on September 15, 2025. This delivery date is specified in Section 3 of the Aircraft Lease Agreement, which outlines the terms of delivery and acceptance.
+
+Upon delivery, the Lessee is required to inspect the Aircraft and sign the Certificate of Delivery Technical Acceptance to confirm that the Aircraft meets the agreed specifications and is in airworthy condition. The Lease Term will commence on the same date, September 15, 2025, and will continue for a duration of 72 months, unless terminated earlier as per the provisions of the Agreement. 
+
+This structured approach ensures that both parties are aligned on the expectations regarding the Aircraft's condition and the timeline for its use.",tensor(0.9115),Yes
+In which section is the Delivery Date described?,"Delivery Date: The date on which the Aircraft is delivered to and accepted by the Lessee, as described in Section 3.",No,Specific/Factual,"The Delivery Date is described in the **Delivery Date** section of the documents. Here are the key details from that section:
+
+- **Provision**: The Delivery Date is set for **August 10, 2025**, unless otherwise mutually agreed in writing.
+- **Delays**: Any delays caused by the Lessor in delivering the Aircraft may result in penalties, which could include rent credits or an extension of the Lease Term.
+- **Location**: The Aircraft is to be delivered at **Shannon Airport, Ireland**, unless a different delivery location is agreed upon by both parties.
+
+This section outlines the expectations and conditions surrounding the delivery of the Aircraft, ensuring both parties are aware of the timeline and potential consequences of delays.",tensor(0.8979),No
+What is the term of the lease for the Aircraft?,Term of Lease: The Lease Term shall be 72 months commencing on the Delivery Date,No,Numerical,"The term of the lease for the Aircraft, as specified in the Aircraft Lease Agreement, is 72 months. This lease term will commence on the Delivery Date, which is set for September 15, 2025. Therefore, the lease will run from September 15, 2025, until September 14, 2031, unless terminated earlier under the provisions outlined in the agreement.
+
+The lease agreement also includes conditions that must be fulfilled before the lease commences, as detailed in Section 3 of the document. These conditions ensure that both parties are in agreement regarding the state and readiness of the Aircraft prior to the start of the lease term. 
+
+In summary, the lease term is clearly defined as 72 months, starting from the specified delivery date, providing a structured timeline for both the Lessor and the Lessee.",tensor(0.9246),Yes
+How long is the Lease Term?,Term of Lease: The Lease Term shall be 72 months commencing on the Delivery Date,No,Numerical,"The Lease Term for the Aircraft Lease Agreement between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee) is specified to be 72 months. This term commences on the Delivery Date, which is set for September 15, 2025. Therefore, the lease will run for a total of six years from that date, concluding on September 15, 2031, unless terminated earlier under the provisions outlined in Section 17 of the agreement. 
+
+This duration is significant as it establishes the timeframe within which the Lessee is entitled to use the aircraft, subject to the terms and conditions set forth in the agreement. The structured timeline also allows both parties to plan for their respective obligations and rights concerning the aircraft during the lease period.",tensor(0.8883),No
+When does the Lease Term commence?,"Term of Lease: The Lease Term shall be 72 months commencing on the Delivery Date. Delivery Date
+Definition: “Delivery Date” refersto the date on which the Aircraft is physically delivered to the
+Lessee by the Lessor and all delivery conditions are satisfied.
+Value: Expected delivery on August 1, 2025.",No,Specific/Factual,"The Lease Term for the Aircraft Lease Agreement between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee) commences on **September 15, 2025**. This date marks the Delivery Date when the Aircraft is delivered to and accepted by the Lessee. The Lease Term is specified to last for a total of **72 months** from this commencement date, subject to any early termination provisions outlined in the agreement. 
+
+In summary, the key details regarding the Lease Term are as follows:
+
+- **Commencement Date**: September 15, 2025
+- **Duration**: 72 months
+
+This structure ensures that both parties are clear on the timeline and obligations associated with the lease of the aircraft.",tensor(0.9407),Yes
+Where will the Aircraft be delivered?,The Aircraftshall be delivered by the Lessor at London Heathrow Airport,No,Specific/Factual,"### Delivery Location of the Aircraft
+
+The Aircraft, specifically a SkyLiner A350, will be delivered at **Shannon Airport, Ireland**. This location has been specified in the delivery conditions outlined in the lease agreement. 
+
+### Additional Delivery Conditions
+
+At the time of delivery, the Aircraft must meet certain conditions to ensure it is airworthy and fully equipped. This includes compliance with all necessary airworthiness directives and service bulletins, as well as being free from any defects that would impair its use for commercial operations. The Lessor is also required to provide all necessary documentation, including the Certificate of Airworthiness and Maintenance Records, to the Lessee upon delivery. 
+
+This structured approach ensures that the Aircraft is ready for operational use immediately after delivery, aligning with the expectations set forth in the lease agreement.",tensor(0.8747),No
+What must the Lessee do after receiving the Aircraft?,Acceptance: The Lessee shall inspect the Aircraft and sign the Certificate of Delivery Technical Acceptance (Exhibit D).,No,Procedural,"After receiving the Aircraft, the Lessee has several responsibilities and obligations as outlined in the Aircraft Lease Agreement. These responsibilities ensure the proper use, maintenance, and compliance with legal requirements throughout the Lease Term. Below are the key actions the Lessee must undertake:
+
+### 1. **Take Possession and Responsibility**
+The Lessee must take possession of the Aircraft on the Delivery Date, which is specified as September 15, 2025. From this date onward, the Lessee is responsible for the Aircraft's condition and must ensure it is maintained in an airworthy state.
+
+### 2. **Utilize the Aircraft Appropriately**
+The Lessee is required to use the Aircraft exclusively for commercial charter services. This usage must comply with all relevant laws, regulations, and aviation safety standards applicable in each jurisdiction where the Aircraft operates. 
+
+### 3. **Maintain Operational Control**
+The Lessee retains complete operational control over the Aircraft, which includes the selection and management of pilots, crew, and passengers. This responsibility emphasizes the need for the Lessee to ensure that all personnel involved are qualified and licensed as per aviation authority requirements.
+
+### 4. **Keep Comprehensive Records**
+The Lessee must maintain detailed flight logs, maintenance records, and technical documentation as mandated by aviation authorities. These records should be made available to the Lessor for inspection upon request. Regular reports on the Aircraft's usage, including flight hours and any significant incidents, must be submitted quarterly.
+
+### 5. **Ensure Compliance with Laws**
+Throughout the Lease Term, the Lessee must adhere to all applicable local, national, and international laws governing the operation, use, registration, and maintenance of the Aircraft. This includes securing all necessary licenses, permits, and certifications.
+
+### 6. **Conduct Maintenance**
+The Lessee is responsible for ensuring that the Aircraft is maintained according to the manufacturer's standards and applicable aviation authority regulations. This includes performing routine and scheduled maintenance, inspections, and repairs, and ensuring that all maintenance is conducted by certified organizations.
+
+### 7. **Procure Insurance**
+The Lessee must procure and maintain comprehensive aviation insurance coverage throughout the Lease Term. This insurance should cover hull all-risk, hull war risk, third-party liability, and passenger liability, with specific minimum coverage amounts as stipulated in the agreement.
+
+### 8. **Indemnification Obligations**
+The Lessee agrees to indemnify and hold the Lessor harmless from any claims, liabilities, losses, or damages arising from the Lessee’s use, possession, or operation of the Aircraft, except in cases of the Lessor’s gross negligence or willful misconduct.
+
+### Conclusion
+In summary, the Lessee's responsibilities after receiving the Aircraft encompass a wide range of operational, legal, and maintenance obligations. These duties are crucial for ensuring the safe and compliant operation of the Aircraft throughout the Lease Term, as well as protecting the interests of both the Lessee and the Lessor.",tensor(0.8921),No
+When does the Lease Term commence?,"The Lease Term shall commence on September 15, 2025",No,Specific/Factual,"The Lease Term for the Aircraft Lease Agreement between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee) commences on **September 15, 2025**. This date marks the Delivery Date when the Aircraft is delivered to and accepted by the Lessee. The Lease Term is specified to last for a total of **72 months** from this commencement date, subject to any early termination provisions outlined in the agreement. 
+
+In summary, the key details regarding the Lease Term are as follows:
+
+- **Commencement Date**: September 15, 2025
+- **Duration**: 72 months
+
+This structure ensures that both parties are clear on the timeline and obligations associated with the lease of the aircraft.",tensor(0.8848),No
+How long will the Lease Term last?,"The Lease Term shall commence on September 15, 2025, and continue for 72 months",No,Numerical,"The Lease Term for the Aircraft Lease Agreement between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee) will last for a total of **72 months**. This term will commence on the **Delivery Date**, which is set for **September 15, 2025**. Therefore, the lease will extend until **September 15, 2031**, unless terminated earlier under the provisions outlined in Section 17 of the Agreement.
+
+The Lease Term is a critical aspect of the agreement, as it defines the duration during which the Lessee has the right to use the aircraft, specifically the SkyLiner A350, as detailed in the contract. The terms and conditions governing the lease, including payment obligations and maintenance responsibilities, are applicable throughout this period.",tensor(0.8763),No
+What is the Basic Rent that the Lessee shall pay per month?,"The Lessee shall pay a Basic Rent of $180,000 per month, payable in advance on the first business day of each month.",No,Numerical,"The Basic Rent that the Lessee, BlueJet Airways Corp., shall pay for the lease of the Aircraft is $180,000 per month. This amount is payable in advance on the first business day of each month, as specified in the lease agreement. 
+
+This fixed monthly payment is part of the overall financial obligations outlined in the lease, which also includes additional costs such as maintenance reserve payments and insurance. The Basic Rent is a crucial component of the lease agreement, ensuring that the Lessor, AeroSky Rentals Ltd., receives consistent revenue throughout the lease term. 
+
+In summary, the Lessee is committed to a monthly payment of $180,000 as part of their lease obligations for the Aircraft.",tensor(0.9023),Yes
+When is the Basic Rent payable?,"The Lessee shall pay a Basic Rent of $180,000 per month, payable in advance on the first business day of each month.",No,Specific/Factual,"The Basic Rent for the lease of the Aircraft is payable in advance on the first business day of each month. The amount specified for the Basic Rent is $180,000 per month. This payment structure ensures that the Lessee fulfills its financial obligations to the Lessor at the beginning of each month, allowing for a consistent cash flow for the Lessor throughout the Lease Term. 
+
+In addition to the Basic Rent, the Lessee is also responsible for other costs associated with the use of the Aircraft, such as maintenance reserves, insurance, and operational expenses, which are incurred on a different schedule. This comprehensive payment structure is designed to cover all aspects of the lease agreement, ensuring that both parties are clear on their financial responsibilities. 
+
+Overall, the timely payment of Basic Rent is crucial for maintaining the lease agreement and avoiding any potential default events as outlined in the lease terms.",tensor(0.9301),Yes
+What costs are considered additional costs for the Lessee's use of the Aircraft?,"Additional Costs: Any costs arising from the Lessee’s use of the Aircraft, such asinsurance,
+taxes, or operational expenses, are summarized below:
+Category Cost Description Frequency Estimated Annual
+Amount (USD)
+Insurance Hull and liability
+coverage
+Annually $2,200,000
+Maintenance
+Reserve
+Engine and airframe
+maintenance
+Monthly $40,000
+Fuel Costs Based on flight hours
+and routes
+Per flight $450/hour
+Airport Fees Landing, parking,
+handling
+Per use $1,800 per landing
+Crew Costs Pilot and cabin crew
+salaries
+Monthly $90,000
+",No,Specific/Factual,"The additional costs that the Lessee is responsible for in connection with the use of the Aircraft are outlined in the lease agreement. These costs encompass various operational expenses that arise from the Lessee's utilization of the Aircraft. Below is a summary of these additional costs:
+
+### Additional Costs Breakdown
+
+1. **Insurance Costs**:
+   - **Description**: This includes hull and liability coverage.
+   - **Frequency**: Annually.
+   - **Estimated Annual Amount**: $2,200,000.
+
+2. **Maintenance Reserve**:
+   - **Description**: This covers engine and airframe maintenance.
+   - **Frequency**: Monthly.
+   - **Estimated Monthly Amount**: $40,000.
+
+3. **Fuel Costs**:
+   - **Description**: Costs are based on flight hours and routes.
+   - **Frequency**: Per flight.
+   - **Estimated Cost**: $450 per hour of flight.
+
+4. **Airport Fees**:
+   - **Description**: This includes landing, parking, and handling fees.
+   - **Frequency**: Per use.
+   - **Estimated Cost**: $1,800 per landing.
+
+5. **Crew Costs**:
+   - **Description**: This covers pilot and cabin crew salaries.
+   - **Frequency**: Monthly.
+   - **Estimated Monthly Amount**: $90,000.
+
+### Summary
+
+In summary, the Lessee must account for these additional costs, which include insurance, maintenance reserves, fuel, airport fees, and crew salaries. These expenses are essential for the operational readiness and compliance of the Aircraft throughout the lease term. The Lessee is responsible for managing these costs effectively to ensure smooth operations.",tensor(0.9520),Yes
+How much is the estimated annual amount for insurance coverage?,"$2,200,000 ",No,Numerical,"The estimated annual amount for insurance coverage is not explicitly detailed in the provided documents. However, the Lessee is responsible for maintaining various types of insurance, each with specific coverage requirements and limits. Here are some key points regarding the insurance obligations:
+
+1. **Hull All-Risk Insurance**: Coverage must equal or exceed the full replacement value of the Aircraft, but the specific annual cost is not mentioned.
+
+2. **Third-Party Liability Insurance**: The Lessee must maintain coverage limits of no less than $500 million per occurrence, but again, the annual premium is not specified.
+
+3. **Passenger Liability Insurance**: The minimum coverage is $100,000 per passenger, with no annual cost provided.
+
+4. **War Risk Insurance**: Coverage must be no less than $100 million, but the annual premium is not detailed.
+
+5. **Crew Liability Insurance**: Minimum coverage of $50 million per occurrence is required, with no annual cost specified.
+
+6. **Cargo and Baggage Liability Insurance**: Coverage limits must be consistent with the value of the cargo, but the annual cost is not provided.
+
+7. **Ground Risk Insurance**: This insurance must cover the Aircraft when not in motion, but again, the annual cost is not specified.
+
+While the documents outline the types of insurance and their required coverage, they do not provide a consolidated estimated annual amount for the total insurance coverage. Each type of insurance would typically have its own premium based on various factors, including the value of the Aircraft, risk assessments, and the insurance provider's rates. 
+
+If you need specific figures, it would be necessary to consult with an insurance provider or broker who can provide estimates based on the Aircraft's details and the required coverage.",tensor(0.7974),No
+What is the monthly maintenance reserve cost?,"$40,000 ",No,Numerical,"The monthly maintenance reserve cost for the aircraft is structured as follows:
+
+1. **Maintenance Reserve Payments**: The Lessee is required to make monthly payments of **$40,000** to cover future maintenance and overhaul costs. This amount is in addition to the Basic Rent of **$180,000** per month.
+
+2. **Scheduled Maintenance Costs**: The Lessee is also responsible for routine scheduled maintenance costs, which are estimated at **$45,000** per month. This includes inspections, repairs, and replacements of parts.
+
+3. **Specific Reserve Funds**: Additionally, the Lessee must contribute to specific reserve funds on a monthly basis:
+   - **Engine Overhaul Reserve**: $15,000 per engine per month.
+   - **Airframe Heavy Maintenance Reserve**: $10,000 per month.
+   - **Landing Gear Overhaul Reserve**: $5,000 per month.
+
+In summary, the total monthly maintenance reserve cost, including all specified reserves and payments, amounts to **$115,000** ($40,000 + $45,000 + $15,000 + $10,000 + $5,000). This comprehensive approach ensures that the Lessee is financially prepared for both scheduled and unscheduled maintenance needs throughout the lease term.",tensor(0.8296),No
+How are fuel costs determined?,"Based on flight hours and routes. Frequency: Per use, Estimated Annual
+Amount (USD): $450/hour",No,Descriptive,"Fuel costs for operating an aircraft are typically determined by several factors, including the type of fuel used, the quantity consumed, and the prevailing market prices. Here’s a breakdown of how these costs are generally calculated:
+
+### 1. **Type of Fuel**
+Aircraft primarily use aviation fuels such as Jet A or Jet A-1, which have different properties and costs. The choice of fuel can impact the overall fuel cost, as different types may have varying prices based on availability and demand.
+
+### 2. **Fuel Consumption Rate**
+Each aircraft has a specific fuel consumption rate, often measured in gallons or liters per hour. This rate can vary based on several factors, including:
+- **Aircraft Model**: Different aircraft have different engines and efficiencies.
+- **Flight Profile**: The nature of the flight (e.g., cruising altitude, speed, and weight) can affect fuel consumption.
+- **Operational Conditions**: Weather conditions, such as wind speed and direction, can also influence fuel efficiency.
+
+### 3. **Flight Duration and Distance**
+The total distance of the flight and the expected duration will directly impact the amount of fuel required. Longer flights will naturally consume more fuel, and this is calculated based on the aircraft's fuel consumption rate.
+
+### 4. **Market Prices**
+Fuel prices fluctuate based on market conditions, including crude oil prices, geopolitical factors, and seasonal demand. Operators typically monitor these prices to estimate fuel costs accurately.
+
+### 5. **Additional Costs**
+In addition to the base fuel price, there may be additional costs associated with fuel, such as:
+- **Taxes and Fees**: Various taxes may apply depending on the jurisdiction.
+- **Transportation Costs**: If fuel needs to be transported to a specific location, this can add to the overall cost.
+- **Storage Fees**: Costs associated with storing fuel at airports or facilities.
+
+### 6. **Fuel Hedging**
+Some airlines and operators engage in fuel hedging strategies to manage the risk of fluctuating fuel prices. This involves entering into contracts to purchase fuel at predetermined prices, which can stabilize costs over time.
+
+### Conclusion
+In summary, fuel costs are determined by a combination of the type of fuel, consumption rates, flight specifics, market prices, and additional fees. Operators must carefully analyze these factors to estimate and manage their fuel expenses effectively.",tensor(0.8727),No
+What are the airport fees per landing?,"$1,800 per landing",No,Numerical,"The provided documents do not specify the exact airport fees per landing for the Aircraft. However, it does mention that the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the Aircraft. This includes airport landing fees, navigation charges, and airport parking fees.
+
+To obtain the specific airport fees per landing, it would be necessary to consult the relevant airport authority or the specific airport's fee schedule, as these fees can vary significantly based on the airport, the type of aircraft, and other factors. If you have a particular airport in mind, I can help guide you on how to find that information.",tensor(0.8543),No
+How much does the Lessee pay monthly for crew costs?,"$90,000 ",No,Numerical,"The Lessee is responsible for paying crew costs amounting to **$90,000 per month**. This cost covers the salaries of the pilot and cabin crew, ensuring that the aircraft is operated safely and efficiently during its lease term. 
+
+In addition to crew costs, the Lessee also incurs other operational expenses, including maintenance reserves, insurance, fuel costs, and airport fees, which contribute to the overall financial obligations associated with the lease of the aircraft.",tensor(0.8434),No
+In what condition is the Aircraft leased?,"The Aircraft isleased on an ""AS-IS, WHERE-IS"" basis. The Lessor makes no representations or warranties, express or implied, with respect to the Aircraft, except as expressly stated in this Agreement.",No,Descriptive,"### Condition of the Aircraft Leased
+
+The Aircraft, specifically a SkyLiner A350 with Manufacturer's Serial Number 2098745 and Registration Number G12345, is leased on an ""AS-IS, WHERE-IS"" basis. This means that the Lessor, AeroSky Rentals Ltd., makes no representations or warranties regarding the condition of the Aircraft, except for those expressly stated in the lease agreement. 
+
+### Delivery and Acceptance
+
+Upon delivery, which is scheduled for September 15, 2025, the Lessee, BlueJet Airways Corp., is required to inspect the Aircraft and sign the Certificate of Delivery Technical Acceptance. The Aircraft must be delivered in the condition specified in Exhibit B of the lease agreement, which outlines the delivery conditions. 
+
+### Maintenance and Return Conditions
+
+The Lessee is responsible for maintaining the Aircraft in good operating condition throughout the lease term. Upon return, the Aircraft must be returned with all original equipment and configurations intact, including avionics systems, seats, and operational safety equipment. Additionally, all major components, such as engines and landing gear, must be within the operational limits specified by the Original Equipment Manufacturer (OEM). 
+
+If any components exceed the allowable operational limits, the Lessee is obligated to replace them with parts of equal or better value before returning the Aircraft. The Aircraft must also be returned with a minimum fuel quantity sufficient for the ferry flight to the agreed return location, and all necessary fluids must be at operational levels.
+
+### Conclusion
+
+In summary, the Aircraft is leased in an ""AS-IS"" condition, with specific obligations placed on the Lessee for maintenance and return conditions. The Lessee must ensure that the Aircraft is kept in compliance with the terms outlined in the lease agreement throughout the lease term.",tensor(0.8971),No
+Does the Lessor make any warranties about the Aircraft?,"The Lessor makes no representations or warranties, express or implied, with respect to the Aircraft, except as expressly stated in this Agreement. No Warranty of Merchantability or Fitness: The Lessor disclaims any warranty of
+merchantability or fitness for a particular purpose.
+",No,Specific/Factual,"In the Aircraft Lease Agreement, the Lessor explicitly disclaims any warranties regarding the Aircraft. According to Section 5 of the agreement, the Aircraft is leased on an ""AS-IS, WHERE-IS"" basis. This means that the Lessor does not make any representations or warranties, whether express or implied, concerning the condition or suitability of the Aircraft for any particular purpose.
+
+Furthermore, the Lessor specifically disclaims any warranty of merchantability or fitness for a particular purpose. This indicates that the Lessee accepts the Aircraft in its current state and assumes all risks associated with its use and operation. Therefore, the Lessee should conduct thorough inspections and assessments prior to taking possession to ensure that the Aircraft meets their operational needs and standards. 
+
+In summary, the Lessor does not provide any warranties about the Aircraft, placing the responsibility for its condition and suitability squarely on the Lessee.",tensor(0.9584),Yes
+"What does ""AS-IS, WHERE-IS"" mean in this context?","As-Is Condition: The Aircraft isleased on an ""AS-IS, WHERE-IS"" basis. The Lessor makes no representations or warranties, express or implied, with respect to the Aircraft, except as expressly stated in this Agreement.",No,Descriptive,"In the context of the Aircraft Lease Agreement, the term ""AS-IS, WHERE-IS"" signifies that the aircraft is being leased in its current condition, without any warranties or guarantees from the lessor regarding its state or functionality. This means that the lessee accepts the aircraft with all its existing faults, defects, or issues, and the lessor is not responsible for making any repairs or improvements prior to the lease.
+
+This clause is important for both parties involved in the agreement. For the lessor, it limits liability by clarifying that they do not make any representations about the aircraft's condition beyond what is explicitly stated in the contract. For the lessee, it emphasizes the need for thorough inspection and due diligence before accepting the aircraft, as they will be responsible for any maintenance or repairs needed once the lease commences.
+
+Overall, the ""AS-IS, WHERE-IS"" provision places the onus on the lessee to ensure that the aircraft meets their operational needs and standards before taking possession.",tensor(0.9447),Yes
+Does the Lessor provide a warranty of merchantability or fitness for the Aircraft?,No Warranty of Merchantability or Fitness: The Lessor disclaims any warranty of merchantability or fitness for a particular purpose.,No,Specific/Factual,"No, the Lessor does not provide a warranty of merchantability or fitness for the Aircraft. According to Section 5 of the Aircraft Lease Agreement, the Aircraft is leased on an ""AS-IS, WHERE-IS"" basis, and the Lessor explicitly disclaims any warranty of merchantability or fitness for a particular purpose. This means that the Lessee accepts the Aircraft in its current condition without any guarantees from the Lessor regarding its suitability for any specific use or its overall quality. 
+
+This disclaimer is important for the Lessee to understand, as it places the responsibility for assessing the Aircraft's condition and suitability solely on them. The Lessee is expected to conduct their own inspections and evaluations before taking possession of the Aircraft.",tensor(0.9362),Yes
+Are there any express warranties mentioned in this Agreement?,"The Lessor makes no representations or warranties, express or implied, with respect to the Aircraft, except as expressly stated in this Agreement.",No,Specific/Factual,"In the Aircraft Lease Agreement between AeroSky Rentals Ltd. (the Lessor) and BlueJet Airways Corp. (the Lessee), there are no express warranties provided by the Lessor regarding the Aircraft. Specifically, Section 5 of the Agreement states that the Aircraft is leased on an ""AS-IS, WHERE-IS"" basis. This means that the Lessor makes no representations or warranties, whether express or implied, concerning the Aircraft, except for those explicitly stated in the Agreement.
+
+Furthermore, the Lessor disclaims any warranty of merchantability or fitness for a particular purpose. This indicates that the Lessee accepts the Aircraft in its current condition without any guarantees from the Lessor about its performance or suitability for specific uses. 
+
+In summary, the Agreement clearly outlines that the Lessor does not provide any express warranties, placing the responsibility on the Lessee to accept the Aircraft as it is.",tensor(0.9427),Yes
+When does the Lessee take possession of the Aircraft?,The Lessee shall take possession of the Aircraft on the Delivery Date and shall be responsible for its condition from that date onward.,No,Specific/Factual,"The Lessee, BlueJet Airways Corp., takes possession of the Aircraft on the Delivery Date, which is specified as September 15, 2025. This date marks the point at which the Lessee is responsible for the condition of the Aircraft and can begin utilizing it for commercial charter services. 
+
+Upon taking possession, the Lessee is required to inspect the Aircraft and sign the Certificate of Delivery Technical Acceptance, confirming that the Aircraft meets the specifications outlined in the lease agreement. This process ensures that both parties acknowledge the Aircraft's condition at the time of delivery and acceptance. 
+
+In summary, the key date for the Lessee's possession of the Aircraft is September 15, 2025, following the completion of the delivery process.",tensor(0.9461),Yes
+From which date is the Lessee responsible for the Aircraft's condition?,The Lessee shall take possession of the Aircraft on the Delivery Date and shall be responsible for its condition from that date onward.,No,Specific/Factual,"The Lessee is responsible for the Aircraft's condition starting from the Delivery Date, which is specified as August 10, 2025, unless otherwise mutually agreed in writing by both parties. This means that from that date onward, the Lessee must ensure that the Aircraft is maintained in an airworthy condition and adheres to all relevant regulations and standards. 
+
+The responsibility includes not only the general upkeep of the Aircraft but also compliance with all maintenance obligations outlined in the agreement. This encompasses routine and scheduled maintenance, repairs, and inspections, ensuring that the Aircraft remains suitable for commercial operations throughout the Lease Term.",tensor(0.9564),Yes
+For what purpose must the Lessee use the Aircraft?,"The Lessee agreesto utilize the Aircraft exclusively for commercial charter services and must adhere to all relevant laws, regulations, and aviation safety standards in each jurisdiction in which the Aircraft operates.",No,Specific/Factual,"The Lessee is required to use the Aircraft exclusively for commercial charter services. This stipulation is outlined in Section 6 of the Aircraft Lease Agreement, which emphasizes that the Lessee must adhere to all relevant laws, regulations, and aviation safety standards in each jurisdiction where the Aircraft operates. 
+
+Additionally, the Lessee must maintain full operational control over the Aircraft throughout the Lease Term, which includes the selection and management of pilots, crew, and passengers. The agreement also specifies that the Aircraft should not be used for any illegal purposes, such as transporting unlawful goods or conducting unauthorized flights. 
+
+In summary, the primary purpose of the Aircraft's use is for legitimate commercial charter operations, ensuring compliance with all applicable aviation regulations and safety standards.",tensor(0.9635),Yes
+What must the Lessee adhere to when operating the Aircraft?,"The Lessee agreesto utilize the Aircraft exclusively for commercial charter services and must adhere to all relevant laws, regulations, and aviation safety standards in each jurisdiction in which the Aircraft operates.",No,Procedural,"### Adherence Requirements for the Lessee in Operating the Aircraft
+
+When operating the Aircraft, the Lessee is required to adhere to several critical regulations and standards to ensure compliance and safety. These obligations are outlined in the Aircraft Lease Agreement and include the following key points:
+
+#### 1. **Compliance with Laws and Regulations**
+The Lessee must comply with all applicable local, national, and international laws, rules, treaties, and regulations governing the operation, use, registration, and maintenance of the Aircraft. This includes, but is not limited to, regulations established by:
+
+- **Transportation Safety Administration (TSA)**
+- **Civil Aviation Authority (CAA)**
+- **International Air Transport Association (IATA)**
+
+The Lessee is responsible for securing and maintaining all necessary licenses, permits, and certifications required for the operation of the Aircraft, which may include commercial pilot licenses and airworthiness certificates.
+
+#### 2. **Operational Control**
+The Lessee retains complete operational control over the Aircraft throughout the Lease Term. This includes the selection and management of pilots, crew, and all passengers. The Lessee must ensure that only licensed and qualified pilots and crew members operate the Aircraft, in accordance with the Aircraft's operational manuals and safety guidelines.
+
+#### 3. **Maintenance Obligations**
+The Lessee is obligated to maintain the Aircraft in an airworthy condition, consistent with the standards required by the manufacturer and all applicable aviation authorities. This includes performing all routine and scheduled maintenance, repairs, and inspections, such as:
+
+- A-checks, B-checks, C-checks, and D-checks as specified in the Aircraft’s maintenance schedule.
+- Engine inspections and overhauls as required by the engine manufacturer’s maintenance program.
+- Landing gear inspections and refurbishments as specified by the manufacturer or regulatory authorities.
+
+The Lessee must also maintain accurate and up-to-date maintenance records and logs, which should be made available to the Lessor for inspection upon request.
+
+#### 4. **Insurance Requirements**
+The Lessee is required to procure and maintain comprehensive aviation insurance coverage throughout the Lease Term. This insurance must include:
+
+- **Hull All-Risk Insurance**: Covering the full replacement value of the Aircraft against physical loss or damage.
+- **Third-Party Liability Insurance**: Providing coverage for bodily injury, death, and property damage to third parties, with minimum liability limits of $600 million per occurrence.
+- **Passenger Liability Insurance**: Covering the Lessee's legal liability for bodily injury or death of passengers.
+
+All insurance policies must name the Lessor as an additional insured and loss payee, and include provisions for prior written notice to the Lessor before any cancellation or significant modification.
+
+#### 5. **Reporting and Record Keeping**
+The Lessee is required to keep comprehensive flight logs, maintenance records, and technical documentation as mandated by relevant aviation authorities. Regular reports on the Aircraft's usage, detailing flight hours, cycles, and any significant incidents, must be submitted to the Lessor quarterly.
+
+### Conclusion
+In summary, the Lessee must adhere to a comprehensive set of regulations and obligations when operating the Aircraft. This includes compliance with laws, maintaining operational control, ensuring proper maintenance, securing adequate insurance, and keeping detailed records. These measures are essential for ensuring the safe and legal operation of the Aircraft throughout the Lease Term.",tensor(0.9289),Yes
+Who retains operational control over the Aircraft during the Lease Term?,"The Lessee shall retain complete operational control over the Aircraft throughout the Lease Term, including the selection and management of pilots, crew, and all passengers.",No,Specific/Factual,"During the Lease Term, the Lessee retains complete operational control over the Aircraft. This includes the authority to select and manage pilots, crew, and all passengers. The Lessee is responsible for ensuring that the Aircraft is operated in compliance with all relevant laws, regulations, and aviation safety standards applicable in each jurisdiction where the Aircraft operates.
+
+The Lessee is also obligated to utilize the Aircraft exclusively for commercial charter services and must adhere to the manufacturer's operating manual and approved operating limits. Furthermore, the Lessee is prohibited from using the Aircraft for any illegal purposes, such as transporting unlawful goods or conducting unauthorized flights.
+
+In summary, the Lessee has full operational control and is responsible for the Aircraft's use and compliance with applicable regulations throughout the duration of the lease.",tensor(0.9640),Yes
+Where will the Aircraft be based during the Lease Term?,Base Location: The Aircraft will be stationed at London Heathrow International Airport or any alternative location mutually agreed upon in writing by both parties.,No,Specific/Factual,"The Aircraft will be based at London Heathrow International Airport during the Lease Term. However, the Lessee and Lessor may mutually agree in writing to an alternative location if necessary. This arrangement ensures that the Aircraft is stationed at a major international airport, facilitating its use for commercial charter services as outlined in the lease agreement.
+
+Additionally, the Lessee is required to notify the Lessor in writing before moving the Aircraft to any other jurisdiction or country, ensuring that both parties are informed of the Aircraft's location throughout the lease period. This provision is crucial for maintaining operational control and compliance with relevant aviation regulations.",tensor(0.9341),Yes
+"Can the base location of the Aircraft be changed? If so, how?","Yes, the base location of the aircraft can be changed. It is initially stationed at London Heathrow International Airport, but it can be moved to an alternative location if both parties mutually agree in writing.",No,Procedural,"The base location of the Aircraft can potentially be changed, but this would typically require the Lessee to follow specific procedures outlined in the lease agreement. While the provided documents do not explicitly mention the process for changing the base location, there are general practices that are often included in such agreements.
+
+### General Considerations for Changing the Base Location
+
+1. **Written Consent**: The Lessee would likely need to obtain prior written consent from the Lessor before making any changes to the base location of the Aircraft. This is a common requirement in lease agreements to ensure that the Lessor is aware of and approves the new location.
+
+2. **Notification**: The Lessee may be required to notify the Lessor of the intended change in base location, providing details such as the new location and the reasons for the change.
+
+3. **Compliance with Regulations**: The new base location must comply with all relevant aviation regulations and safety standards. The Lessee would need to ensure that the Aircraft can be operated safely and legally from the new location.
+
+4. **Impact on Operations**: The Lessee should consider how the change in base location might affect operational aspects, such as maintenance, crew availability, and logistical support.
+
+5. **Documentation**: Any change in the base location may require updates to documentation, including registration and insurance policies, to reflect the new operational base.
+
+### Conclusion
+
+While the specific lease agreement does not detail the process for changing the base location, it is essential for the Lessee to seek the Lessor's consent and ensure compliance with all applicable regulations. It is advisable for the Lessee to review the lease agreement thoroughly and consult with legal counsel if necessary to navigate this process effectively.",tensor(0.9137),Yes
+What maintenance schedule must the Lessee follow for the Aircraft?,"The Lessee shall follow the Aircraft’s maintenance schedule as
+stipulated by the manufacturer, outlined in the table below: Maintenance Type	Frequency	Estimated Cost (USD)	Next Scheduled Date
+Line Maintenance	Every 600 flight hours	$30,000	February 10, 2025
+Heavy Maintenance	Every 2.5 years	$1,200,000	August 15, 2026
+Engine Overhaul	Every 5,500 cycles	$4,500,000	TBD based on usage
+Avionics Check	Annual	$120,000	November 20, 2024
+Landing Gear Overhaul	Every 8 years	$800,000	September 1, 2030",No,Procedural,"### Maintenance Schedule for the Aircraft
+
+The Lessee is required to adhere to a comprehensive maintenance schedule for the Aircraft, which is outlined as follows:
+
+#### Scheduled Maintenance
+
+1. **Line Maintenance**
+   - **Frequency:** Every 600 flight hours
+   - **Estimated Cost:** $30,000
+   - **Provider:** [Provider Name]
+   - **Next Scheduled Date:** February 10, 2025
+
+2. **Heavy Maintenance**
+   - **Frequency:** Every 2.5 years
+   - **Estimated Cost:** $1,200,000
+   - **Provider:** [Provider Name]
+   - **Next Scheduled Date:** August 15, 2026
+
+3. **Engine Overhaul**
+   - **Frequency:** Every 5,500 cycles
+   - **Estimated Cost:** $4,500,000
+   - **Provider:** TBD based on usage
+
+4. **Avionics Check**
+   - **Frequency:** Annual
+   - **Estimated Cost:** $120,000
+   - **Provider:** [Provider Name]
+   - **Next Scheduled Date:** November 20, 2024
+
+5. **Landing Gear Overhaul**
+   - **Frequency:** Every 8 years
+   - **Estimated Cost:** $800,000
+   - **Provider:** [Provider Name]
+   - **Next Scheduled Date:** September 1, 2030
+
+#### Unscheduled Maintenance Costs
+
+In addition to the scheduled maintenance, the Lessee is responsible for any unscheduled maintenance that may arise. The estimated costs and time to repair for common unscheduled maintenance issues are as follows:
+
+- **Engine (Minor Damage)**
+  - **Estimated Cost:** $120,000
+  - **Time to Repair:** 3 weeks
+
+- **Landing Gear (Hydraulic Issues)**
+  - **Estimated Cost:** $60,000
+  - **Time to Repair:** 2 weeks
+
+- **Avionics (Communication Fault)**
+  - **Estimated Cost:** $20,000
+  - **Time to Repair:** 4 days
+
+### Conclusion
+
+The Lessee must ensure that all maintenance activities are performed in accordance with the manufacturer's maintenance schedule and that all records are kept up to date. This includes both scheduled and unscheduled maintenance, ensuring the Aircraft remains in an airworthy condition throughout the Lease Term.",tensor(0.9684),Yes
+How often is line maintenance required for the Aircraft?,Every 600 flight hours,No,Numerical,"### Line Maintenance Schedule for the Aircraft
+
+Line maintenance for the Aircraft is required every **600 flight hours**. This maintenance is essential to ensure the Aircraft remains in optimal operating condition and adheres to safety standards set by the manufacturer and aviation authorities.
+
+### Estimated Costs and Provider
+
+The estimated cost for each line maintenance check is approximately **$30,000**. The specific maintenance provider responsible for this service is indicated in the maintenance schedule, with the next scheduled line maintenance date set for **February 10, 2025**.
+
+### Importance of Regular Maintenance
+
+Regular line maintenance is crucial for the safety and reliability of the Aircraft. It involves routine inspections and minor repairs that help identify potential issues before they escalate, ensuring compliance with operational standards and enhancing the overall performance of the Aircraft during its lease term.",tensor(0.8528),No
+What is the estimated cost for line maintenance?,"$30,000 ",No,Numerical,"The estimated cost for line maintenance is $30,000. This maintenance is scheduled to occur every 600 flight hours, with the next scheduled date being February 10, 2025. 
+
+Line maintenance typically involves routine checks and minor repairs to ensure the aircraft remains in airworthy condition between more extensive maintenance procedures. It is crucial for the ongoing safety and operational efficiency of the aircraft during its lease term.",tensor(0.8063),No
+When is the next scheduled date for line maintenance?,2/10/2025 0:00,No,Specific/Factual,"The next scheduled date for line maintenance is February 10, 2025. This maintenance is required every 600 flight hours and is estimated to cost $30,000. The maintenance will be performed by a designated provider, although the specific provider's name is not mentioned in the provided information. 
+
+It is important for the Lessee to adhere to this schedule to ensure the Aircraft remains airworthy and compliant with applicable regulations. Regular maintenance is crucial for the safety and operational efficiency of the Aircraft during the Lease Term.",tensor(0.8166),No
+How frequently is heavy maintenance performed on the Aircraft?,Every 2.5 years,No,Numerical,"### Heavy Maintenance Schedule
+
+Heavy maintenance on the Aircraft is scheduled to be performed every **2.5 years**. This maintenance is crucial for ensuring the Aircraft remains in optimal operating condition and complies with all regulatory requirements.
+
+### Next Scheduled Heavy Maintenance
+
+The next heavy maintenance is set to take place on **August 15, 2026**. This timeline allows for adequate planning and resource allocation to ensure that the Aircraft is serviced properly and any necessary repairs or upgrades are completed in a timely manner.
+
+### Importance of Heavy Maintenance
+
+Heavy maintenance typically involves comprehensive inspections and overhauls of critical systems and components, which may include engines, airframe, and avionics. Adhering to this schedule is essential for maintaining safety, reliability, and performance standards throughout the Aircraft's operational life.",tensor(0.8204),No
+"What is the cost of heavy maintenance, and when is it next scheduled?","Estimated Cost (USD): $1,200,000. Next Scheduled
+Date: August 15, 2026_x000D_",No,Tabular,"### Heavy Maintenance Cost and Schedule
+
+The cost of heavy maintenance for the Aircraft is estimated at **$1,200,000**. This maintenance is scheduled to occur every **2.5 years**. The next scheduled date for heavy maintenance is **August 15, 2026**. 
+
+This maintenance is crucial for ensuring the Aircraft remains in compliance with safety and operational standards, and it is typically performed by certified maintenance organizations. The Lessee is responsible for covering these costs as part of their obligations under the lease agreement.",tensor(0.8789),No
+"How often is the engine overhaul required, and what is its estimated cost?","Every 5,500 cycles and the Estimated Cost (USD): $4,500,000",No,Tabular,"### Engine Overhaul Requirements
+
+The engine overhaul for the Aircraft is required every **5,500 cycles**. This maintenance is crucial to ensure the engine operates efficiently and safely throughout its operational life.
+
+### Estimated Cost
+
+The estimated cost for the engine overhaul is **$4,500,000**. This significant investment reflects the complexity and importance of maintaining the engine in optimal condition, which is essential for the overall safety and performance of the Aircraft. 
+
+In summary, the engine overhaul is a critical maintenance task that occurs every 5,500 cycles, with a substantial estimated cost of $4.5 million.",tensor(0.8562),No
+When is the next avionics check scheduled?,11/20/2024 0:00,No,Specific/Factual,"The provided documents do not specify a specific date for the next avionics check. However, it is common practice for avionics checks to be scheduled based on the aircraft's maintenance program, which typically includes regular inspections at defined intervals. 
+
+To determine the exact timing for the next avionics check, you may need to refer to the Aircraft Maintenance Manual (AMM) or consult with the Lessee's Maintenance Control Center, as they would have the most accurate and up-to-date information regarding the maintenance schedule for the aircraft. 
+
+If you have access to the AMM or any specific maintenance records, those documents would likely contain the necessary details regarding the scheduled checks for avionics and other systems.",tensor(0.8137),No
+"How often is a landing gear overhaul needed, and what is the estimated cost?","Every 8 years and the Estimated Cost (USD) is $800,000",No,Tabular,"### Landing Gear Overhaul Frequency and Cost
+
+According to the maintenance schedule outlined in the lease agreement, a landing gear overhaul is required every **8 years**. This periodic maintenance is essential to ensure the safety and operational efficiency of the aircraft.
+
+The estimated cost for the landing gear overhaul is **$800,000**. This significant investment reflects the complexity and importance of maintaining the landing gear in optimal condition, which is crucial for safe aircraft operations.
+
+### Summary
+
+In summary, the landing gear overhaul is scheduled every 8 years at an estimated cost of $800,000. Regular maintenance, including this overhaul, is vital for ensuring the aircraft remains airworthy and compliant with safety regulations.",tensor(0.8462),No
+How often is the engine overhaul needed?,"Every 5,500 cycles",No,Numerical,"The engine overhaul for the Aircraft is required every 5,500 cycles. This maintenance is crucial to ensure the engine operates efficiently and safely throughout its service life. The specific timing for the overhaul will depend on the actual usage of the Aircraft, as it is based on the number of cycles rather than a fixed time interval. 
+
+In addition to the engine overhaul, the Lessee is responsible for covering the costs associated with this maintenance, which is estimated to be around $4,500,000. It is important for the Lessee to monitor the cycles closely to schedule the overhaul in a timely manner, ensuring compliance with maintenance requirements and maintaining the Aircraft's airworthiness.",tensor(0.8356),No
+When is the avionics check scheduled?,Annual,No,Specific/Factual,"The avionics check for the aircraft is scheduled to take place annually, with the next scheduled date being November 20, 2024. This maintenance is crucial for ensuring that all avionics systems are functioning correctly and meet safety standards. Regular checks help in identifying any potential issues early, thereby maintaining the aircraft's operational integrity and safety.",tensor(0.8063),No
+What is the estimated cost for the avionics check?,"$120,000 ",No,Numerical,"The estimated cost for the avionics check is **$120,000**. This maintenance task is scheduled to be performed annually, with the next scheduled date being **November 20, 2024**. 
+
+### Summary of Maintenance Costs
+- **Avionics Check**: $120,000
+- **Frequency**: Annual
+- **Next Scheduled Date**: November 20, 2024
+
+This cost is part of the overall maintenance obligations that the Lessee must adhere to during the lease term of the Aircraft.",tensor(0.8235),No
+Can you provide the details of maintanance schedule in a table format?,"Here is the table with the ""Provider"" column removed:
+
+Maintenance Type	Frequency	Estimated Cost (USD)	Next Scheduled Date
+Line Maintenance	Every 600 flight hours	$30,000	February 10, 2025
+Heavy Maintenance	Every 2.5 years	$1,200,000	August 15, 2026
+Engine Overhaul	Every 5,500 cycles	$4,500,000	TBD based on usage
+Avionics Check	Annual	$120,000	November 20, 2024
+Landing Gear Overhaul	Every 8 years	$800,000	September 1, 2030",No,Tabular,"Certainly! Below is the maintenance schedule presented in a table format:
+
+| **Maintenance Type**     | **Frequency**          | **Estimated Cost (USD)** | **Provider**       | **Next Scheduled Date** |
+|--------------------------|-----------------------|--------------------------|---------------------|-------------------------|
+| Line Maintenance         | Every 600 flight hours| $30,000                  | [Provider Name]     | February 10, 2025      |
+| Heavy Maintenance        | Every 2.5 years       | $1,200,000               | [Provider Name]     | August 15, 2026        |
+| Engine Overhaul          | Every 5,500 cycles    | $4,500,000               | [Provider Name]     | TBD based on usage      |
+| Avionics Check           | Annual                | $120,000                 | [Provider Name]     | November 20, 2024      |
+| Landing Gear Overhaul    | Every 8 years         | $800,000                 | [Provider Name]     | September 1, 2030      |
+
+This table summarizes the maintenance types, their frequencies, estimated costs, providers, and the next scheduled dates for maintenance activities.",tensor(0.9294),Yes
+Can you provide the details of unscheduled maintanance costs in a table format?,"Component Type of Repair Estimated Cost(USD) Time to Repair Engine Minor damage $120,000 3 weeks Landing Gear Hydraulic issues $60,000 2 week Avionics Communication fault $20,000 4 days",No,Tabular,"Certainly! Below are the details of unscheduled maintenance costs presented in a table format:
+
+| **Component** | **Type of Repair**      | **Estimated Cost (USD)** | **Time to Repair** |
+|---------------|-------------------------|--------------------------|---------------------|
+| Engine        | Minor damage            | $120,000                 | 3 weeks             |
+| Landing Gear  | Hydraulic issues        | $60,000                  | 2 weeks             |
+| Avionics      | Communication fault     | $20,000                  | 4 days              |
+
+This table summarizes the estimated costs and repair times for various unscheduled maintenance issues that may arise during the lease term.",tensor(0.8905),No
+Who is responsible for covering unscheduled maintenance costs?,"If any unscheduled maintenance isrequired, the Lessee is responsible for covering these costs",Yes,Specific/Factual,"### Responsibility for Unscheduled Maintenance Costs
+
+In the context of the lease agreement, the Lessee is solely responsible for covering all unscheduled maintenance costs associated with the Aircraft. This includes any repairs that are not part of the routine maintenance schedule and arise unexpectedly during the Lease Term.
+
+#### Details of Unscheduled Maintenance Costs
+
+The lease outlines specific examples of unscheduled maintenance costs, including:
+
+- **Engine Repairs**: For minor damage, the estimated cost is $120,000, with a repair time of approximately three weeks.
+- **Landing Gear Repairs**: Addressing hydraulic issues is estimated to cost $60,000, with a repair time of about two weeks.
+- **Avionics Repairs**: For communication faults, the estimated cost is $20,000, and the repair time is around four days.
+
+These costs highlight the financial obligations the Lessee must manage in addition to regular maintenance expenses. The Lessee's responsibility for these costs emphasizes the importance of maintaining the Aircraft in good condition and being prepared for any unexpected repairs that may arise during the lease period.",tensor(0.9281),Yes
+"What type of repair is required for the engine, and what is its estimated cost?","Type of Repair: Minor damage. Estimated Cost(USD) : $120,000",No,Tabular,"### Engine Repair Details
+
+The engine requires a **minor damage** repair. The estimated cost for this repair is **$120,000**. The expected time to complete the repair is approximately **3 weeks**. 
+
+This information is crucial for budgeting and planning maintenance schedules, ensuring that the aircraft remains operational and compliant with safety regulations. Regular monitoring of the aircraft's condition can help in identifying such issues early, potentially reducing downtime and repair costs.",tensor(0.9115),Yes
+What issues may arise with the landing gear?,Hydraulic issues,No,Specific/Factual,"### Potential Issues with Landing Gear
+
+The landing gear of an aircraft is a critical component that supports the aircraft during takeoff, landing, and while on the ground. Various issues can arise with landing gear, which can affect the safety and operational efficiency of the aircraft. Here are some common problems that may occur:
+
+#### 1. **Hydraulic Issues**
+One of the most frequent problems with landing gear is related to hydraulic systems. The landing gear operates using hydraulic pressure, and any leaks or failures in the hydraulic system can prevent the gear from extending or retracting properly. This can lead to emergency situations during takeoff or landing.
+
+#### 2. **Mechanical Failures**
+Mechanical components of the landing gear, such as actuators, linkages, and struts, can wear out or fail due to fatigue or corrosion. This can result in the gear not locking in place, which is critical for safe landings. Regular inspections and maintenance are essential to identify and address these issues before they lead to failure.
+
+#### 3. **Tire Problems**
+The tires on the landing gear are subject to wear and tear from regular use. Issues such as flat spots, punctures, or improper inflation can lead to tire failure during landing or takeoff. This can cause loss of control or damage to the aircraft.
+
+#### 4. **Alignment Issues**
+Improper alignment of the landing gear can lead to uneven wear on tires and increased stress on the landing gear components. This misalignment can be caused by hard landings, collisions, or manufacturing defects. Regular checks and adjustments are necessary to ensure proper alignment.
+
+#### 5. **Brake System Failures**
+The landing gear is often integrated with the aircraft's braking system. Any failure in the brakes can lead to difficulties in stopping the aircraft after landing, which can be particularly dangerous on shorter runways. Regular maintenance and checks of the brake system are crucial.
+
+#### 6. **Environmental Factors**
+Landing gear components can be affected by environmental factors such as extreme temperatures, moisture, and corrosive substances. These factors can lead to rust, corrosion, and other forms of degradation, necessitating thorough inspections and maintenance.
+
+#### 7. **Inspection and Maintenance Challenges**
+Regular maintenance and inspections are vital for the landing gear's functionality. However, if these are not performed diligently, issues may go unnoticed until they become critical. The maintenance schedule must be adhered to, including checks for wear and tear, hydraulic fluid levels, and overall functionality.
+
+### Conclusion
+In summary, the landing gear is subject to various potential issues, including hydraulic failures, mechanical wear, tire problems, alignment issues, brake system failures, environmental impacts, and challenges related to maintenance. Addressing these issues through regular inspections and maintenance is essential to ensure the safety and reliability of the aircraft during operations.",tensor(0.8646),No
+what is the estimated repair cost of landing gear?,"$60,000 ",No,Numerical,"### Estimated Repair Cost of Landing Gear
+
+The estimated repair cost for the landing gear, specifically for hydraulic issues, is **$60,000**. This cost is associated with unscheduled maintenance that may arise during the lease term. The time required for this repair is approximately **2 weeks**.
+
+### Summary of Maintenance Costs
+
+In addition to the unscheduled repair costs, the maintenance schedule outlines the following costs related to landing gear:
+
+- **Landing Gear Overhaul**: This is scheduled every **8 years** with an estimated cost of **$800,000**. The next overhaul is due on **September 1, 2030**.
+
+These costs highlight the financial responsibilities the Lessee must manage regarding the aircraft's landing gear maintenance and repairs throughout the lease term.",tensor(0.8067),No
+How long will it take to repair hydraulic issues with the landing gear?,2 week,No,Time Estimate,"The estimated time to repair hydraulic issues with the landing gear is 2 weeks. This timeframe is based on the unscheduled maintenance costs outlined in the lease agreement, which specifies that such repairs are necessary to ensure the aircraft remains operational and compliant with safety standards. 
+
+In the context of aircraft maintenance, timely repairs are crucial to minimize downtime and maintain operational efficiency. Therefore, if hydraulic issues arise, the Lessee should prepare for a repair period of approximately 14 days to address the problem effectively.",tensor(0.8217),No
+What type of fault may occur with the avionics?,Communication fault,No,Descriptive,"The avionics may experience a communication fault, which is categorized as an unscheduled maintenance issue. The estimated cost to repair this type of fault is $20,000, and the time required for the repair is approximately four days. 
+
+In the context of aircraft operations, avionics are critical for navigation, communication, and monitoring systems. Therefore, any faults in this area can significantly impact the safety and efficiency of flight operations. Regular maintenance and prompt attention to any issues are essential to ensure the avionics remain functional and reliable.",tensor(0.8747),No
+what is its estimated cost for avionics repair?,"$20,000 ",No,Numerical,"### Estimated Cost for Avionics Repair
+
+The estimated cost for avionics repair, specifically for a communication fault, is **$20,000**. This repair is expected to take approximately **4 days** to complete. 
+
+### Context of Avionics Maintenance
+
+Avionics checks are conducted annually, with the next scheduled check for the aircraft set for **November 20, 2024**, at an estimated cost of **$120,000**. Regular maintenance and timely repairs are crucial for ensuring the aircraft's operational safety and compliance with aviation regulations.
+
+### Importance of Avionics
+
+Avionics systems are essential for the safe operation of the aircraft, encompassing navigation, communication, and monitoring systems. Proper maintenance and prompt repairs help prevent potential issues that could arise during flight operations, thereby enhancing overall safety and efficiency. 
+
+In summary, while the immediate cost for the specific avionics repair is $20,000, ongoing maintenance and checks are vital for the aircraft's long-term operational integrity.",tensor(0.8026),No
+How long is the estimated time to repair a communication fault in the avionics?,4 days,No,Time Estimate,"The estimated time to repair a communication fault in the avionics is 4 days. This information is part of the unscheduled maintenance costs outlined in the document, which specifies that the Lessee is responsible for covering these costs. The estimated cost for this type of repair is $20,000. 
+
+In summary, if a communication fault occurs, the Lessee should anticipate a repair duration of approximately 4 days to resolve the issue.",tensor(0.7944),No
+What is outlined in Section 9 regarding the maintenance of the Aircraft?,"Maintenance Schedule: The Lessee shall follow the Aircraft’s maintenance schedule as stipulated by the manufacturer, outlined in the table below:Maintenance Type	Frequency	Estimated Cost (USD)	Next Scheduled Date
+Line Maintenance	Every 600 flight hours	$30,000	February 10, 2025
+Heavy Maintenance	Every 2.5 years	$1,200,000	August 15, 2026
+Engine Overhaul	Every 5,500 cycles	$4,500,000	TBD based on usage
+Avionics Check	Annual	$120,000	November 20, 2024
+Landing Gear Overhaul	Every 8 years	$800,000	September 1, 2030",No,Specific/Factual,"### Section 9: Maintenance of Aircraft
+
+Section 9 of the agreement outlines the maintenance obligations of the Lessee concerning the Aircraft. It specifies both the scheduled maintenance requirements and the responsibilities for unscheduled maintenance.
+
+#### 1. Maintenance Schedule
+
+The Lessee is required to adhere to a maintenance schedule as stipulated by the manufacturer. The following types of maintenance are outlined, along with their frequency, estimated costs, and the next scheduled dates:
+
+- **Line Maintenance**: 
+  - **Frequency**: Every 600 flight hours
+  - **Estimated Cost**: $30,000
+  - **Provider**: [Provider Name]
+  - **Next Scheduled Date**: February 10, 2025
+
+- **Heavy Maintenance**: 
+  - **Frequency**: Every 2.5 years
+  - **Estimated Cost**: $1,200,000
+  - **Provider**: [Provider Name]
+  - **Next Scheduled Date**: August 15, 2026
+
+- **Engine Overhaul**: 
+  - **Frequency**: Every 5,500 cycles
+  - **Estimated Cost**: $4,500,000
+  - **Next Scheduled Date**: TBD based on usage
+
+- **Avionics Check**: 
+  - **Frequency**: Annual
+  - **Estimated Cost**: $120,000
+  - **Next Scheduled Date**: November 20, 2024
+
+- **Landing Gear Overhaul**: 
+  - **Frequency**: Every 8 years
+  - **Estimated Cost**: $800,000
+  - **Next Scheduled Date**: September 1, 2030
+
+#### 2. Unscheduled Maintenance Costs
+
+In addition to scheduled maintenance, the Lessee is responsible for any unscheduled maintenance that may arise. The agreement specifies the following potential unscheduled maintenance costs:
+
+- **Engine**: 
+  - **Type of Repair**: Minor damage
+  - **Estimated Cost**: $120,000
+  - **Time to Repair**: 3 weeks
+
+- **Landing Gear**: 
+  - **Type of Repair**: Hydraulic issues
+  - **Estimated Cost**: $60,000
+  - **Time to Repair**: 2 weeks
+
+- **Avionics**: 
+  - **Type of Repair**: Communication fault
+  - **Estimated Cost**: $20,000
+  - **Time to Repair**: 4 days
+
+### Conclusion
+
+Overall, Section 9 emphasizes the Lessee's responsibility to maintain the Aircraft in accordance with the manufacturer's guidelines, ensuring that both scheduled and unscheduled maintenance is performed timely and effectively. This section is crucial for ensuring the airworthiness and operational reliability of the Aircraft throughout the lease term.",tensor(0.9351),Yes
+In which section is the maintenance of the Aircraft discussed?,Section 9,No,Specific/Factual,"The maintenance of the Aircraft is discussed primarily in **Section 8: Covenants of Lessee**. This section outlines the Lessee's obligations regarding the maintenance and operational standards required for the Aircraft throughout the Lease Term. 
+
+### Key Points from Section 8:
+
+1. **Compliance with Laws**: The Lessee must adhere to all applicable laws and regulations governing the operation and maintenance of the Aircraft. This includes securing necessary licenses and ensuring that the Aircraft is operated by qualified personnel.
+
+2. **Maintenance Obligations**: The Lessee is responsible for maintaining the Aircraft in an airworthy condition, which includes performing routine and scheduled maintenance, inspections, and repairs as specified by the manufacturer and regulatory authorities. 
+
+3. **Record Keeping**: The Lessee must maintain accurate and up-to-date maintenance records, including flight logs and maintenance logs, and make these records available for inspection by the Lessor upon request.
+
+4. **Costs**: The Lessee bears all costs associated with the maintenance, repair, and operation of the Aircraft, including labor, parts, and regulatory fees.
+
+This section emphasizes the importance of maintaining the Aircraft to ensure safety and compliance with aviation standards, thereby protecting both the Lessee and Lessor's interests.",tensor(0.8213),No
+What taxes is the Lessee responsible for during the lease term?,"Tax Type Rate Payment
+Frequency
+Jurisdiction Estimated Annual
+Amount (USD)
+Sales Tax 6% on lease
+payments
+Monthly (on
+rent)
+State of Texas, USA $180,000
+Property Tax 1.5% of aircraft
+value
+Annually Harris County,
+Texas, USA
+$750,000
+International
+Fees
+Varies by
+airport/country
+Per Use Various
+(International Ops)
+$150,000",No,Specific/Factual,"The Lessee is responsible for several types of taxes during the lease term, as outlined in the agreement. These taxes include:
+
+### 1. Sales Tax
+- **Rate**: 6% on lease payments
+- **Payment Frequency**: Monthly (on rent)
+- **Jurisdiction**: State of Texas, USA
+- **Estimated Annual Amount**: $180,000
+
+### 2. Property Tax
+- **Rate**: 1.5% of aircraft value
+- **Payment Frequency**: Annually
+- **Jurisdiction**: Harris County, Texas, USA
+- **Estimated Annual Amount**: $750,000
+
+### 3. International Fees
+- **Rate**: Varies by airport/country
+- **Payment Frequency**: Per Use
+- **Jurisdiction**: Various (International Operations)
+- **Estimated Annual Amount**: $150,000
+
+### Tax Indemnity
+In addition to these taxes, the Lessee is also required to indemnify the Lessor for any tax liabilities not covered under the terms of the agreement. This includes:
+- **Tax on Sale or Transfer of Aircraft**: 11% of aircraft value, which the Lessor pays, but the Lessee indemnifies.
+- **International Customs Duties**: Variable amounts that the Lessee is responsible for paying immediately.
+- **Penalties for Late Tax Payments**: 6% per month of unpaid tax, which the Lessee must pay along with any penalties and interest.
+
+This comprehensive tax responsibility ensures that the Lessee is fully accountable for all financial obligations related to the operation and use of the Aircraft during the lease term.",tensor(0.9181),Yes
+What is the sales tax rate on lease payments?,6% on lease payments,No,Numerical,"The provided documents do not specify a sales tax rate on lease payments. They mention that the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the Aircraft, including sales tax on the lease payments. However, the exact rate of sales tax is not detailed in the information available.
+
+For accurate sales tax rates, it would be advisable to consult local tax regulations or a tax professional familiar with the jurisdiction in which the lease is executed.",tensor(0.8493),No
+How often is the sales tax payment made?,Monthly (on rent),No,Procedural,"The documents provided do not specify the frequency of sales tax payments related to the lease of the aircraft. However, it does state that the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the Aircraft. This includes sales tax, use tax, and excise tax on the lease payments.
+
+Typically, sales tax payments can vary based on local regulations and the specific terms of the lease agreement. It is advisable for the Lessee to consult with a tax professional or legal advisor to understand the specific obligations and payment schedules applicable to their situation.",tensor(0.7908),No
+In which jurisdiction is the sales tax applicable?,"State of Texas, USA",No,Specific/Factual,"### Jurisdiction for Sales Tax Applicability
+
+The Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the Aircraft. This includes sales tax, which is applicable in the jurisdiction where the Aircraft is leased or operated. 
+
+### Key Points
+
+1. **Sales Tax Responsibility**: The Lessee must cover sales tax, use tax, and excise tax on the lease payments. This indicates that the jurisdiction where the Aircraft is based or where the lease agreement is executed will determine the applicable sales tax.
+
+2. **Operational Jurisdiction**: The Aircraft is to be based at London Heathrow Airport unless otherwise agreed in writing by the Lessor. Therefore, if the Aircraft operates primarily from this location, the sales tax laws of the United Kingdom would apply.
+
+3. **Indemnity Clause**: The Lessee agrees to indemnify and hold harmless the Lessor from any tax liabilities or penalties arising from the Lessee’s failure to comply with its tax obligations. This further emphasizes the importance of understanding the specific tax regulations in the relevant jurisdiction.
+
+In summary, the sales tax is applicable in the jurisdiction where the Aircraft is based or operated, which, in this case, is likely to be the United Kingdom, specifically at London Heathrow Airport.",tensor(0.7332),No
+What is the estimated annual amount for sales tax?,"$180,000 ",No,Numerical,"Sorry, I'm not able to provide an answer to that question.",tensor(0.7922),No
+What is the property tax rate based on the aircraft's value?,1.5% of aircraft value,No,Numerical,"The property tax rate based on the aircraft's value is 1.5%. This rate is applied annually to the aircraft's assessed value, which is currently estimated at $70,000,000. Therefore, the estimated annual property tax amount would be $750,000. 
+
+This tax is applicable in Harris County, Texas, USA, where the aircraft is based. The Lessee is responsible for paying this tax as part of their obligations under the lease agreement.",tensor(0.8643),No
+How often is the property tax payment made?,Annually,No,Procedural,"The provided documents do not specify the frequency of property tax payments related to the lease of the aircraft. However, it does state that the Lessee is solely responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the Aircraft. This includes sales tax, use tax, excise tax on lease payments, and other related fees.
+
+Typically, property taxes can be assessed annually or semi-annually, but the specific payment schedule can vary based on local laws and regulations. For precise information regarding property tax payment frequency, it would be advisable to consult local tax authorities or the lease agreement itself if it contains such details.",tensor(0.8047),No
+In which jurisdiction is the property tax applicable?,"Harris County, Texas, USA",Yes,Specific/Factual,"The property tax is applicable in Harris County, Texas, USA. The rate is set at 1.5% of the aircraft's value, and it is to be paid annually.",tensor(0.8974),No
+What is the estimated annual amount for property tax?,"$750,000 ",No,Numerical,"The provided documents do not specify an estimated annual amount for property tax related to the lease of the aircraft. Instead, they outline that the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by any governmental authority in connection with the possession, use, or operation of the aircraft. This includes sales tax, use tax, excise tax on lease payments, and other fees, but no specific figures or estimates for property tax are mentioned.
+
+If you need further information or have other questions regarding the lease agreement or related costs, feel free to ask!",tensor(0.8037),No
+"How do international fees vary, and when are they paid?",Varies by airport/country,No,Descriptive,"### Overview of International Fees
+
+International fees associated with the operation of an aircraft can vary significantly based on several factors, including the jurisdiction, the type of operation, and the specific services utilized. These fees typically encompass customs duties, import/export fees, airport landing fees, navigation charges, and parking fees. The variation in these fees is influenced by the regulations of the countries involved, the nature of the flight (commercial or private), and the agreements in place between the Lessee and the relevant authorities.
+
+### Types of International Fees
+
+1. **Customs Duties and Import/Export Fees**: 
+   - These fees are applicable when an aircraft crosses international borders. The amount can vary based on the country’s trade policies and the nature of the goods being transported.
+
+2. **Airport Landing Fees**: 
+   - These are charges imposed by airports for the use of their facilities. The fees can differ based on the airport's location, size, and the type of aircraft.
+
+3. **Navigation Charges**: 
+   - These fees are levied for the use of air navigation services and can vary by country and airspace.
+
+4. **Parking Fees**: 
+   - Airports may charge for the parking of aircraft, which can also vary based on the airport's policies and the duration of the stay.
+
+### Payment Timing
+
+According to the lease agreement, the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by governmental authorities in connection with the possession, use, or operation of the aircraft. This includes:
+
+- **Sales Tax and Use Tax**: Paid at the time of lease payments.
+- **Airport Fees**: Typically paid upon landing or as per the airport's billing cycle.
+- **Customs Duties**: Paid at the time of crossing international borders.
+
+The Lessee must ensure timely payment of these fees to avoid penalties and to maintain compliance with local regulations. Additionally, the Lessee agrees to indemnify and hold harmless the Lessor from any tax liabilities or penalties arising from the Lessee’s failure to comply with its tax obligations.
+
+### Conclusion
+
+In summary, international fees can vary widely based on multiple factors, and the timing of these payments is crucial for compliance and operational efficiency. The Lessee must be diligent in managing these fees to ensure smooth operations and adherence to legal requirements.",tensor(0.8748),No
+Could you please provide the tax information in a table format?,"Tax Type Rate Payment
+Frequency
+Jurisdiction Estimated Annual
+Amount (USD)
+Sales Tax 6% on lease
+payments
+Monthly (on
+rent)
+State of Texas, USA $180,000
+Property Tax 1.5% of aircraft
+value
+Annually Harris County,
+Texas, USA
+$750,000
+International
+Fees
+Varies by
+airport/country
+Per Use Various
+(International Ops)
+$150,000",No,Procedural,"Certainly! Below is the tax information summarized in a table format:
+
+| **Tax Type**                | **Rate**                          | **Payment Frequency** | **Jurisdiction**                     | **Estimated Annual Amount (USD)** |
+|-----------------------------|-----------------------------------|-----------------------|--------------------------------------|------------------------------------|
+| Sales Tax                   | 6% on lease payments              | Monthly (on rent)     | State of Texas, USA                 | $180,000                           |
+| Property Tax                | 1.5% of aircraft value            | Annually              | Harris County, Texas, USA           | $750,000                           |
+| International Fees          | Varies by airport/country         | Per Use               | Various (International Ops)          | $150,000                           |
+
+### Tax Indemnity Scenarios
+
+| **Scenario**                                   | **Tax Liability**               | **Responsible Party** | **Remedy**                                      |
+|------------------------------------------------|---------------------------------|-----------------------|-------------------------------------------------|
+| Tax on sale or transfer of Aircraft            | 11% of aircraft value           | Lessor                | Lessor pays; Lessee indemnifies Lessor          |
+| International customs duties                   | Variable                        | Lessee                | Lessee pays immediately                          |
+| Penalties for late tax payments                | 6% per month of unpaid tax     | Lessee                | Lessee pays penalties and interest               |
+
+This table provides a clear overview of the tax obligations and indemnity scenarios as outlined in the lease agreement.",tensor(0.9055),Yes
+What is the Lessee's responsibility regarding tax liabilities not covered in the agreement?,"The Lessee shall indemnify the Lessor for any tax liabilities not covered under the terms of this agreement, as outlined below: Scenario Tax Liability Responsible Party Remedy Tax on sale or transfer of Aircraft 11% of aircraft value Lessor Lessor pays; Lessee indemnifies Lessor International customs duties Variable Lessee Lessee paysimmediately Penaltiesforlate tax payments 6% per month of unpaid tax Lessee Lessee pays penalties and interest",No,Specific/Factual,"### Lessee's Responsibilities Regarding Tax Liabilities
+
+The Lessee has specific obligations concerning tax liabilities that are not explicitly covered in the lease agreement. According to the provisions outlined in the document, the Lessee is required to indemnify the Lessor for any tax liabilities that arise outside the terms of the agreement. This includes various scenarios where tax obligations may occur.
+
+#### Tax Indemnity Scenarios
+
+1. **Tax on Sale or Transfer of Aircraft**: If there is a tax liability resulting from the sale or transfer of the Aircraft, the Lessee is responsible for indemnifying the Lessor for 11% of the aircraft's value. In this case, the Lessor will pay the tax, but the Lessee must reimburse the Lessor.
+
+2. **International Customs Duties**: The Lessee is responsible for paying any variable customs duties that may arise when the Aircraft is operated across international borders. This payment is to be made immediately by the Lessee.
+
+3. **Penalties for Late Tax Payments**: If the Lessee fails to pay taxes on time, they will incur penalties of 6% per month on any unpaid tax amounts. The Lessee is responsible for paying these penalties and any associated interest.
+
+#### Summary
+
+In summary, the Lessee must indemnify the Lessor for any tax liabilities not covered in the lease agreement, including those related to the sale or transfer of the Aircraft, international customs duties, and penalties for late tax payments. This indemnification ensures that the Lessor is protected from any financial repercussions arising from the Lessee's tax obligations.",tensor(0.9561),Yes
+What is the tax liability for the sale or transfer of the Aircraft?,11% of aircraft value,No,Specific/Factual,"### Tax Liability for Sale or Transfer of the Aircraft
+
+In the context of the Aircraft Lease Agreement, the tax liability for the sale or transfer of the Aircraft is specified as follows:
+
+- **Tax Rate**: The tax on the sale or transfer of the Aircraft is set at **11% of the aircraft's value**.
+- **Responsible Party**: The Lessor is responsible for paying this tax liability.
+- **Indemnification**: The Lessee agrees to indemnify the Lessor for this tax liability, meaning that while the Lessor pays the tax, the Lessee will cover the cost as per the terms outlined in the agreement.
+
+This arrangement ensures that the Lessor is protected from any financial burden associated with the tax liability arising from the sale or transfer of the Aircraft, while the Lessee assumes the responsibility for reimbursement. 
+
+### Summary
+
+In summary, if the Aircraft is sold or transferred, the Lessor will incur an 11% tax on its value, and the Lessee is obligated to indemnify the Lessor for this amount. This provision is crucial for both parties to understand, as it delineates financial responsibilities related to potential future transactions involving the Aircraft.",tensor(0.8564),No
+Who is responsible for paying the tax on the sale or transfer of the Aircraft?,Lessor,No,Specific/Factual,"### Responsibility for Tax on Sale or Transfer of the Aircraft
+
+In the context of the lease agreement, the responsibility for paying the tax on the sale or transfer of the Aircraft falls on the Lessor. Specifically, the agreement states that the tax liability for the sale or transfer of the Aircraft is set at 11% of the aircraft's value. In this scenario, while the Lessor is responsible for making the payment, the Lessee is required to indemnify the Lessor for this tax liability. This means that the Lessee must reimburse the Lessor for any taxes incurred due to the sale or transfer of the Aircraft.
+
+### Summary of Tax Indemnity
+
+The tax indemnity clause outlines the obligations of both parties regarding tax liabilities. While the Lessor pays the tax on the sale or transfer, the Lessee's indemnification ensures that the Lessor is protected from any financial burden associated with this specific tax scenario. This arrangement is designed to clarify the financial responsibilities and protect the interests of the Lessor in the event of a sale or transfer of the Aircraft. 
+
+In conclusion, the Lessor is responsible for paying the tax on the sale or transfer of the Aircraft, while the Lessee must indemnify the Lessor for this tax liability.",tensor(0.7959),No
+How are penalties for late tax payments calculated?,"6% per month of unpaid tax and Lessee pays penalties and
+interest
+",No,Descriptive,"The provided documents do not specify how penalties for late tax payments are calculated. They mention that the Lessee is responsible for paying all taxes, duties, fees, and other charges imposed by governmental authorities in connection with the possession, use, or operation of the Aircraft. Additionally, the Lessee agrees to indemnify and hold harmless the Lessor from any tax liabilities or penalties arising from the Lessee’s failure to comply with its tax obligations.
+
+However, without specific details on the calculation of penalties for late tax payments, such as interest rates, grace periods, or any other relevant factors, I cannot provide a definitive answer. If you need information on general practices for calculating late tax payment penalties, I recommend consulting tax regulations or a tax professional.",tensor(0.8872),No
+Who is responsible for paying penalties and interest for late tax payments?,Lessee,No,Specific/Factual,"In the context of the lease agreement, the Lessee is responsible for paying penalties and interest for late tax payments. Specifically, if there are any penalties for late tax payments, they are set at a rate of 6% per month on the unpaid tax, and the Lessee is obligated to pay these penalties and any associated interest. 
+
+This responsibility is outlined in the tax indemnity section of the agreement, which clarifies that the Lessee must indemnify the Lessor for any tax liabilities not covered under the terms of the agreement. Therefore, any late payment penalties fall under the Lessee's obligations.",tensor(0.8351),No
+Can you provide the details about tax indemnity in a table format?,"Tax Indemnity: The Lessee shall indemnify the Lessor for any tax liabilities not covered under
+the terms of this agreement, as outlined below:
+Scenario Tax Liability Responsible
+Party
+Remedy
+Tax on sale or transfer of
+Aircraft
+11% of aircraft value Lessor Lessor pays; Lessee
+indemnifies Lessor
+International customs
+duties
+Variable Lessee Lessee paysimmediately
+Penaltiesforlate tax
+payments
+6% per month of
+unpaid tax
+Lessee Lessee pays penalties and
+interest
+",No,Procedural,"Certainly! Below is a summary of the tax indemnity details presented in a table format:
+
+| **Tax Scenario**                          | **Tax Liability**                | **Responsible Party** | **Remedy**                                      |
+|-------------------------------------------|----------------------------------|-----------------------|-------------------------------------------------|
+| Tax on sale or transfer of Aircraft       | 11% of aircraft value            | Lessor                | Lessor pays; Lessee indemnifies Lessor          |
+| International customs duties              | Variable                         | Lessee                | Lessee pays immediately                          |
+| Penalties for late tax payments           | 6% per month of unpaid tax      | Lessee                | Lessee pays penalties and interest               |
+
+### Tax Categories
+
+| **Tax Type**          | **Rate**                     | **Payment Frequency** | **Jurisdiction**                     | **Estimated Annual Amount (USD)** |
+|-----------------------|------------------------------|-----------------------|-------------------------------------|------------------------------------|
+| Sales Tax             | 6% on lease payments         | Monthly (on rent)     | State of Texas, USA                | $180,000                           |
+| Property Tax          | 1.5% of aircraft value       | Annually              | Harris County, Texas, USA          | $750,000                           |
+| International Fees    | Varies by airport/country    | Per Use               | Various (International Ops)        | $150,000                           |
+
+This table summarizes the tax liabilities and responsibilities of the Lessee as outlined in the document. If you need further details or explanations, feel free to ask!",tensor(0.9264),Yes
+What conditions must the Aircraft meet upon return after the Lease expiration or termination?,"Checklist: Upon the expiration or termination of the Lease, the Aircraft must
+meet the following conditions for return:
+Component Condition RequiredDocumentation Notes
+Airframe No major damage,
+routine wear
+Last 2 years of maintenance
+logs
+Maintenance logs must be
+up to date
+Engines Mid-life status, no
+major defects
+Engine overhaul records Engines must meet
+performance criteria
+Avionics Fully functional Latestsoftware updates,
+calibration records
+Avionicsshould be up-to_x0002_date and calibrated
+Interior Normal wear and
+tear acceptable
+Cabin refurbishment records Lessee responsible for
+major damage
+Exterior Repainted, no
+structural damage
+Inspection and repaint
+certificates
+Paint must be in good
+condition_x000D_",No,Specific/Factual,"Upon the expiration or early termination of the Lease, the Aircraft must meet specific conditions as outlined in the Return Conditions section of the agreement. These conditions ensure that the Aircraft is returned in a suitable state for immediate commercial operation. Below are the key requirements:
+
+### Aircraft Condition at Return
+1. **Airworthy Condition**: The Aircraft must be returned in an airworthy condition, free of any liens, and compliant with the standards set by the relevant aviation authorities.
+2. **Configuration**: The Aircraft should be in the same configuration as it was delivered, subject to normal wear and tear. All components, including engines, avionics, landing gear, and interiors, must be operational and meet the original equipment manufacturer’s (OEM) specifications.
+
+### Airframe and Engine Hours/Cycles
+1. **Airframe Limits**: The Aircraft must have less than 15,000 hours since the last heavy maintenance check.
+2. **Engine Limits**: Each engine should have at least 1,500 flight hours or 750 cycles remaining before the next major overhaul is required.
+3. **Landing Gear**: The Aircraft must have at least 1,000 cycles remaining before the next overhaul.
+
+### Interior Condition
+1. **Clean and Functional**: The interior of the Aircraft must be in good condition, clean, and free from any damage beyond normal wear and tear. All components, such as seats, flooring, and lavatories, must be fully functional and meet commercial passenger standards.
+2. **Repairs**: Any damage to the interior, such as torn seats or broken panels, must be repaired at the Lessee’s expense before the return.
+
+### Maintenance Compliance
+1. **Scheduled Maintenance**: All scheduled maintenance due during the Lease Term must be completed before the Aircraft is returned, with no overdue items or deferred maintenance tasks outstanding.
+2. **Documentation**: The Lessee must provide complete maintenance records for the Aircraft, engines, and components, including proof of compliance with all applicable airworthiness directives (ADs) and service bulletins (SBs).
+
+### Paint and Livery
+1. **Return Livery**: The Aircraft must be returned either in the Lessee’s livery (if approved by the Lessor) or repainted in a neutral color agreed upon by both parties.
+2. **Condition of Paint**: The paint must be free of significant defects, such as peeling or chipping, and suitable for continued commercial service.
+
+### Equipment and Configuration
+1. **Original Equipment**: The Aircraft must be returned with all original equipment and configuration as at the time of delivery, including avionics systems, seats, and operational safety equipment.
+2. **Missing Items**: Any missing equipment or components must be replaced by the Lessee at its own expense prior to return.
+
+These conditions are designed to ensure that the Aircraft is returned in a condition that allows for its immediate re-entry into service, maintaining the standards expected in the aviation industry.",tensor(0.9555),Yes
+What documentation is required for the airframe condition?,Last 2 years of maintenance logs,No,Procedural,"The documentation required for the airframe condition at the time of delivery includes several key certificates and records to ensure compliance with regulatory standards and operational readiness. Here’s a detailed breakdown:
+
+### Required Documentation
+
+1. **Certificate of Airworthiness**: This document certifies that the aircraft meets all safety and regulatory requirements for operation.
+
+2. **Aircraft Registration Certificate**: This certificate provides proof of the aircraft's registration with the relevant aviation authority.
+
+3. **Maintenance and Service Records**: Comprehensive records detailing all maintenance performed on the aircraft, including routine inspections, repairs, and any modifications made.
+
+4. **Weight and Balance Records**: Documentation that outlines the aircraft's weight and balance calculations, ensuring it is within safe operational limits.
+
+5. **Damage History Report**: If applicable, this report details any past damages the aircraft has sustained and the repairs that were conducted.
+
+### Compliance Verification
+
+All documents must be up-to-date and verified by both the Lessor and the Lessee prior to the delivery of the aircraft. This verification process is crucial to ensure that the aircraft is in an airworthy condition and free from any defects that could impair its use for commercial operations.
+
+### Conclusion
+
+In summary, the airframe condition documentation is essential for confirming that the aircraft is ready for safe operation and complies with all necessary regulations. The Lessor is responsible for providing these documents at the time of delivery, ensuring a smooth transition of operational control to the Lessee.",tensor(0.8073),No
+What is the acceptable condition for the engines upon return?,"Mid-life status, no major defects, Engines must meet
+performance criteria",No,Specific/Factual,"### Acceptable Condition for Engines Upon Return
+
+When returning the Aircraft, the engines must meet specific operational limits and conditions as outlined in the lease agreement. Here are the key requirements:
+
+1. **Operational Limits**: Each engine must have at least:
+   - **1,500 flight hours** remaining before the next major overhaul is required, or
+   - **750 cycles** remaining before the next major overhaul is required.
+
+2. **Time Between Overhaul (TBO)**: The Aircraft must be returned with no engine or Auxiliary Power Unit (APU) exceeding **10% of its allowable time between overhaul (TBO)**. This ensures that the engines are within acceptable operational limits and do not require immediate major repairs.
+
+3. **Condition**: The engines should be in good operating condition, meaning they should not require any major repairs at the time of return. This is crucial for ensuring that the Aircraft is ready for immediate commercial operation.
+
+4. **Replacement of Non-Compliant Components**: If any engine components are found to be beyond the allowed operational limits, the Lessee is responsible for replacing them with parts of equal or better value before returning the Aircraft.
+
+These conditions are designed to ensure that the Aircraft, including its engines, is returned in a state that is suitable for continued commercial use, thereby maintaining the integrity and safety of the operation.",tensor(0.8719),No
+What records must be provided for the engines?,Engine overhaul records,No,Procedural,"### Required Records for Engines
+
+In accordance with the lease agreement, the Lessee is obligated to maintain comprehensive records for the Aircraft, which includes specific documentation for the engines. The following records must be provided:
+
+1. **Maintenance Logs**: 
+   - Detailed logs documenting all repairs, inspections, and modifications made to the engines. This includes routine maintenance activities and any significant repairs that may have been performed.
+
+2. **Component Records**: 
+   - Records that detail the status and life-cycle of the engines, including information on hours flown, cycles completed, and any overhauls or major inspections that have been conducted.
+
+3. **Compliance Documentation**: 
+   - Proof of compliance with all applicable Airworthiness Directives (ADs) and Service Bulletins (SBs) issued by the relevant aviation authorities or the engine manufacturer. This ensures that the engines are maintained in accordance with regulatory requirements and manufacturer specifications.
+
+4. **Inspection Reports**: 
+   - Documentation of any inspections performed on the engines, including borescope inspections and any findings or actions taken as a result of those inspections.
+
+These records are essential for ensuring that the engines are maintained in an airworthy condition and comply with all regulatory and safety standards. The Lessee must make these records available to the Lessor for inspection upon request, as stipulated in the lease agreement.",tensor(0.8568),No
+What condition should the avionics be in when returning the Aircraft?,Fully functional,No,Specific/Factual,"### Avionics Condition at Return
+
+When returning the Aircraft, the avionics must be in a fully operational condition. This means that all avionics systems should meet the original equipment manufacturer’s (OEM) specifications and be functional without any defects. The Lessee is responsible for ensuring that the avionics, along with other components of the Aircraft, are maintained in accordance with the standards required by aviation authorities.
+
+### Compliance with Standards
+
+The Aircraft must be returned in an airworthy condition, which includes compliance with all applicable airworthiness directives (ADs) and service bulletins (SBs) issued by the relevant aviation authorities. This ensures that the avionics not only function correctly but also adhere to the regulatory requirements necessary for safe operation.
+
+### Maintenance Records
+
+Additionally, the Lessee must provide complete maintenance records for the Aircraft, including documentation that verifies the operational status of the avionics. This documentation should detail any inspections, repairs, or modifications made during the Lease Term, ensuring transparency and compliance with the maintenance obligations outlined in the agreement.
+
+In summary, the avionics should be fully operational, compliant with OEM specifications, and supported by thorough maintenance records at the time of the Aircraft's return.",tensor(0.8005),No
+What documentation is needed for the avionics?,Cabin refurbishment records,No,Procedural,"### Documentation Required for Avionics
+
+In the context of the Aircraft Lease Agreement between AeroSky Rentals Ltd. (Lessor) and BlueJet Airways Corp. (Lessee), the following documentation is essential for the avionics systems:
+
+1. **Maintenance Manuals**: The Lessee must maintain comprehensive maintenance manuals that detail the operational and maintenance procedures for the avionics systems. These manuals should be accessible and up-to-date, ensuring compliance with the manufacturer's specifications and aviation regulations.
+
+2. **Airworthiness Directives (ADs)**: The Lessee is required to adhere to all applicable Airworthiness Directives issued by aviation authorities. These directives may include specific instructions or modifications necessary for the avionics systems to ensure they remain compliant and safe for operation.
+
+3. **Flight Logs**: The Lessee must keep detailed flight logs that document all flight hours and cycles of the aircraft, including any specific entries related to the avionics systems' performance and any incidents that may have occurred during operation.
+
+4. **Maintenance Records**: Accurate and up-to-date maintenance records must be maintained, documenting all repairs, inspections, and modifications made to the avionics systems. This includes records of any routine checks, troubleshooting, and repairs performed.
+
+5. **Technical Documentation**: The Lessee should also maintain technical documentation that outlines the specifications, configurations, and operational guidelines for the avionics systems. This documentation is crucial for ensuring that the systems are operated and maintained correctly.
+
+6. **Compliance Records**: Any records demonstrating compliance with relevant local, national, and international laws, rules, and regulations governing the operation and maintenance of the avionics systems should be kept on file.
+
+### Conclusion
+
+The documentation related to avionics is critical for ensuring the safety, compliance, and operational efficiency of the aircraft. The Lessee must ensure that all required documents are maintained and made available for inspection by the Lessor or authorized representatives as stipulated in the lease agreement. This diligence not only supports regulatory compliance but also enhances the overall safety and reliability of the aircraft's operations.",tensor(0.7919),No
+What is the acceptable condition for the interior of the Aircraft?,Normal wear and tear acceptable,No,Specific/Factual,"### Acceptable Condition for the Interior of the Aircraft
+
+The interior of the Aircraft must meet specific standards to ensure it is suitable for commercial operation upon return to the Lessor. Here are the key requirements:
+
+1. **General Condition**: The interior must be in good condition, clean, and free from any damage beyond normal wear and tear. This includes all components such as seats, flooring, lavatories, and other cabin elements.
+
+2. **Functionality**: All interior components must be fully functional and meet commercial passenger standards. This means that items like seats should be operational, and facilities such as lavatories must be in working order.
+
+3. **Repairs**: Any damage that occurs during the Lease Term, such as torn seats or broken panels, must be repaired at the Lessee’s expense before the Aircraft is returned. This ensures that the Aircraft is returned in a condition that is acceptable for future use.
+
+4. **Compliance with Standards**: The interior must comply with the standards set by relevant aviation authorities, ensuring that it is not only aesthetically pleasing but also safe and functional for passengers.
+
+In summary, the Aircraft's interior must be maintained in a condition that reflects good upkeep, operational functionality, and compliance with aviation standards, ensuring it is ready for immediate commercial service upon return.",tensor(0.8183),No
+Who is responsible for major damage to the interior?,Lessee responsible for major damage,Yes,Specific/Factual,"Based on the provided documents, the Lessee is responsible for the maintenance and repair of the Aircraft, which includes any major damage to the interior. The Lessee must adhere to the maintenance schedule stipulated by the manufacturer and is liable for any unscheduled maintenance costs that arise during the lease term.
+
+### Responsibilities of the Lessee
+
+1. **Maintenance Obligations**: The Lessee is required to follow the Aircraft’s maintenance schedule, which includes regular checks and repairs. This encompasses both scheduled and unscheduled maintenance.
+
+2. **Unscheduled Maintenance Costs**: If any unscheduled maintenance is required, the Lessee is responsible for covering these costs. While the document specifies certain components and their associated costs for unscheduled repairs, it implies that any major damage, including to the interior, would fall under the Lessee's responsibility.
+
+3. **Restoration of the Aircraft**: In the event of damage, the Lessee must arrange for repairs to restore the Aircraft to its original condition, which would include addressing any major damage to the interior.
+
+### Conclusion
+
+In summary, the Lessee bears the responsibility for any major damage to the interior of the Aircraft, as they are tasked with maintaining the Aircraft in accordance with the lease agreement. This includes both routine maintenance and any necessary repairs resulting from damage.",tensor(0.8988),No
+What condition must the exterior of the Aircraft meet upon return?,"Repainted, no structural damage",No,Specific/Factual,"### Exterior Condition Requirements for Aircraft Return
+
+Upon the return of the Aircraft to the Lessor, specific conditions regarding the exterior must be met to ensure compliance with the terms of the lease agreement. The following outlines the key requirements:
+
+1. **Paint and Livery**: 
+   - The Aircraft must be returned either in the Lessee’s livery, if approved by the Lessor, or repainted in a neutral color that is mutually agreed upon by both parties.
+   - The paint must be free of significant defects, such as peeling or chipping, ensuring that it is suitable for continued commercial service.
+
+2. **Condition Standards**:
+   - The exterior should be in good condition, reflecting normal wear and tear. This means that while some minor signs of use are acceptable, any major damage or deterioration must be addressed prior to the return.
+   - All external components, including but not limited to the fuselage, wings, and landing gear, must be operational and meet the original equipment manufacturer’s (OEM) specifications.
+
+3. **Repairs**:
+   - Any damage to the exterior that exceeds normal wear and tear must be repaired at the Lessee’s expense before the Aircraft is returned. This includes addressing any cosmetic issues that could affect the Aircraft's appearance or functionality.
+
+### Conclusion
+
+In summary, the Aircraft's exterior must be returned in a condition that is not only aesthetically acceptable but also compliant with operational standards. This ensures that the Aircraft is ready for immediate commercial operation upon its return to the Lessor.",tensor(0.8169),No
+What documentation must be provided for the exterior condition?,Inspection and repaint certificates,No,Procedural,"The documentation required for the exterior condition of the Aircraft, as outlined in the lease agreement, includes several key components that ensure compliance with airworthiness and operational standards. Here’s a detailed breakdown:
+
+### 1. **Aircraft Condition at Delivery**
+- **Airworthiness Compliance**: The Aircraft must be delivered in an airworthy condition, fully equipped with all necessary parts, components, and avionics as required by regulatory authorities.
+- **Defect-Free Condition**: The Aircraft should be free from any defects that would impair its use for commercial operations.
+
+### 2. **Certification and Documentation**
+At the time of delivery, the following documents must be provided:
+- **Certificate of Airworthiness**: This certifies that the Aircraft meets all safety and regulatory requirements.
+- **Aircraft Registration Certificate**: This document verifies the Aircraft's registration with the appropriate aviation authority.
+- **Maintenance and Service Records**: These records should detail all maintenance performed on the Aircraft, ensuring it meets operational standards.
+- **Weight and Balance Records**: This documentation is necessary to confirm that the Aircraft is within the required weight limits for safe operation.
+- **Damage History Report**: If applicable, this report should outline any past incidents or damages to the Aircraft.
+
+### 3. **Pre-Delivery Inspection**
+- **Inspection Rights**: The Lessee has the right to conduct a pre-delivery inspection of the Aircraft, which includes a review of all records and a physical inspection by its technical team or a third-party expert.
+- **Non-Compliance Clause**: If the Aircraft does not meet the agreed delivery conditions, the Lessee may refuse acceptance until necessary repairs or adjustments are made.
+
+### 4. **Paint and Livery**
+- **Standard Livery**: The Aircraft shall be delivered in the Lessor’s standard livery or as specified in the agreement. Any custom paint or branding requested by the Lessee must be approved by the Lessor and completed at the Lessee's expense.
+
+### Conclusion
+In summary, the documentation for the exterior condition of the Aircraft includes essential certificates, maintenance records, and compliance with airworthiness standards. The Lessee's right to inspect the Aircraft prior to acceptance further ensures that all conditions are met before the Aircraft is put into service.",tensor(0.8480),No
+What records must the Lessee return along with the Aircraft?,"Along with the Aircraft, the Lessee must return the following
+records:
+Document Description Required Format
+Flight Logs All flights during the lease period Digital and Hard
+Copy
+Maintenance Records Complete maintenance history during the
+Lease Term
+Digital and Hard
+Copy
+Certificates of
+Airworthiness
+Latest issued by FAA and/or EASA Original Copy
+Engine Performance
+Reports
+Last 5 engine performance cycles Digital Copy
+Insurance Policies Proof of all insurance coverage during the
+Lease Term
+Certified Copy
+",No,Procedural,"### Records Required for Return of the Aircraft
+
+When the Lessee returns the Aircraft to the Lessor, several key records must be provided to ensure compliance with the terms of the lease agreement. These records are essential for verifying the Aircraft's maintenance history, operational status, and adherence to aviation regulations. Below is a detailed list of the required records:
+
+1. **Maintenance Records**: 
+   - The Lessee must provide complete maintenance records for the Aircraft, which should include documentation of all repairs, inspections, and modifications made during the Lease Term. This includes:
+     - Proof of compliance with all applicable Airworthiness Directives (ADs) and Service Bulletins (SBs).
+     - Documentation of routine and scheduled maintenance performed, such as A-checks, B-checks, C-checks, and D-checks.
+
+2. **Flight Logs**: 
+   - Comprehensive flight logs detailing all flight hours and cycles must be submitted. This information is crucial for tracking the Aircraft's usage and ensuring it meets the operational limits specified in the lease agreement.
+
+3. **Component Records**: 
+   - Detailed records of key components, including engines, landing gear, and avionics, must be included. These records should outline the status and life-cycle of these components, ensuring they meet the required operational limits at the time of return.
+
+4. **Compliance Documentation**: 
+   - The Lessee must also provide documentation that demonstrates compliance with all relevant aviation authorities' regulations, including any necessary certifications or permits related to the Aircraft's operation.
+
+### Importance of Accurate Record Keeping
+
+Maintaining accurate and up-to-date records is not only a contractual obligation but also a critical aspect of ensuring the safety and airworthiness of the Aircraft. The Lessor relies on these records to assess the Aircraft's condition and compliance with regulatory standards upon return. Failure to provide the required documentation may result in penalties or disputes regarding the Aircraft's condition and operational status.
+
+In summary, the Lessee is responsible for returning the Aircraft along with comprehensive maintenance records, flight logs, component records, and compliance documentation to ensure a smooth transition and adherence to the lease agreement's terms.",tensor(0.9654),Yes
+In what formats must the flight logs be returned?,Digital and Hard Copy,No,Procedural,"The flight logs must be returned in both physical and digital formats. This ensures that the records are accessible and compliant with aviation regulations, allowing for proper documentation and verification of the aircraft's operational history. The maintenance records, including the flight logs, are crucial for demonstrating adherence to maintenance schedules and airworthiness directives.",tensor(0.7975),No
+What documentation provides the complete maintenance history during the Lease Term?,Maintenance Records,No,Procedural,"The complete maintenance history during the Lease Term is documented through several key records and manuals that the Lessee is required to maintain and provide. These include:
+
+1. **Maintenance Records**: The Lessee must keep comprehensive maintenance logs that document all repairs, inspections, and modifications made to the Aircraft. This includes routine and scheduled maintenance, as well as any unscheduled maintenance that may occur.
+
+2. **Flight Logs**: Detailed flight logs must be maintained, which record all flight hours and cycles. This information is crucial for tracking the Aircraft's usage and ensuring that maintenance is performed in accordance with the manufacturer's schedule.
+
+3. **Technical Documentation**: The Lessee is also responsible for maintaining all technical documentation related to the Aircraft, which may include manuals and records of compliance with Airworthiness Directives (ADs), Service Bulletins (SBs), and Mandatory Modifications.
+
+4. **Quarterly Maintenance Reports**: The Lessee is required to submit quarterly reports summarizing all maintenance activities and inspections performed on the Aircraft. This provides a structured overview of the maintenance history over the Lease Term.
+
+5. **Inspection Records**: The Lessee must ensure that all inspections, including A-checks, B-checks, C-checks, and D-checks, are documented and made available for inspection by the Lessor upon request.
+
+These records collectively provide a comprehensive view of the Aircraft's maintenance history, ensuring compliance with aviation regulations and the terms of the Lease Agreement.",tensor(0.9161),Yes
+What is required for the certificates of airworthiness?,Latest issued by FAA and/or EASA,No,Procedural,"### Requirements for Certificates of Airworthiness
+
+Certificates of airworthiness are essential documents that confirm an aircraft's compliance with safety and operational standards set by aviation authorities. The following outlines the key requirements typically associated with obtaining and maintaining these certificates:
+
+#### 1. **Compliance with Regulatory Standards**
+   - The aircraft must meet all applicable local, national, and international regulations governing its design, construction, and operation. This includes adherence to standards established by organizations such as the Federal Aviation Administration (FAA) in the United States or the European Union Aviation Safety Agency (EASA).
+
+#### 2. **Maintenance and Inspection**
+   - Regular maintenance and inspections must be conducted in accordance with the manufacturer's maintenance manual and regulatory requirements. This includes:
+     - Routine checks (A-checks, B-checks, C-checks, and D-checks).
+     - Engine inspections and overhauls as specified by the engine manufacturer.
+     - Landing gear inspections and refurbishments.
+
+#### 3. **Documentation**
+   - Comprehensive documentation must be maintained, including:
+     - Flight logs detailing all flight hours and cycles.
+     - Maintenance logs documenting all repairs, inspections, and modifications.
+     - Component records that track the status and lifecycle of key components such as engines and landing gear.
+
+#### 4. **Airworthiness Directives (ADs)**
+   - Compliance with any Airworthiness Directives issued by aviation authorities is mandatory. These directives may require specific inspections, modifications, or repairs to ensure continued airworthiness.
+
+#### 5. **Operational Control**
+   - The aircraft must be operated by licensed and qualified pilots and crew members, as mandated by relevant aviation authorities. This includes ensuring that all operational procedures align with safety guidelines.
+
+#### 6. **Insurance Requirements**
+   - While not directly related to the certificate itself, maintaining adequate insurance coverage is often a prerequisite for operational approval. This includes hull insurance, third-party liability insurance, and passenger liability insurance.
+
+#### 7. **Final Inspection**
+   - Before a certificate of airworthiness is issued, a final inspection by an authorized representative or regulatory body is typically required to verify that the aircraft meets all necessary standards and is in a condition for safe operation.
+
+### Conclusion
+In summary, obtaining and maintaining a certificate of airworthiness involves a comprehensive approach that includes regulatory compliance, rigorous maintenance practices, thorough documentation, and adherence to safety standards. These measures ensure that the aircraft remains safe and operational throughout its service life.",tensor(0.8516),No
+How many engine performance cycles should be reported upon return?,Last 5 engine performance cycles,No,Specific/Factual,"Upon the return of the Aircraft, each engine must have at least **750 cycles remaining** before the next major overhaul is required. This requirement ensures that the engines are in a condition suitable for continued operation and compliance with maintenance standards. 
+
+Additionally, the overall condition of the Aircraft, including the engines, must meet the operational limits specified in the lease agreement, which includes maintaining the engines in accordance with the original equipment manufacturer’s (OEM) specifications. This is crucial for ensuring the Aircraft's airworthiness and operational readiness for future use.",tensor(0.8571),No
+What proof of insurance coverage is needed during the Lease Term?,Proof of all insurance coverage during the Lease Term,No,Procedural,"During the Lease Term, the Lessee is required to provide the Lessor with several forms of proof of insurance coverage to ensure compliance with the insurance requirements outlined in the agreement. The following documentation must be submitted:
+
+### Certificates of Insurance
+The Lessee must deliver certificates of insurance issued by the insurance companies. These certificates should confirm the types and amounts of coverage, name the Lessor as an additional insured and loss payee, and verify compliance with all other requirements specified in the agreement.
+
+### Policy Endorsements
+The Lessee is also required to provide copies of all endorsements, riders, and amendments to the insurance policies that may affect the Lessor’s rights or coverage. This includes any modifications to coverage limits, cancellation clauses, and named insureds.
+
+### Renewal Certificates
+At least 30 days before the expiration of any insurance policy, the Lessee must provide the Lessor with renewal certificates or proof of replacement coverage. This is to ensure that there is no lapse in insurance protection.
+
+### Notice of Claims
+In the event of any loss, damage, or occurrence that gives rise to a claim under the insurance policies, the Lessee must immediately notify the Lessor and the insurers in writing. This notification should detail the nature and extent of the claim, and the Lessee must provide all necessary information and documentation required to process the claim and assist in pursuing recovery from the insurers.
+
+### Summary
+These requirements are designed to protect the interests of the Lessor and ensure that adequate insurance coverage is maintained throughout the Lease Term. The Lessee's compliance with these documentation requirements is crucial for the smooth operation of the lease agreement and to mitigate any potential risks associated with the operation of the Aircraft.",tensor(0.9116),Yes
+Can you provide the details of aircraft return checklist in a table format?,"Aircraft Return Checklist: Upon the expiration or termination of the Lease, the Aircraft must meet the following conditions for return: Component Condition RequiredDocumentation Notes Airframe No major damage, routine wear Last 2 years of maintenance logs Maintenance logs must be up to date Engines Mid-life status, no major defects Engine overhaul records Engines must meet performance criteria Avionics Fully functional Latestsoftware updates, calibration records Avionicsshould be up-to_x0002_date and calibrated Interior Normal wear and tear acceptable Cabin refurbishment records Lessee responsible for major damage Exterior Repainted, no structural damage Inspection and repaint certificates Paint must be in good condition",No,Procedural,"Certainly! Below is a summary of the aircraft return checklist based on the provided documents, formatted in a table:
+
+| **Checklist Item**                     | **Details**                                                                                          |
+|----------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Aircraft Condition**                 | Must be returned in an airworthy condition, free of liens, and suitable for immediate commercial operation. |
+| **Configuration**                      | Aircraft must be in the same configuration as delivered, subject to normal wear and tear.           |
+| **Airframe Hours**                     | Less than 15,000 hours since the last heavy maintenance check.                                      |
+| **Engine Hours/Cycles**                | Each engine must have at least 1,500 flight hours or 750 cycles remaining before the next major overhaul. |
+| **Landing Gear Cycles**                | At least 1,000 cycles remaining before the next overhaul.                                           |
+| **Interior Condition**                 | Must be in good condition, clean, and free from damage beyond normal wear and tear.                 |
+| **Repairs**                            | Any damage to the interior must be repaired at the Lessee’s expense before return.                  |
+| **Maintenance Compliance**             | All scheduled maintenance due during the Lease Term must be completed before return.                |
+| **Documentation**                      | Complete maintenance records must be provided, including proof of compliance with all applicable ADs and SBs. |
+| **Paint and Livery**                  | Aircraft must be returned in the Lessee’s livery (if approved) or repainted in a neutral color.    |
+| **Equipment and Configuration**        | All original equipment and configuration must be returned as at the time of delivery.               |
+| **Missing Items**                     | Any missing equipment or components must be replaced by the Lessee at its own expense prior to return. |
+
+This checklist ensures that the aircraft is returned in compliance with the terms of the lease agreement and meets the necessary operational standards.",tensor(0.9325),Yes
+Provide details about return documentation in a table format,"Return Documentation: Along with the Aircraft, the Lessee must return the following records: Document Description Required Format Flight Logs All flights during the lease period Digital and Hard Copy Maintenance Records Complete maintenance history during the Lease Term Digital and Hard Copy Certificates of Airworthiness Latest issued by FAA and/or EASA Original Copy Engine Performance Reports Last 5 engine performance cycles Digital Copy Insurance Policies Proof of all insurance coverage during the Lease Term Certified Copy",Yes,Procedural,"Here are the details about return documentation in a table format:
+
+| **Document**                          | **Description**                                                                                     | **Location**                                      |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Aircraft Maintenance Manual (AMM)**| Comprehensive manual detailing maintenance procedures and requirements for the Aircraft.           | Stored in both physical and digital formats at the Lessee’s Maintenance Facility. |
+| **Flight Crew Operating Manual (FCOM)**| Manual providing operational procedures and guidelines for flight crew.                             | Onboard the aircraft and at Lessee’s Headquarters. |
+| **Minimum Equipment List (MEL)**     | List of equipment that must be operational for the Aircraft to be considered airworthy.            | Available in the cockpit and with Lessee’s Maintenance Control Center. |
+| **Aircraft Logbook**                 | Record of all maintenance and operational history of the Aircraft.                                 | Onboard the aircraft, retained in accordance with aviation regulations. |
+| **Airworthiness Certificate**         | Certificate confirming the Aircraft meets safety and regulatory standards.                          | Onboard the aircraft, and a copy filed with the Lessee’s Compliance Department. |
+| **Lease Agreement**                   | Document outlining the terms and conditions of the lease for the Aircraft.                          | Stored at both Lessor’s office and Lessee’s legal department in Toronto. |
+| **Weight and Balance Manual**         | Manual detailing the weight and balance specifications for the Aircraft.                            | Onboard the aircraft and accessible via Lessee’s Engineering Department. |
+| **Certificate of Insurance**          | Document proving insurance coverage for the Aircraft.                                             | Filed with the Lessee’s Risk Management Office. |
+| **Aircraft Delivery and Acceptance Record**| Record of the acceptance of the Aircraft upon delivery.                                          | Stored with Lessor and Lessee’s Aircraft Leasing Department. |
+| **Damage History Report**             | Report detailing any past incidents or damages to the Aircraft.                                    | Filed with the Lessee’s Aircraft Maintenance Records. |
+
+This table summarizes the essential return documentation required for the Aircraft, including their descriptions and locations.",tensor(0.9395),Yes
+What version of the Aircraft Maintenance Manual (AMM) is being used?,AMM 2025-01,No,Specific/Factual,"The version of the Aircraft Maintenance Manual (AMM) being used is AMM 2025-01. It was last updated on December 10, 2024, and is stored in both physical and digital formats at the Lessee’s Maintenance Facility.",tensor(0.8884),No
+When was the Aircraft Maintenance Manual (AMM) last updated?,12/10/2024 0:00,No,Specific/Factual,"The Aircraft Maintenance Manual (AMM) was last updated on December 10, 2024. This information indicates that the manual is regularly maintained to ensure it reflects the most current procedures and standards for aircraft maintenance. Keeping such documents up to date is crucial for compliance with aviation regulations and for the safety and efficiency of aircraft operations.",tensor(0.7947),No
+What edition of the Flight Crew Operating Manual (FCOM) is in use?,FCOM v11.0,No,Specific/Factual,"The edition of the Flight Crew Operating Manual (FCOM) currently in use is FCOM v11.0. This edition was issued on February 5, 2025, and is located onboard the aircraft as well as at the Lessee’s Headquarters.",tensor(0.9026),Yes
+What is the revision number for the Minimum Equipment List (MEL)?,MEL 01/2025,No,Specific/Factual,"The revision number for the Minimum Equipment List (MEL) is MEL 01/2025. This revision became effective on January 15, 2025, and is available in the cockpit and with the Lessee’s Maintenance Control Center.",tensor(0.8759),No
+What are the details of the Airworthiness Certificate?,"Airworthiness Certificate Certificate Number: AWC-12345 Issuance Date: April 15, 2023 Expiration Date: April 15, 2026 Location: Onboard the aircraft, and a copy filed with the Lessee’s Compliance Department.",No,Procedural,"The documents provided do not explicitly mention the details of the Airworthiness Certificate for the aircraft involved in the lease agreement between AeroSky Rentals Ltd. and BlueJet Airways Corp. However, there are references to the compliance and certification of the aircraft in relation to airworthiness.
+
+### Airworthiness Certification Overview
+
+1. **Aircraft Identification**: The aircraft in question is a SkyLiner A350, with Manufacturer’s Serial Number 2098745 and Registration Number G12345. It is equipped with two Rolls-Royce Trent XWB engines.
+
+2. **Inspection and Compliance**: The Lessee, BlueJet Airways Corp., conducted a thorough technical inspection of the aircraft upon delivery. This inspection included a review of maintenance records, operational performance, and compliance with airworthiness directives. The aircraft was confirmed to be in airworthy condition and met the specifications set forth in the Lease Agreement.
+
+3. **Regulatory Compliance**: The aircraft is certified as compliant with the applicable regulations and airworthiness standards of both Transport Canada Civil Aviation (TCCA) and the Federal Aviation Administration (FAA). This certification indicates that the aircraft meets all necessary safety and operational standards required for commercial flight.
+
+4. **Documentation**: The Lessee acknowledged receipt of all relevant documents, including the Certificate of Airworthiness, maintenance logs, service bulletins, and inspection records. This documentation is crucial for verifying the aircraft's airworthiness status.
+
+5. **No Outstanding Issues**: At the time of delivery, there were no outstanding airworthiness directives or deferred maintenance items, further confirming the aircraft's compliance with airworthiness requirements.
+
+### Conclusion
+
+While specific details of the Airworthiness Certificate itself are not provided, the information indicates that the aircraft was delivered in a condition that met all regulatory requirements for airworthiness, ensuring it was suitable for commercial operations. If you need more specific information about the Airworthiness Certificate, it may be necessary to refer to the actual certificate or additional documentation not included in the provided text.",tensor(0.8804),No
+Provide details on Certificate of Insurance,"Certificate of Insurance Policy Number: CI-12345-BJA Effective Period: August 1, 2025 – July 31, 2026 Insurer: Global Aviation Insurance Co. Location: Filed with the Lessee’s Risk Management Office.",No,Procedural,"### Certificate of Insurance: Overview
+
+A Certificate of Insurance (COI) is a crucial document that serves as proof of insurance coverage. It outlines the types of insurance policies held by the insured party (in this case, the Lessee) and confirms that these policies meet the requirements set forth in an agreement, such as a lease or contract. The COI is particularly important in aviation agreements, where specific insurance coverages are mandated to protect both the Lessee and the Lessor.
+
+### Key Requirements for the Certificate of Insurance
+
+1. **Types and Amounts of Coverage**: The COI must detail the types of insurance coverage maintained by the Lessee, including Hull All-Risk Insurance, War Risk Insurance, Third-Party Liability Insurance, and others. It should specify the coverage limits for each type of insurance, ensuring they meet or exceed the minimum requirements outlined in the lease agreement.
+
+2. **Naming the Lessor**: The Lessor must be named as an additional insured and loss payee on the COI. This provision ensures that the Lessor is protected in the event of a claim or loss, and that any claims proceeds are payable directly to the Lessor or jointly to both parties.
+
+3. **Compliance with Agreement**: The COI must confirm that the insurance policies comply with all other requirements specified in the lease agreement. This includes adherence to coverage limits, policy terms, and any additional clauses that may be stipulated.
+
+4. **Issuance and Delivery**: The Lessee is responsible for delivering the COI to the Lessor prior to the Delivery Date of the Aircraft. Additionally, the Lessee must provide updated certificates upon any renewal, replacement, or modification of the insurance policies.
+
+5. **Endorsements and Amendments**: Along with the COI, the Lessee must provide copies of all endorsements, riders, and amendments to the insurance policies that may affect the Lessor’s rights or coverage. This includes any changes to coverage limits, cancellation clauses, and named insureds.
+
+6. **Renewal Certificates**: At least 30 days before the expiration of any insurance policy, the Lessee must provide renewal certificates or proof of replacement coverage to ensure there is no lapse in insurance protection.
+
+### Importance of the Certificate of Insurance
+
+The Certificate of Insurance is vital for several reasons:
+
+- **Risk Management**: It helps both parties manage risk by ensuring that adequate insurance coverage is in place to protect against potential liabilities and losses.
+- **Legal Compliance**: The COI serves as evidence that the Lessee is complying with the insurance requirements of the lease agreement, which can be critical in legal or regulatory contexts.
+- **Financial Security**: By naming the Lessor as an additional insured, the COI provides financial security to the Lessor, ensuring they have access to insurance proceeds in the event of a claim.
+
+In summary, the Certificate of Insurance is a fundamental document in aviation leasing agreements, providing assurance that the necessary insurance protections are in place and that both parties are adequately covered against potential risks.",tensor(0.9090),Yes
+What is the current market value of the aircraft?,"$70,000,000 (current market value).",No,Numerical,"The current market value of the aircraft, specifically the SkyLiner A350, is $70,000,000. This value reflects the aircraft's worth as of the latest available information.",tensor(0.8505),No
+What is a Security Deposit in the context of the Lease Agreement?,Definition: “Security Deposit” refersto the sum paid by the Lessee to the Lessor as a form of financial guarantee for the performance of obligations under the Lease Agreement.,No,Descriptive,"### Security Deposit in the Lease Agreement
+
+In the context of the Lease Agreement, a **Security Deposit** serves as a financial guarantee provided by the Lessee to the Lessor. This deposit is intended to ensure the Lessee's performance of obligations under the lease terms. Specifically, the Security Deposit is a sum of money that the Lessee agrees to pay prior to the delivery of the Aircraft.
+
+#### Key Details of the Security Deposit:
+
+- **Value**: The Security Deposit is set at **$600,000**.
+- **Timing**: It must be paid **prior to the Aircraft’s delivery** to the Lessee.
+- **Purpose**: The primary function of the Security Deposit is to protect the Lessor's interests in the event of any defaults or breaches of the Lease Agreement by the Lessee. This could include failure to pay rent, maintenance obligations, or any other terms outlined in the agreement.
+
+The Security Deposit is a common practice in lease agreements, providing a layer of security for the Lessor while ensuring that the Lessee is committed to fulfilling their contractual obligations.",tensor(0.9369),Yes
+How much is the Security Deposit that the Lessee must pay?,"$600,000, to be paid prior to the Aircraft’s delivery.",No,Numerical,"The Security Deposit that the Lessee must pay to the Lessor is $600,000. This amount serves as a financial guarantee for the performance of obligations under the Lease Agreement and is to be paid prior to the Aircraft’s delivery. 
+
+This deposit is a common practice in lease agreements, ensuring that the Lessor has a form of security in case of any defaults or breaches of the lease terms by the Lessee. It is important for the Lessee to be aware of this requirement as it represents a significant upfront cost associated with the leasing of the Aircraft.",tensor(0.9028),Yes
+When must the Security Deposit be paid by the Lessee?,"Security Deposit Definition: “Security Deposit” refersto the sum paid by the Lessee to the Lessor as a form of financial guarantee for the performance of obligations under the Lease Agreement. Value: $600,000, to be paid prior to the Aircraft’s delivery.",No,Procedural,"The Security Deposit must be paid by the Lessee on or before the Delivery Date of the Aircraft. This requirement ensures that the Lessor has the necessary financial security in place prior to the Lessee taking possession of the Aircraft. The specific timing of this payment is crucial as it aligns with the commencement of the Lease Term, marking the Lessee's responsibility for the Aircraft from that point onward. 
+
+In addition to the Security Deposit, the Lessee is also responsible for other payments, such as the Basic Rent and Maintenance Reserve Payments, which are typically due at the start of the Lease Term. This structured payment schedule is designed to protect the interests of the Lessor while ensuring that the Lessee is prepared for the financial obligations associated with the lease. 
+
+Overall, timely payment of the Security Deposit is a critical aspect of the leasing agreement, reflecting the Lessee's commitment to fulfilling their obligations under the contract.",tensor(0.9367),Yes

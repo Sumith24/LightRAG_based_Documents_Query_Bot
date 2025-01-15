@@ -1,0 +1,18 @@
+{
+  "doc-d11cf5d6ccf9bb41b2dab901533e7cf9": {
+    "content_summary": "Contract Name: contract_sample_1\nAIRCRAFT LEASE AGREEMENT of \nThis Agreement is made on July 19, 202...",
+    "content_length": 74392,
+    "status": "processed",
+    "created_at": "2025-01-07T16:18:03.600113",
+    "updated_at": "2025-01-07T16:56:38.409897",
+    "chunks_count": 15
+  },
+  "doc-b3a6e9bbeadb1ead45aa26dc71caade6": {
+    "content_summary": "Contract Name: contract_sample_2\nAIRCRAFT LEASE AGREEMENT \nThis Agreement is made on August 10, 2025...",
+    "content_length": 74171,
+    "status": "processed",
+    "created_at": "2025-01-07T16:59:48.011608",
+    "updated_at": "2025-01-07T17:28:55.481730",
+    "chunks_count": 15
+  }
+}

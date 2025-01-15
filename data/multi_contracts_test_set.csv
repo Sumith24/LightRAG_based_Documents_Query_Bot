@@ -1,0 +1,51 @@
+question_category,type,question,ground_truth
+Numerical,Global,What is the monthly Basic Rent specified in each agreement?,"Contract 1: $250,000/month; Contract 2: $180,000/month."
+Numerical,Global,How long is the Lease Term in years for both agreements?,Contract 1: 60 months (5 years); Contract 2: 72 months (6 years).
+Numerical,Global,What is the estimated annual insurance cost for the Aircraft in each contract?,"Contract 1: $2,500,000 annually; Contract 2: $2,200,000 annually."
+Numerical,Global,How does the cost of fuel per flight hour compare across agreements?,Contract 1: $500/hour; Contract 2: $450/hour.
+Numerical,Global,What is the estimated cost of heavy maintenance in each agreement?,"Contract 1: $1,000,000 every 2 years; Contract 2: $1,200,000 every 2.5 years."
+Descriptive,Global,Describe the responsibilities of the Lessee regarding maintenance as specified in the agreements.,"Lessee must ensure regular maintenance, keep the Aircraft airworthy, and maintain detailed maintenance records."
+Descriptive,Global,What are the conditions under which the Aircraft is delivered to the Lessee?,Contract 1: Aircraft delivered at Houston International Airport; Contract 2: Delivered at London Heathrow Airport.
+Descriptive,Global,Summarize the obligations of the Lessee concerning compliance with laws and regulations.,"Lessee must comply with local, national, and international aviation laws, including FAA, EASA, and others."
+Descriptive,Global,How are inspection rights of the Lessor described in the agreements?,Lessor can inspect the Aircraft upon reasonable notice and has access to maintenance and operational records.
+Descriptive,Global,What are the safety and environmental compliance measures mentioned in each contract?,Lessee must follow environmental laws and ensure noise/emissions compliance.
+Specific/Factual,Global,What are the registration numbers of the Aircraft specified in each contract?,Contract 1: N67890; Contract 2: G12345.
+Specific/Factual,Global,What are the conditions for early termination in the agreements?,Contract 1: Early termination is subject to Section 17 events of default; Contract 2: Same with similar clauses.
+Specific/Factual,Global,Identify the key components required for Aircraft return at the end of the Lease Term.,"Return conditions include mid-life engines, updated avionics, and up-to-date maintenance records."
+Specific/Factual,Global,What governing aviation authorities are mentioned in each contract?,"Contract 1: FAA, EASA; Contract 2: TSA, IATA, CAA."
+Specific/Factual,Global,What are the specified insurance types and coverage limits for each Aircraft?,"Hull All-Risk, War Risk, Passenger Liability, and Third-Party Liability insurance are specified in both contracts."
+Procedural,Global,Outline the steps to be followed by the Lessee in the event of a Casualty Occurrence.,"Lessee must report within 24 hours, secure the Aircraft, and notify insurers."
+Procedural,Global,What is the procedure for returning the Aircraft at the end of the Lease Term?,Aircraft must be returned with required documentation and as per specified physical conditions.
+Procedural,Global,What actions must the Lessee take to ensure compliance with tax obligations?,"Lessee must pay applicable taxes, including sales, property, and international fees."
+Procedural,Global,Explain the process for obtaining approval for modifications to the Aircraft.,Lessee must seek prior approval from the Lessor for modifications.
+Procedural,Global,How are unscheduled maintenance costs handled in each agreement?,Lessee bears all costs for unscheduled maintenance as specified in the contract.
+Tabular,Global,"Summarize the tax categories, rates, and estimated annual amounts for both agreements.",Summarized in tables under Section 10 in both agreements.
+Tabular,Global,"Create a table of scheduled maintenance activities, frequencies, and estimated costs for each Aircraft.","Tables outline frequencies and costs for line, heavy, and engine maintenance."
+Tabular,Global,"Compare the costs of crew salaries, fuel, and airport fees in both contracts.","Contract 1: Crew salaries $100,000/month; Contract 2: $90,000/month. Fuel: $500/hour vs $450/hour."
+Tabular,Global,"List the conditions for Aircraft return in tabular format, including documentation and physical condition.","Physical conditions like no major defects, mid-life engines, and updated avionics required for return."
+Tabular,Global,"Tabulate the insurance requirements, including coverage types and amounts, for each agreement.",Insurance requirements for both are tabulated under Section 12.
+Numerical,Comparative,Compare the Basic Rent amounts specified in both agreements.,"$250,000 vs $180,000 per month."
+Numerical,Comparative,How do the Lease Terms differ in length (in months) between the contracts?,60 months vs 72 months.
+Numerical,Comparative,Compare the estimated annual costs of maintenance reserves for the Aircraft.,"$50,000/month vs $40,000/month for maintenance reserve."
+Numerical,Comparative,How do the costs of landing fees differ in each agreement?,"$2,000 per landing vs $1,800 per landing."
+Numerical,Comparative,What are the differences in engine overhaul costs between the contracts?,"$4,000,000 vs $4,500,000 for engine overhaul."
+Descriptive,Comparative,Compare the Lessee's responsibilities for maintaining accurate Aircraft records.,Contract 1 requires monthly records; Contract 2 quarterly records.
+Descriptive,Comparative,How are the Lessee's obligations for obtaining and maintaining insurance coverage described in the agreements?,"Both contracts mandate Hull All-Risk, War Risk, Passenger Liability, and Third-Party Liability insurance."
+Descriptive,Comparative,Compare the delivery conditions of the Aircraft as stated in each contract.,"Houston vs London delivery points, both in specified conditions."
+Descriptive,Comparative,What are the key differences in environmental compliance requirements between the agreements?,Noise and emissions compliance are required; details differ slightly.
+Descriptive,Comparative,How are the inspection rights of the Lessor defined in each agreement?,"Inspection rights are similar, with reasonable notice and access conditions."
+Specific/Factual,Comparative,Identify the differences in the types of Aircraft leased in the two agreements.,Contract 1: Boeing Voyager -737; Contract 2: SkyLiner A350.
+Specific/Factual,Comparative,What are the base locations for the Aircraft specified in each agreement?,Houston International Airport vs London Heathrow Airport.
+Specific/Factual,Comparative,How do the governing aviation authorities differ between the two agreements?,"FAA, EASA vs TSA, IATA, CAA."
+Specific/Factual,Comparative,What are the stated conditions under which the Lessor can terminate the agreements?,Similar events of default clauses in Section 17.
+Specific/Factual,Comparative,Compare the provisions for indemnification mentioned in the contracts.,Both contracts have indemnification clauses for damages and liabilities.
+Procedural,Comparative,Compare the steps required for the Lessee to report a Casualty Occurrence.,"Both require reporting within 24 hours, securing Aircraft, and collaboration with authorities."
+Procedural,Comparative,How do the agreements differ in handling modifications or alterations to the Aircraft?,Both require written approval; conditions differ slightly.
+Procedural,Comparative,Compare the procedures for returning the Aircraft at the end of the Lease Term.,Return conditions differ slightly in documentation requirements.
+Procedural,Comparative,What are the differences in reporting obligations for Aircraft usage between the contracts?,Monthly reporting for Contract 1 vs quarterly for Contract 2.
+Procedural,Comparative,How does each agreement handle compliance with tax obligations?,"Sales, property, and international fees are similar; rates differ slightly."
+Tabular,Comparative,"Tabulate the key financial obligations (e.g., rent, maintenance, and additional costs) of the Lessee in both agreements.",Outlined in Section 4 for both agreements.
+Tabular,Comparative,"Compare the Aircraft return conditions, including physical state and required documentation, in tabular form.",Return conditions vary slightly; avionics update cycles differ.
+Tabular,Comparative,"Create a table summarizing the maintenance schedules, frequencies, and costs for each Aircraft.",Maintenance schedules and costs differ slightly; outlined in Section 9.
+Tabular,Comparative,List and compare the insurance coverage requirements for the Aircraft in both contracts.,"Insurance types, coverage amounts tabulated in Section 12."
+Tabular,Comparative,Tabulate the penalties or costs associated with late tax payments or defaults in both agreements.,Penalties for late tax payments differ: 5% vs 6% per month.

@@ -1,0 +1,1314 @@
+Contract Name: contract_sample_2
+AIRCRAFT LEASE AGREEMENT 
+This Agreement is made on August 10, 2025, by and between:
+Lessor: AeroSky Rentals Ltd., a company organized and existing under the laws of Canada, having its
+principal office at 789 Skyway Street, Toronto, Ontario, Canada.
+Lessee: BlueJet Airways Corp., a company organized and existing under the laws of the United
+Kingdom, having its principal office at 321 Flightpath Avenue, London, England, UK.
+WHEREAS, the Lessor owns certain aircraft described in Exhibit A of this Agreement and desires to
+lease the aircraft to the Lessee, and the Lessee desiresto lease the aircraft from the Lessor, upon the
+terms and conditions set forth in this Agreement.
+NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties agree as
+follows:
+DESCRIPTIONPAGE
+Section Description Page
+Section 1 Definitions 1
+Section 2 Lease and Conditions 2
+Section 3 Delivery and Acceptance; Term 3
+Section 4 Rent 4
+Section 5 Disclaimer 5
+Section 6 Possession and Use 6
+Section 7 Information and Inspection 7
+Section 8 Covenants of Lessee 8
+Section 9 Maintenance of Aircraft 12
+Section 10 General Tax Indemnity 13
+Section 11 CasualtyOccurrences 14
+Section 12 Insurance 17
+Section 13 Indemnification 21
+Section 14 Liens 21
+Section 15 Perfection of Title and Further Assurances 22
+Section 16 Return of Aircraft and Records 24
+Section 17 Events of Default 25
+Section 18 Remedies 27
+Section 19 Alienation 28
+Section 20 Miscellaneous 28
+Exhibit A Aircraft Specifications A1
+Exhibit B List of Manuals, Documents and Records B1
+Exhibit C Definitions and Values C1
+Exhibit D Maintenance Payment Provisions D1
+Exhibit E Delivery Conditions E1
+Exhibit F Return Conditions F1
+Exhibit G Lease Supplement No.1 G1
+Exhibit H
+Certificate ofDelivery Technical
+Acceptance
+H1
+Exhibit I
+Certificate of Redelivery Technical
+Acceptance
+I1
+Exhibit J Deregistration Power of Attorney J1
+1
+SECTION 1: DEFINITIONS
+In this Agreement, the following termsshall have the meaningsset forth below:
+• Aircraft: The SkyLiner A350, having the manufacturer's serial number 2098745 and
+registration number G12345, as described in Exhibit A.
+• Basic Rent: The amount payable by the Lessee for the lease of the Aircraft, calculated as
+$180,000 per month, as detailed in Section 4.
+• Delivery Date: The date on which the Aircraft is delivered to and accepted by the Lessee, as
+described in Section 3.
+• Lease Term: The term during which the Aircraft isleased to the Lessee, as specified in
+Section 3.
+2
+SECTION 2: LEASE AND CONDITIONS
+The Lessor hereby leasesthe Aircraft to the Lessee, and the Lessee agreesto lease the Aircraft from
+the Lessor, on the terms and conditions set forth in this Agreement, including but not limited to:
+1. Condition Precedent: The lease shall commence upon the fulfillment of all conditions
+precedentset forth in Section 3.
+2. Term of Lease: The Lease Term shall be 72 months commencing on the Delivery Date.
+3. Condition of Aircraft: The Aircraftshall be delivered in the condition specified in Exhibit B
+(Delivery Conditions).
+3
+SECTION3: DELIVERY AND ACCEPTANCE; TERM
+1. Delivery: The Aircraftshall be delivered by the Lessor at London Heathrow Airport on
+September 15, 2025.
+2. Acceptance: The Lessee shall inspect the Aircraft and sign the Certificate of Delivery
+Technical Acceptance (Exhibit D).
+3. Lease Term: The Lease Term shall commence on September 15, 2025, and continue for 72
+months, subject to early termination under Section 17.
+4
+SECTION 4: RENT
+1. Basic Rent: The Lessee shall pay a Basic Rent of $180,000 per month, payable in advance on
+the first business day of each month.
+2. Additional Costs: Any costs arising from the Lessee’s use of the Aircraft, such asinsurance,
+taxes, or operational expenses, are summarized below:
+Category Cost Description Frequency Estimated Annual
+Amount (USD)
+Insurance Hull and liability
+coverage
+Annually $2,200,000
+Maintenance
+Reserve
+Engine and airframe
+maintenance
+Monthly $40,000
+Fuel Costs Based on flight hours
+and routes
+Per flight $450/hour
+Airport Fees Landing, parking,
+handling
+Per use $1,800 per landing
+Crew Costs Pilot and cabin crew
+salaries
+Monthly $90,000
+5
+SECTION 5: DISCLAIMER
+1. As-Is Condition: The Aircraft isleased on an "AS-IS, WHERE-IS" basis. The Lessor makes no
+representations or warranties, express or implied, with respect to the Aircraft, except as
+expressly stated in this Agreement.
+2. No Warranty of Merchantability or Fitness: The Lessor disclaims any warranty of
+merchantability or fitness for a particular purpose.
+6
+SECTION 6: POSSESSION AND USE
+1. Possession: The Lessee shall take possession of the Aircraft on the Delivery Date and shall be
+responsible for its condition from that date onward.
+2. Use: The Lessee agreesto utilize the Aircraft exclusively for commercial charter services and
+must adhere to all relevant laws, regulations, and aviation safety standards in each
+jurisdiction in which the Aircraft operates.
+3. Operational Control: The Lessee shall retain complete operational control over the Aircraft
+throughout the Lease Term, including the selection and management of pilots, crew, and all
+passengers.
+4. Base Location: The Aircraft will be stationed at London Heathrow International Airport or any
+alternative location mutually agreed upon in writing by both parties.
+7
+SECTION7: INFORMATIONAND INSPECTION
+1. Records: The Lessee shall keep comprehensive flight logs, maintenance records, and
+technical documentation as mandated by relevant aviation authorities. A copy of these
+records shall be provided to the Lessor for inspection upon request.
+2. Inspection: The Lessor, or its authorized representatives, shall have the right to inspect the
+Aircraft at any reasonable time and with reasonable notice. Such inspections may encompass
+a review of the Aircraft's condition, maintenance history, and adherence to the terms of this
+Agreement.
+3. Reporting: The Lessee shall submit to the Lessor regular reports on the Aircraft's usage,
+detailing flight hours, cycles, and any significant incidents, to be provided quarterly rather
+than monthly.
+8
+SECTION 8: COVENANTS OF LESSEE
+Compliance with Laws:
+The Lessee shall, at all times during the Lease Term, adhere to all applicable local, national, and
+international laws,rules, treaties, and regulations governing the operation, use, registration, and
+maintenance of the Aircraft. This includes, but is not limited to, regulations established by the
+Transportation Safety Administration (TSA), the Civil Aviation Authority (CAA), and the
+International Air Transport Association (IATA).
+The Lessee shall secure and uphold all licenses, permits, and certifications necessary for the
+operation of the Aircraft, whichmay include commercial pilot licenses, airworthiness certificates,
+and environmental compliance permits.
+The Lessee shall ensure that the Aircraft is operated solely by licensed and qualified pilots and crew
+members, as mandated by relevant aviation authorities, and in accordance with the Aircraft's
+operational manuals and safety guidelines.
+In the event of any changesin regulations that impact the operation or maintenance of the Aircraft,
+the Lessee agrees to promptly implement any required modifications or adjustments to ensure
+compliance with such laws or regulations at its own expense.
+Maintenance Obligations:
+The Lessee shall ensure that the Aircraft is maintained in an airworthy condition, consistent with the
+standardsrequired by the manufacturer and all applicable aviation authorities. The Lessee shall
+perform all routine and scheduled maintenance, repairs, and inspections, including but not limited
+to:
+A-checks, B-checks, C-checks, and D-checks asspecified in the Aircraft’s maintenance schedule and in
+accordance with the manufacturer’s maintenance manual;
+Engine inspections, including borescope inspections, and overhauls asrequired by the engine
+manufacturer’s maintenance program;
+Landing gear inspections, refurbishments, or replacements asspecified by the manufacturer or
+regulatory authorities.
+The Lessee shall ensure that all repairs are carried out by certified and approved maintenance
+organizations, and that the Aircraft is operated in accordance with any Airworthiness Directives
+(ADs), Service Bulletins(SBs), and Mandatory Modifications issued by the manufacturer or aviation
+authorities.
+The Lessee agreesto maintain accurate and up-to-date maintenance records, logs, and technical
+documentsfor the Aircraft, and to make such records available to the Lessor for inspection upon
+request. Such records shall include:
+Flight logs, detailing all flight hours and cycles;
+Maintenance logs, documenting all repairs, inspections, and modifications made to the Aircraft;
+9
+Component records, detailing the status and life-cycle of key componentssuch as engines, landing
+gear, and avionics.
+The Lessee shall bear all costs associated with maintaining,repairing, and operating the Aircraft,
+including but not limited to labor, parts, materials, and regulatory fees.
+Operational Insurance:
+The Lessee shall, at its own expense, procure and maintain comprehensive aviation insurance
+coverage throughout the entire Lease Term. Thisinsurance shall include, but not be limited to, the
+following types of coverage:
+1. Hull All-Risk Insurance: Covering the full replacement value of the Aircraft against physical
+loss or damage due to any cause, including accidents, fire, theft, vandalism, and natural
+disasters.
+2. Hull War Risk Insurance: Covering loss or damage resulting from acts of war, terrorism,
+hijacking, or other hostile actions, as well as confiscation or seizure by government entities.
+3. Third-Party Liability Insurance: Providing coverage for bodily injury, death, and property
+damage to third parties, with minimum liability limits of $600 million per occurrence, or such
+higher amounts as may be mandated by applicable law or required by the Lessor.
+4. Passenger Liability Insurance: Covering the Lessee'slegal liability for bodily injury or death
+of passengers, with a minimum coverage of $150,000 per passenger or as stipulated by
+applicable law.
+All insurance policies must:
+1. Name the Lessor as an additional insured and loss payee.
+2. Be issued by reputable insurance carriers with an A.M. Best rating of at least A or an
+equivalentstandard.
+3. Include a provision requiring 30 days' prior written notice to the Lessor before any
+cancellation, significant modification, or expiration of the policy.
+4. Incorporate a waiver ofsubrogation in favor of the Lessor.
+The Lessee agrees to furnish the Lessor with certificates of insurance that demonstrate compliance
+with this Section, delivering such certificates on or before the commencement of the Lease Term and
+upon each renewal or replacement of the policies.
+In the event of any claim, the Lessee shall promptly notify the Lessor and fully cooperate with the
+Lessor and the insurance provider in the claims process. This includes providing all necessary
+documentation, granting accessto the Aircraft, and participating in any related investigations.
+10
+Operational Control and Use of the Aircraft:
+The Lessee shall maintain full operational control of the Aircraft during the Lease Term and agrees
+that the Aircraft will only be operated for lawful purposes, and in accordance with:
+The manufacturer’s operating manual;
+The approved operating limits and flight performance standards;
+The specific purposes outlined in the lease, such as commercial passenger transport or cargo
+operations.
+The Lessee agrees not to use the Aircraft for any illegal purposes, including but not limited to:
+Transporting unlawful goods or materials (e.g., contraband, weapons, etc.);
+Conducting unauthorized flights or operating in prohibited airspace;
+Engaging in illegal smuggling or trafficking activities.
+The Aircraftshall be based at London Heathrow Airport, unless otherwise agreed in writing by the
+Lessor. The Lessee shall notify the Lessor in writing before moving the Aircraft to any other
+jurisdiction or country.
+Modifications and Alterations:
+The Lessee shall not make any material modifications, alterations, or improvements to the Aircraft
+without the prior written consent of the Lessor, except for routine repairs and replacementsthat are
+required for the Aircraft to remain airworthy and compliant with applicable regulations.
+Any approvedmodifications or upgradesto the Aircraft, including changesto the avionics, interior, or
+exterior, must be performed by a certified maintenance organization and comply with all regulatory
+requirements. The Lessee agrees to bear the cost of such modifications.
+Upon termination of the Lease, the Lessee agreesto restore the Aircraft to its original configuration,
+unless otherwise agreed in writing by the Lessor.
+Operational Reporting:
+The Lessee shall provide the Lessor with regular operational reports during the Lease Term,
+including:
+Monthly flight reports, detailing flight hours, cycles, and any incidents or maintenance issues;
+Quarterly maintenance reports, summarizing all maintenance activities and inspections performed
+on the Aircraft;
+Annual financialstatements, detailing any operational costs, including maintenance, fuel, crew
+salaries, and other expenses incurred in operating the Aircraft.
+The Lessee shall promptly notify the Lessor of any accidents, incidents, or mechanical failures
+involving the Aircraft and shall submit a written report detailing the nature and cause of the event,
+and the steps taken to rectify the situation.
+11
+Taxes and Fees:
+The Lessee shall be solely responsible for paying all taxes, duties, fees, and other chargesimposed by
+any governmental authority in connection with the possession, use, or operation of the Aircraft,
+including but not limited to:
+Salestax, use tax, and excise tax on the Lease payments;
+Airport landing fees, navigation charges, and airport parking fees;
+Any customs duties or import/export feesin the event that the Aircraft is operated across
+international borders.
+The Lessee agreesto indemnify and hold harmless the Lessor from any tax liabilities or penalties
+arising from the Lessee’s failure to comply with its tax obligations.
+Environmental and Safety Compliance:
+The Lessee agreesto comply with all applicable environmental laws and regulationsrelated to the
+operation of the Aircraft, including noise abatement procedures, emissionsstandards, and
+environmental impact assessments.
+The Lessee shall not use or store any hazardous materials on board the Aircraft unlesssuch materials
+are necessary for the operation of the Aircraft and are handled in accordance with applicable safety
+regulations.
+The Lessee shall ensure that all necessary safety equipment is on board the Aircraft and in good
+working order, including but not limited to fire extinguishers, oxygen systems, life rafts, and
+emergency medical kits.
+12
+SECTION 9: MAINTENANCE OF AIRCRAFT
+1. Maintenance Schedule: The Lessee shall follow the Aircraft’s maintenance schedule as
+stipulated by the manufacturer, outlined in the table below:
+Maintenance Type Frequency Estimated Cost
+(USD)
+Provider Next Scheduled
+Date
+Line Maintenance Every 600 flight
+hours
+$30,000 [Provider
+Name]
+February 10,
+2025
+Heavy Maintenance Every 2.5 years $1,200,000 [Provider
+Name]
+August 15, 2026
+Engine Overhaul Every 5,500 cycles $4,500,000 [Provider
+Name]
+TBD based on
+usage
+Avionics Check Annual $120,000 [Provider
+Name]
+November 20,
+2024
+Landing Gear
+Overhaul
+Every 8 years $800,000 [Provider
+Name]
+September 1,
+2030
+2. Unscheduled Maintenance Costs: If any unscheduled maintenance isrequired, the Lessee is
+responsible for covering these costs, as detailed below:
+Component Type of Repair Estimated Cost(USD) Time to Repair
+Engine Minor damage $120,000 3 weeks
+Landing Gear Hydraulic issues $60,000 2 week
+Avionics Communication fault $20,000 4 days
+13
+SECTION 10: GENERAL TAX INDEMNITY
+1. Tax Categories: The following table outlinesthe taxesthe Lessee isresponsible for during the
+lease term:
+Tax Type Rate Payment
+Frequency
+Jurisdiction Estimated Annual
+Amount (USD)
+Sales Tax 6% on lease
+payments
+Monthly (on
+rent)
+State of Texas, USA $180,000
+Property Tax 1.5% of aircraft
+value
+Annually Harris County,
+Texas, USA
+$750,000
+International
+Fees
+Varies by
+airport/country
+Per Use Various
+(International Ops)
+$150,000
+2. Tax Indemnity: The Lessee shall indemnify the Lessor for any tax liabilities not covered under
+the terms of this agreement, as outlined below:
+Scenario Tax Liability Responsible
+Party
+Remedy
+Tax on sale or transfer of
+Aircraft
+11% of aircraft value Lessor Lessor pays; Lessee
+indemnifies Lessor
+International customs
+duties
+Variable Lessee Lessee paysimmediately
+Penaltiesforlate tax
+payments
+6% per month of
+unpaid tax
+Lessee Lessee pays penalties and
+interest
+14
+SECTION11: CASUALTYOCCURRENCES
+Definition of Casualty:
+A "Casualty Occurrence" shall refer to any event that causes significant physical damage to the
+Aircraft, rendering it unfit for safe or legal operation, orresultsin the total destruction or irreparable
+loss of the Aircraft. Such events may include, but are not limited to:
+Accidents: Any event where the Aircraft isinvolved in a collision or other form of impact, either inflight or on the ground, resulting in structural or mechanical damage.
+Hijacking or Unlawful Seizure: Any situation where the Aircraft is unlawfully taken or commandeered
+by individuals or groups, resulting in damage or operational impairment.
+Fire, Explosion, or Natural Disaster: Eventssuch asfire, explosion, flooding, or any other natural
+disaster that causes material damage to the Aircraft.
+Acts of Terrorism or Sabotage: Any malicious act intended to cause damage to or destruction of the
+Aircraft, including acts of terrorism, sabotage, or other criminal activity.
+War or Hostile Acts: Any damage resulting from war, military action, or other hostile engagements,
+including but not limited to the Aircraft being shot down, bombed, or damaged by other forms of
+combat.
+Lessee’s Obligationsin the Event of a Casualty:
+In the event of a Casualty Occurrence, the Lessee shall promptly undertake the following actions:
+Immediate Notification: The Lessee shall notify the Lessor in writing within 24 hours of the
+occurrence, providing an initial report with the details of the event, the extent of the damage, and
+any potential risks to the Aircraft. The Lessee must provide a comprehensive written report within
+five business days of the occurrence, including all relevant facts, witness statements, technical
+evaluations, and initial assessments of the damage.
+Prevention of Further Damage: The Lessee must take all reasonable steps necessary to protect the
+Aircraft from further damage or deterioration following the Casualty Occurrence. This includes
+securing the Aircraft, preventing unauthorized access, and arranging for the Aircraft to be
+transported to a safe location, if necessary.
+Collaboration with Authorities: If the CasualtyOccurrence involves criminal activity (e.g., hijacking,
+terrorism) or regulatory breaches, the Lessee shall fully cooperate with law enforcement, aviation
+authorities, and other relevant agencies. The Lessee shall also ensure that the Lessor is kept
+informed of all communications with such authorities.
+Repair or Salvage Assessments: The Lessee shall arrange for immediate assessments of the damage
+by certified technicians, surveyors, or aviation engineers to determine whether the Aircraft can be
+repaired or salvaged. A copy of all assessments, along with detailed repair or salvage plans, must be
+submitted to the Lessor for review and approval.
+Temporary Replacement: If the Aircraft is temporarily unfit for use but not a total loss, the Lessee
+may, at its own cost, provide a temporary replacement aircraft (subject to the Lessor’s approval) until
+the Aircraft is repaired or returned to service.
+15
+Insurance Proceedsin Case of Total Loss:
+If the Aircraft is deemed a Total Loss, meaning it is destroyed, rendered permanently unfit for use, or
+the cost of repair exceedsthe market value of the Aircraft, the following provisions shall apply:
+Total Loss Declaration: The Aircraftshall be deemed a Total Lossif:
+The Aircraft is destroyed or damaged beyond economical repair;
+It is permanently lost or cannot be recovered (e.g., due to hijacking, unlawful seizure, or
+disappearance);
+It has been condemned as unfit for service by an aviation authority or other relevant regulatory
+body.
+Assignment of Insurance Proceeds: In the event of a Total Loss, the Lessee shall assign all rights to
+the insurance proceedsto the Lessor, asspecified in Section 12 (Insurance). The insurance proceeds
+shall include any amounts payable under the Hull All-Risk Insurance, War Risk Insurance, and other
+relevant policies. The Lessee shall:
+Notify the insurance provider immediately of the Total Loss and ensure that all claims are submitted
+and processed in a timely manner;
+Cooperate fully with the Lessor and the insurersto facilitate the promptsettlement of claims;
+Assign all claims, payments, and recovery rightsto the Lessor.
+Use of Proceeds: The Lessor shall have sole discretion over the use of the insurance proceeds, which
+may include:
+Applying the proceedsto settle any outstanding amounts owed by the Lessee under this Agreement;
+Utilizing the funds to repair or replace the Aircraft, if feasible;
+Retaining the proceedsin the event of termination of the Lease.
+Termination or Replacement in Case of Total Loss:
+Upon a CasualtyOccurrence resulting in a Total Loss, the following options may be exercised:
+Termination of the Agreement:
+The Lessor shall have the right to terminate this Agreement upon written notice to the Lessee in the
+event of a Total Loss. Upon termination, the Lessee shall promptly return any records, documents, or
+parts related to the Aircraft that were not destroyed in the Casualty Occurrence. The Lessee shall
+also pay any outstanding amounts owed under this Agreement, including Rent, Additional Rent, or
+other fees accrued up to the date of termination.
+Any remaining insurance proceeds, after settlement of the Lessee’s obligations, shall be retained by
+the Lessor.
+Replacement of the Aircraft (Subject to Lessor’s Consent):
+16
+In lieu of termination, the Lessee may propose the replacement of the Aircraft with a similar aircraft
+of comparable value, age, and condition, subject to the Lessor’s prior written approval. The
+replacement aircraft mustmeet the following criteria:
+It must be of the same make, model, and configuration, or a model approved by the Lessor;
+It must be in good working order, airworthy, and compliant with all applicable aviation regulations;
+The replacement must be delivered to the Lessor within 90 days of the Casualty Occurrence, unless
+otherwise agreed in writing.
+All costs associated with the procurement, delivery, and registration of the replacement aircraftshall
+be borne by the Lessee.
+If the Lessor acceptsthe replacement aircraft, the terms of this Agreementshall continue, with the
+replacement aircraft being subject to all the same terms and conditions applicable to the original
+Aircraft.
+Restoration ofthe Aircraft:
+In some cases where the Aircraft is not deemed a Total Loss, but requiressignificant repair, the
+Lessee may elect to restore the Aircraft to its original condition, subject to the Lessor’s written
+approval of the repair plan. All costs of the restoration shall be borne by the Lessee.
+Upon completion of repairs, the Aircraftshall undergo a thorough inspection and certification
+process by a certified aviation authority before being returned to service.
+Partial Damage and Repairs:
+In the event the Aircraft sustains damage but is not considered a Total Loss, the Lessee shall, at its
+own expense, arrange for the Aircraft to be promptly repaired and restored to the condition required
+under this Agreement. Repairs must:
+Be carried out by a certified and approved maintenance organization, in accordance with the
+manufacturer’s guidelines and all applicable regulatory requirements;
+Be completed within a reasonable time frame, as agreed upon by the Lessor and Lessee.
+During the repair period, the Lessee shall continue to pay Rent, Additional Rent, and all other fees
+due under this Agreement, unless otherwise agreed by the Lessor.
+17
+SECTION 12: INSURANCE
+1. Types of Insurance:
+The Lessee agrees to maintain, at its own expense, the following types of insurance for the
+Aircraftthroughout the Lease Term. The insurance policies must be procured from insurance
+companies with an A.M. Best rating of at least A- or equivalent, and must provide coverage
+that is consistent with industry standardsfor commercial aircraft operations.
+o Hull All-Risk Insurance:
+ Coverage must be equal to or exceed the full replacement value of the
+Aircraft. This coverage shall protect against physical loss or damage to the
+Aircraft arising from all risks of flight and ground operation, including but not
+limited to accidents, fire, theft, vandalism, lightning, windstorm, and
+collision.
+ The policy must include provisionsfor partial damage and total loss of the
+Aircraft, with any claims proceeds payable to the Lessor asthe loss payee.
+o Third-Party Liability Insurance:
+ The Lessee shall maintain third-party liability insurance with coverage limits
+of no less than $500 million per occurrence. This coverage must protect
+against legal liabilities arising from bodily injury, death, or property damage
+caused to third parties in connection with the operation or use of the
+Aircraft.
+ The policy must include coverage for liabilities arising from ground handling
+operations, passenger-related claims, and damage caused to airport
+property or other aircraft.
+o Passenger Liability Insurance:
+ The Lessee must maintain passenger liability coverage that provides for
+bodily injury or death to passengers aboard the Aircraft, with a minimum
+coverage of $100,000 per passenger, or as required by applicable law or
+regulations.
+ This coveragemust extend to all operations, including domestic and
+international flights, and apply regardless of whether the claim arisesfrom
+an accident, incident, or other operational event.
+o War Risk Insurance:
+ The Lessee shall maintain war risk insurance to cover losses arising from war,
+terrorism, hijacking, sabotage, unlawful seizure of the Aircraft, and other
+war-related perils.
+ Coverage should include confiscation, seizure, or nationalization of the
+Aircraft by government or military forces, and the policy limits must be no
+less than $100 million or asspecified by the Lessor.
+ The policy should also cover civil commotions, riots, and other violent
+disturbances that may affect the Aircraft.
+18
+o Crew Liability Insurance:
+ The Lessee shall maintain insurance to cover any liability arising from claims
+made by or on behalf of crew members of the Aircraft in relation to bodily
+injury, death, or other personal harm. The minimum coverage shall be $50
+million per occurrence or as required by local labor laws and international
+regulations.
+o Cargo and Baggage Liability Insurance:
+ If the Aircraft is used for cargo operations, the Lessee must maintain cargo
+liability insurance covering any loss, damage, or destruction of cargo
+transported on the Aircraft.
+ The policy must provide for coverage limits consistent with the value of the
+cargo carried and comply with any applicable laws governing cargo liability.
+ Coverage must also extend to personal baggage of passengers, with
+minimum coverage limits of $1,500 per passenger.
+o Ground Risk Insurance:
+ The Lessee must obtain ground risk insurance to cover the Aircraft when it is
+not in motion (hangar, storage, etc.), including protection against theft, fire,
+and natural disasters.
+ The policy must provide coverage for full replacement value or repair costsif
+the Aircraft is damaged while grounded.
+2. Insurance Policies:
+All insurance policiesrequired under this Agreement must include the following provisions:
+o Lessor as Additional Insured and Loss Payee:
+ The Lessor shall be named as an additional insured and loss payee under all
+insurance policies, ensuring that the Lessor isfully protected in the event of
+a claim or loss. Any claims proceeds under the Hull All-Risk, War Risk, or
+Third-Party Liability policiesshall be payable directly to the Lessor, or to the
+Lessee and Lessor jointly.
+ The policies shall specify that the Lessor’s rights and interests will not be
+invalidated or diminished by any acts, omissions, or negligence on the part
+of the Lessee or its agents.
+o Non-Cancellation Clause:
+ Each insurance policy must include a 30-day prior written notice provision
+requiring the insurer to notify the Lessor in writing at least 30 days before
+any cancellation, non-renewal, or material change in the terms or coverage
+of the policy.
+ In cases where war risk coverage isreduced or cancelled due to an increase
+in hostilities or political unrest, the insurer must provide seven days’ notice
+to the Lessor, with the Lessee taking immediate steps to replace or restore
+the required coverage.
+19
+o Waiver of Subrogation:
+ All policies must include a waiver ofsubrogation in favor of the Lessor,
+ensuring that the insurers cannot seek reimbursement from the Lessor for
+any claims paid under the policy, even in cases where the Lessor isfound to
+have contributed to the cause of loss or damage.
+o Primary Insurance:
+ The policies must be primary and non-contributory, meaning they take
+precedence over any other insurance policies held by the Lessor or its
+affiliates. The policies shall cover the full amount of any claim without
+reduction by other insurance the Lessor may carry.
+3. Proof of Insurance:
+The Lessee agrees to provide the Lessor with certificates of insurance and any other
+documents or evidence of insurance coverage asrequired by the Lessor. This must be done
+prior to the Delivery Date of the Aircraft and upon any renewal, replacement, or modification
+of the policies. Such proof must include:
+o Certificates of Insurance:
+ The Lessee shall deliver certificates of insurance issued by the insurance
+companies, confirming the types and amounts of coverage, naming the
+Lessor as additional insured and loss payee, and confirming compliance with
+all other requirements outlined in this Agreement.
+o Policy Endorsements:
+ The Lessee shall provide copies of all endorsements, riders, and
+amendments to the policies that may affect the Lessor’s rights or coverage.
+This includes any modifications to coverage limits, cancellation clauses, and
+named insureds.
+o Renewal Certificates:
+ At least 30 days before the expiration of any insurance policy, the Lessee
+shall provide the Lessor with renewal certificates or proof of replacement
+coverage ensuring no lapse in insurance protection.
+o Notice of Claims:
+ In the event of any loss, damage, or occurrence giving rise to a claim under
+the insurance policies, the Lessee shall immediately notify the Lessor and
+the insurersin writing, detailing the nature and extent of the claim. The
+Lessee shall provide the Lessor with all information and documentation
+required to processthe claim and assist in pursuing any recovery from the
+insurers.
+4. Failure to Maintain Insurance:
+o If the Lessee failsto procure or maintain any of the required insurance coverage, the
+Lessor may, at its option:
+20
+ Procure such insurance on behalf of the Lessee and recover the cost from
+the Lessee as Additional Rent; or
+ Declare an event of default under this Agreement and exercise any remedies
+available under Section 17.
+o The Lessee shall indemnify and hold the Lessor harmless for any losses, damages, or
+liabilities incurred by the Lessor as a result of the Lessee’sfailure to maintain the
+required insurance coverage.
+21
+SECTION13: INDEMNIFICATION
+1. Lessee Indemnification: The Lessee agrees to indemnify and hold harmless the Lessor from
+any and all claims, liabilities, losses, or damages arising out of the Lessee’s use, possession,
+or operation of the Aircraft, except to the extent caused by the Lessor’s gross negligence or
+willful misconduct.
+2. Lessor Indemnification: The Lessor agrees to indemnify and hold harmless the Lessee from
+any claims arising from the ownership of the Aircraft, except those arising from the Lessee’s
+use or operation of the Aircraft.
+SECTION 14: LIENS
+1. Lessee’s Obligation: The Lessee shall not create, permit, or suffer any liens, charges, or
+encumbrances on the Aircraft, except for liensresulting from routine maintenance or repairs,
+which shall be promptly discharged.
+2. Lessor’s Rights: In the event of a lien, the Lessor reserves the right to require the Lessee to
+pay any amounts necessary to release such liens within 30 days.
+22
+SECTION 15: PERFECTION OF TITLE AND FURTHER ASSURANCES
+• Title:
+The Lessor retainsfull legal and beneficial title to the Aircraft during the Lease Term. The Lessee
+acknowledges that it has no right, title, or interest in the Aircraft other than the right to use it under
+the terms of this Agreement.
+The Lessee agrees not to attempt or facilitate any action that would challenge or impair the Lessor's
+ownership rights, including but not limited to, any attempt to sell, transfer, pledge, mortgage, or
+otherwise encumber the Aircraft.
+Any modifications, improvements, or additions made to the Aircraft by the Lessee during the Lease
+Term shall immediately vest in the Lessor, unless otherwise agreed in writing.
+• Further Assurances:
+The Lessee agreesto execute, acknowledge, and deliver all documents, instruments, and other forms
+of assurances asthe Lessor may reasonably request to ensure and maintain the Lessor’s ownership
+rights and interest in the Aircraft.
+The Lessee shall cooperate with the Lessor to ensure the Aircraft is properly registered or
+deregistered with any relevant civil aviation authorities, including but not limited to the Federal
+Aviation Administration (FAA), European Aviation Safety Agency (EASA), or any other jurisdiction in
+which the Aircraft operates.
+If required, the Lessee shall assist in perfecting any liens, security interests, or other protective
+instruments in favor of the Lessor or its financiers.
+• Registration of Interests:
+The Lessee agreesto register the Aircraft in the name of the Lessor, where required, and promptly
+file any necessary documents with the aviation authorities to perfect the Lessor’s interest in the
+Aircraft.
+The Lessee shall not change the registration of the Aircraft or attempt to register the Aircraft in its
+own name or any third party’s name without the express written consent of the Lessor.
+If the Aircraft isrequired to be registered in a different jurisdiction due to operational reasons, the
+Lessee shall promptly inform the Lessor and take any steps necessary to ensure the Lessor's
+ownership and title are protected in such jurisdiction.
+• Protection of Lessor’s Rightsin Third-Party Claims:
+The Lessee agreesto take all reasonable actionsto protect the Lessor’s ownership and security
+interest in the Aircraft against third-party claims, including but not limited to:
+Ensuring that no liens, mortgages, charges, or encumbrances are registered or asserted against the
+Aircraft, except those arising by law in connection with repairs or maintenance.
+Promptly notifying the Lessor if any such claims or liens are asserted and taking allsteps necessary to
+remove or contest them at its own expense.
+• Deregistration upon Lease Termination:
+23
+Upon the termination or expiration of the Lease Term, the Lessee shall promptly assist the Lessor
+with any deregistration or re-registration procedures required by the relevant aviation authority to
+ensure that the Aircraft is properly returned to the Lessor’s possession.
+The Lessee shall execute and deliver a Deregistration Power of Attorney as detailed in Exhibit J,
+authorizing the Lessor to take any actions necessary to deregister the Aircraft from the jurisdiction in
+which it was operated by the Lessee.
+• Exportation or Importation Requirements:
+If the Aircraft needsto be exported or imported into another jurisdiction during the Lease Term, the
+Lessee shall comply with all applicable export control and import regulations, including but not
+limited to obtaining required permits, clearances, and licenses, at its own expense.
+The Lessee agrees to provide the Lessor with documentation of compliance with all applicable
+customs, tax, and regulatory requirements associated with the export or import of the Aircraft.
+• Legal Filings:
+The Lessee agreesto assist the Lessor in making any legal filings or registrations required by local or
+international law to protect the Lessor’s interest in the Aircraft. This includes filings under the Cape
+Town Convention or similar international agreements related to aircraft assets.
+If the Lessor requires the filing of any financing statement, lien document, or otherforms of legal
+security interest, the Lessee agrees to cooperate and ensure such filings are made in a timely
+manner.
+• Lessee’s Covenants:
+The Lessee covenants that it will not allow the Aircraft to become subject to any adverse legal
+process, including seizure, impoundment, or forfeiture due to the Lessee’s activities. In the event of
+any such action, the Lessee shall immediately notify the Lessor and take all necessary actionsto
+release the Aircraft.
+If the Aircraft is impounded, seized, or detained by any government authority due to the actions or
+omissions of the Lessee, the Lessee agreesto indemnify the Lessor for any costs, losses, or damages
+incurred as a result and shall secure the release of the Aircraft at its own expense.
+24
+SECTION 16: RETURN OF AIRCRAFT AND RECORDS
+1. Aircraft Return Checklist: Upon the expiration or termination of the Lease, the Aircraft must
+meet the following conditions for return:
+Component Condition RequiredDocumentation Notes
+Airframe No major damage,
+routine wear
+Last 2 years of maintenance
+logs
+Maintenance logs must be
+up to date
+Engines Mid-life status, no
+major defects
+Engine overhaul records Engines must meet
+performance criteria
+Avionics Fully functional Latestsoftware updates,
+calibration records
+Avionicsshould be up-todate and calibrated
+Interior Normal wear and
+tear acceptable
+Cabin refurbishment records Lessee responsible for
+major damage
+Exterior Repainted, no
+structural damage
+Inspection and repaint
+certificates
+Paint must be in good
+condition
+2. Return Documentation: Along with the Aircraft, the Lessee must return the following
+records:
+Document Description Required Format
+Flight Logs All flights during the lease period Digital and Hard
+Copy
+Maintenance Records Complete maintenance history during the
+Lease Term
+Digital and Hard
+Copy
+Certificates of
+Airworthiness
+Latest issued by FAA and/or EASA Original Copy
+Engine Performance
+Reports
+Last 5 engine performance cycles Digital Copy
+Insurance Policies Proof of all insurance coverage during the
+Lease Term
+Certified Copy
+25
+SECTION17: EVENTS OFDEFAULT
+1. Default Events: The following shall constitute an event of default (each a “Default Event”)
+under this Agreement:
+o Failure to Pay Rent: The failure of the Lessee to pay any Rent, Additional Rent, or
+other amount payable under this Agreement within 10 business days of the due
+date. This includes but is not limited to the Basic Rent, Maintenance Reserves,
+insurance premiums, taxes, or any other paymentsrequired under this Agreement.
+o Breach of Material Covenant: The failure of the Lessee to perform or comply with
+any material term, covenant, or obligation under this Agreement, including but not
+limited to:
+ Failure to maintain and operate the Aircraft in compliance with applicable
+laws and regulations.
+ Failure to obtain or maintain required insurance coverage as described in
+Section 12;
+ Failure to maintain the Aircraft in accordance with Section 9 (Maintenance
+Obligations);
+ Any unauthorized modification, sale, sublease, or transfer of the Aircraft.
+o Insolvency, Bankruptcy, or Liquidation:
+ Insolvency: The Lessee becomes unable to pay its debts as they become due,
+enters into any voluntary or involuntary arrangement or composition with
+creditors, or ceases to carry on business.
+ Bankruptcy or Liquidation: The Lessee files for bankruptcy, is declared
+bankrupt, or issubjected to a winding-up or liquidation order by a court of
+competent jurisdiction. Thisincludesthe appointment of a trustee, receiver,
+or liquidator over any part of the Lessee’s assets or business.
+ Dissolution or Reorganization: The Lessee engages in any corporate
+dissolution,reorganization, orrestructuring that adversely affectsthe
+Lessor’srights under this Agreement, without prior written consent from the
+Lessor.
+o Cross-Default: Any default by the Lessee under any other lease, financing
+arrangement, or agreement with the Lessor, or any affiliate of the Lessor, that has
+not been remedied within the applicable cure period.
+o Misrepresentation: Anymaterial representation or warranty made by the Lessee
+under this Agreement proves to have been untrue or misleading in any material
+respect when made, and such misrepresentation has not been corrected within 30
+days of notice from the Lessor.
+o Unauthorized Alterations or Transfers: The Lessee makes any unauthorized
+modification, transfer, orsublease of the Aircraft or assigns any rights underthis
+Agreement without prior written consent from the Lessor.
+26
+o Regulatory Violations: The Aircraft is grounded or detained by aviation authorities
+due to regulatory violations or Lessee’s failure to comply with applicable aviation
+safety, registration, or operational requirements.
+2. Cure Period for Payment Defaults:
+In the event that the Lessee fails to make a payment of Rent, Additional Rent, or any other sum due
+under this Agreement within the time frame specified in Section 17.1, the Lessee shall have a period
+of 10 business days from the date the payment is due to cure such default. If the Lessee failsto cure
+the payment default within this 10-day cure period, the Lessor may declare an event of default and
+exercise its remedies under Section 18.
+ Late Payment Penalties: In addition to the obligation to cure the default within 10 days, the
+Lessee shall pay a late payment penalty of 2% of the overdue amount for each day the
+payment remains unpaid beyond the due date.
+3. Cure Period forNon-Payment Defaults:
+In the case of any non-payment default (such as breach of any covenant, obligation, or
+representation), the Lessee shall have a 30-day cure period to remedy the breach. The Lessee must:
+ Provide the Lessor with written notice of the steps being taken to cure the breach within 10
+business days of receiving notice from the Lessor of the default.
+ Fully remedy the breach within 30 days of receiving notice from the Lessor. If the breach
+cannot be remedied within the 30-day period due to its nature, the Lessee shall demonstrate
+that it has commenced a cure and provide a reasonable timeline for completion, subject to
+Lessor’s approval.
+4. No Cure Period for Certain Events:
+No cure period shall be applicable for the following Default Events:
+ Insolvency, Bankruptcy, or Liquidation: In the event the Lessee files for bankruptcy or
+insolvency, or is the subject of any winding-up or liquidation proceeding, there shall be no
+cure period, and the Lessor shall be entitled to immediately terminate this Agreement and
+repossess the Aircraft.
+ Abandonment of Aircraft: If the Lessee abandons or fails to take reasonable measures to
+secure the Aircraft, there shall be no cure period, and the Lessor may immediately repossess
+the Aircraft.
+27
+SECTION 18: REMEDIES
+If the Lessee failsto cure any default within the applicable cure period, the Lessor may exercise any
+or all of the following remedies:
+ Terminate the Agreement: The Lessor may terminate this Agreement by giving written
+notice to the Lessee, upon which the Lease shall immediately terminate.
+ Repossessthe Aircraft: The Lessor may take possession of the Aircraft wherever located,
+with or without legal process, and for that purpose, may enter any premises where the
+Aircraft may be located.
+ Acceleration of Payments: The Lessor may declare all outstanding Rent and Additional Rent
+due for the remaining term of the Lease immediately payable by the Lessee.
+ Claim Damages: The Lessor may seek damagesfor any lossesincurred due to the Lessee’s
+default, including any costsrelated to repossessing, repairing, or re-leasing the Aircraft.
+ Set-Off Rights: The Lessor may exercise its right of set-off against any security deposits,
+maintenance reserves, or other amounts held by the Lessor to satisfy any obligations owed
+by the Lessee.
+ Legal Action: The Lessor may initiate legal proceedingsto enforce its rights under this
+Agreement and recover any damages or unpaid amounts due.
+28
+SECTION19: ALIENATION
+1. Assignment by Lessor: The Lessor may assign its rights and obligations under this Agreement
+to a third party, provided that the assignee agreesto assume all of the Lessor's obligations.
+2. Assignment by Lessee: The Lessee may not assign or sublease the Aircraft without the prior
+written consent of the Lessor.
+SECTION 20: MISCELLANEOUS
+1. Governing Law: This Agreementshall be governed by and construed in accordance with the
+laws of the State of New York.
+2. Dispute Resolution: Any disputes arising out of or related to this Agreement shall be
+resolved through arbitration in accordance with the rules of the American Arbitration
+Association, with arbitration to be held in New York City.
+3. Entire Agreement: This Agreement constitutesthe entire agreement between the parties
+and supersedes any prior agreements or understandings.
+SIGNATURES
+LESSOR: AeroSky Rentals Ltd.
+Name: Emily Johnson
+Title: Chief Financial Officer
+Date: August 10, 2025
+LESSEE: BlueJet Airways Corp.
+Name: Michael Brown
+Title: Vice President of Operations
+Date: August 10, 2025
+A1
+Exhibit A
+Aircraft Specifications
+1. AIRFRAME
+Manufacturer: AirWorks Aviation
+Type and Model: AWX-900
+Serial Number: 98765
+Maximum Take Off Weight (MTOW): 85,000 KGS
+Maximum Landing Weight (MLW): 70,500 KGS
+Maximum Zero Fuel Weight (MZFW): 66,500 KGS
+2. ENGINES
+Engine Manufacturer: Pratt & Whitney
+Type and Model: PW1100G
+Serial Numbers: 1234 and 5678
+3. APU (Auxiliary Power Unit)
+Manufacturer: TAE Aerospace
+Type and Model: AP-1000
+Serial Number: APU-54321
+4. LANDING GEAR
+Manufacturer: Messier-Bugatti-Dowty
+Type and Model: Position P/N S/N
+ NLG (Nose Landing Gear): LG-98765-0001 | 15N12345
+ LH MLG (Left Hand Main Landing Gear): LG-87654-0001 | 15LH5432
+ RH MLG (Right Hand Main Landing Gear): LG-76543-0001 | 15RH6789
+5. AIRCRAFT DOCUMENTS
+A. Certificates
+B. Maintenance Manuals on Boeing Toolbox
+A2
+C. Airworthiness Directives(AD) Documentation
+D. Engineering Documentation
+E. Aircraft Maintenance Status Summaries
+F.AircraftMaintenance Records
+G. Configuration Status
+H. AircraftHistorical Records
+I. Engine Records
+J. APU Records
+B1
+Exhibit B
+List of Manuals, Documents and Records
+Aircraft Maintenance Manual (AMM)
+Version: AMM 2025-01
+Last Updated: December 10, 2024
+Location: Stored in both physical and digital formats at the Lessee’s Maintenance Facility.
+Flight Crew Operating Manual (FCOM)
+Edition: FCOM v11.0
+Issue Date: February 5, 2025
+Location: Onboard the aircraft and at Lessee’s Headquarters.
+Minimum Equipment List(MEL)
+Revision: MEL 01/2025
+Effective Date: January 15, 2025
+Location: Available in the cockpit and with Lessee’s Maintenance Control Center.
+Aircraft Logbook
+Serial Number: LOG98765-432
+Date of Last Entry: January 20, 2025
+Location: Onboard the aircraft, retained in accordance with aviation regulations.
+Airworthiness Certificate
+Certificate Number: AWC-12345
+Issuance Date: April 15, 2023
+Expiration Date: April 15, 2026
+Location: Onboard the aircraft, and a copy filed with the Lessee’s Compliance Department.
+Lease Agreement
+ReferenceNumber: Lease-ASR-BJA-2025-01
+Effective Date: August 10, 2025
+Location: Stored at both Lessor’s office and Lessee’slegal department in Toronto.
+Weight and Balance Manual
+Version: WB-2025-02
+Last Updated: February 1, 2025
+Location: Onboard the aircraft and accessible via Lessee’s Engineering Department.
+Certificate of Insurance
+Policy Number: CI-12345-BJA
+Effective Period: August 1, 2025 – July 31, 2026
+Insurer: Global Aviation Insurance Co.
+Location: Filed with the Lessee’s Risk Management Office.
+Aircraft Delivery and Acceptance Record
+Document ID: DA-2025-900-01
+Acceptance Date: August 10, 2025
+Location: Stored with Lessor and Lessee’s Aircraft Leasing Department.
+Damage History Report
+Report Number: DHR-54321-2024
+B2
+Last Entry: No major incidents or damages as of January 1, 2025
+Location: Filed with the Lessee’s Aircraft Maintenance Records.
+C1
+Exhibit C
+Definitions and Values
+Aircraft
+Definition: The term “Aircraft” refersto the SkyLiner A350, having the manufacturer's serial number
+2098745 and registration number G12345, including engines, avionics, components, and all
+associated equipment.
+Value: $70,000,000 (current market value).
+Basic Rent
+Definition: “Basic Rent” refersto the fixed monthly payment the Lessee agreesto pay the Lessor for
+the lease of the Aircraft.
+Value: $180,000 per month.
+Lease Term
+Definition: “Lease Term” refersto the period during which the Lessee is entitled to use and operate
+the Aircraft, subject to the terms and conditions of this Agreement.
+Value: 60 months(5 years), commencing on August 1, 2025, and expiring on August 1, 2030.
+Security Deposit
+Definition: “Security Deposit” refersto the sum paid by the Lessee to the Lessor as a form of financial
+guarantee for the performance of obligations under the Lease Agreement.
+Value: $600,000, to be paid prior to the Aircraft’s delivery.
+Maintenance Reserve Payments
+Definition: “Maintenance Reserve Payments” refersto the monthly payments made by the Lessee to
+the Lessor to cover future maintenance and overhaul costs.
+Value: $40,000 per month, paid in addition to Basic Rent.
+Delivery Date
+Definition: “Delivery Date” refersto the date on which the Aircraft is physically delivered to the
+Lessee by the Lessor and all delivery conditions are satisfied.
+Value: Expected delivery on August 1, 2025.
+Return Condition
+Definition: “Return Condition” refersto the condition the Aircraft must be in when returned by the
+Lessee to the Lessor at the end of the Lease Term, as specified in this Agreement.
+Value: The Aircraft must be returned in a fully airworthy condition, meeting all regulatory
+requirements.
+Insurance Coverage
+Definition: “Insurance Coverage” refersto the required insurance policiesthe Lessee must maintain
+for the Aircraft, including hull, third-party liability, and war risk coverage.
+Value: Hull insurance to cover up to $70,000,000, and third-party liability of no less than
+$150,000,000.
+Utilization Rate
+Definition: “Utilization Rate” refersto the allowed usage of the Aircraft during the Lease Term,
+C2
+typically expressed in flight hours or cycles.
+Value: 5,000 flight hours or 2,500 cycles per year.
+Late PaymentInterest
+Definition: “Late Payment Interest” refersto the penalty interest the Lessee must pay in the event of
+late payments of Rent or other sums due under the Agreement.
+Value: 6% per annum on the overdue amount, calculated daily.
+D1
+Exhibit D
+Maintenance Payment Provisions
+Scheduled Maintenance
+Provision: The Lessee shall be responsible for all costs related to routine scheduled maintenance of
+the Aircraft during the Lease Term, including inspections, repairs, and replacements of parts.
+Payment Frequency: Monthly, along with Basic Rent.
+Amount: $45,000 per month as part of the Maintenance Reserve Payments.
+Unscheduled Maintenance
+Provision: The Lessee shall bear the costs for any unscheduled maintenance,repairs, or
+replacements that arise due to wear and tear, defects, or operational incidents. The Lessee shall
+promptly notify the Lessor of any significant issues that affect the airworthiness of the Aircraft.
+Payment Due: Within 30 days of invoice from the maintenance provider or upon reimbursement
+request by the Lessor.
+Amount: Variable, based on actual repair costs.
+Engine Overhaul Reserves
+Provision: The Lessee shall make monthly paymentsinto an Engine Overhaul Reserve fund to cover
+future costs of engine overhauls. The Lessor may draw from this reserve when major overhauls are
+required.
+Payment Frequency:Monthly.
+Amount: $15,000 per engine per month.
+Airframe Heavy Maintenance Reserves
+Provision: The Lessee shall contribute to an Airframe Heavy Maintenance Reserve to account for
+costs related to major structural inspections and overhauls.
+Payment Frequency:Monthly.
+Amount: $10,000 per month.
+Landing Gear Overhaul Reserves
+Provision: The Lessee shall be required to makemonthly paymentsto a reserve fund specifically for
+landing gear overhauls.
+Payment Frequency:Monthly.
+Amount: $5,000 per month.
+Return Condition Maintenance
+Provision: Upon the expiration or early termination of the Lease, the Lessee shall be responsible for
+ensuring that the Aircraft is returned to the Lessor in the condition outlined in the Return Condition
+clause, including performing any necessary maintenance.
+Payment Due: Prior to the return of the Aircraft, with any additional costs billed within 30 days after
+the return inspection.
+Amount: Variable, based on the actual costsincurred to meet return condition standards.
+D2
+Maintenance Audits
+Provision: The Lessor shall have the right to audit the Lessee’s maintenance operations and records
+at any time, to ensure compliance with this Agreement. If the Lessee is found non-compliant, the
+Lessor may demand immediate corrective actions and seek reimbursement for any associated costs.
+Payment Due: For costs arising from non-compliance, payment is due within 30 days of Lessor’s
+notice.
+Amount: Variable, based on the audit findings.
+Deferred Maintenance
+Provision: Any maintenance deferred by the Lessee beyond recommended timeframes must be
+approved by the Lessor. In the event of deferred maintenance, the Lessor may require additional
+payments or reservesto cover any increased risk or costs.
+Payment Due: Upon approval of deferred maintenance or as agreed in the deferral terms.
+Amount: Determined based on the deferral period and estimated impact.
+Maintenance Payment Adjustments
+Provision: The Lessor reserves the right to adjust maintenance reserve payments every 12 months
+based on actual maintenance costs and industry standard rates. The Lessee shall be notified of any
+adjustments at least 60 days prior to the change taking effect.
+Adjustment Rate: Not to exceed a 10% increase annually unless mutually agreed by both parties.
+Reimbursement for Maintenance
+Provision: If the Lessee performs any major maintenance or overhaul that falls under the Lessor's
+responsibility or if the Lessor agrees to cover certainmaintenance costs, the Lessee shall be
+reimbursed.
+Payment Due: Reimbursement will be made within 60 days of receipt of the invoice and supporting
+documentation.
+Amount: Variable, based on approved maintenance costs.
+E1
+Exhibit E
+Delivery Conditions
+Aircraft Condition at Delivery
+Provision: The Aircraft shall be delivered to the Lessee in an airworthy condition, fully equipped with
+all necessary parts, components, and avionics, as required by regulatory authorities. The Aircraft
+shall be in compliance with all applicable airworthiness directives, service bulletins, and maintenance
+requirements as of the Delivery Date.
+Location: Aircraftshall be delivered at Shannon Airport, Ireland.
+Condition: Free from any defects that would impair its use for commercial operations.
+Certification and Documentation
+Provision: At the time of delivery, the Lessor shall provide the Lessee with all necessary certificates,
+documents, and records, including but not limited to:
+Certificate of Airworthiness
+Aircraft Registration Certificate
+Maintenance and Service Records
+Weight and Balance Records
+Damage History Report (if any).
+Verification: All documents must be up-to-date and verified by both parties prior to delivery.
+AircraftInspection
+Provision: Prior to acceptance, the Lessee shall have the right to conduct a pre-delivery inspection of
+the Aircraft, including a review of all records and a physical inspection by itstechnical team or a
+third-party expert.
+Inspection Period: 5 business days prior to the scheduled Delivery Date.
+Non-Compliance: If the Aircraft does not meet the agreed delivery conditions, the Lessee may refuse
+acceptance until necessary repairs or adjustments are made.
+Paint and Livery
+Provision: The Aircraftshall be delivered in the Lessor’sstandard livery or as otherwise specified in
+Exhibit C of this Agreement. The Lessee may request custom paint or branding at its own expense,
+with the Lessor’s prior approval.
+Customization Deadline: Requestsfor custom paint must be made no later than 30 days prior to the
+Delivery Date.
+Engines and Components
+Provision: The Aircraftshall be delivered with engines and major componentsthat are in compliance
+with the original equipment manufacturer’s (OEM) specifications and within the following
+operational limits:
+Engine Time Since Overhaul (TSO): Lessthan 2,000 hours
+Landing Gear Cycles: Less than 1,000 cycles
+Avionics and systemsfully operational.
+E2
+D2
+Replacement: Any component not meeting these standards must be replaced or overhauled by the
+Lessor before delivery.
+Fuel and Fluids
+Provision: The Aircraftshall be delivered with sufficient fuel and hydraulic fluids necessary for the
+delivery flight to the Lessee’s designated location.
+Amount: Minimum fuel required for ferry flight, unless otherwise agreed upon by both parties.
+Test Flight and Acceptance
+Provision: The Lessee shall have the option to conduct or observe a test flight to ensure the Aircraft's
+performance and compliance with all technical requirements. Any deficiencies noted during the test
+flightshall be corrected prior to final acceptance.
+Test Flight Window: To be scheduled within 48 hours prior to the Delivery Date.
+Delivery Date
+Provision: The Delivery Date shall be August 10, 2025, unless otherwise mutually agreed in writing.
+Any delays caused by the Lessor in delivering the Aircraft may result in penalties, including rent
+credits or an extension of the Lease Term.
+Location: Delivery shall take place at Shannon Airport, Ireland, unless a different delivery location is
+agreed upon by both parties.
+Title Transfer
+Provision: Upon delivery, and subject to Lessee’s acceptance of the Aircraft, all necessary paperwork
+to transfer the operational control of the Aircraftshall be completed. Title to the Aircraft remains
+with the Lessor, and the Lessee will hold a right to use and operate the Aircraft asspecified in this
+Agreement.
+Effectivity: Transfer of operational controlshall be deemed effective as of the Delivery Date.
+Delivery Delays
+Provision: If delivery of the Aircraft is delayed due to reasons attributable to the Lessor (e.g.,
+mechanical issues, missing documents), the Lessee shall be entitled to remedies, including:
+A daily penalty of $3,000 for each day of delay beyond the agreed Delivery Date.
+Rent commencement deferral until the Aircraft is delivered in acceptable condition.
+Force Majeure: Delays caused by events beyond the control of either party (e.g., natural disasters,
+governmental restrictions) shall not incur penalties.
+F1
+2D
+2
+Exhibit F
+Return Conditions
+Aircraft Condition at Return
+Provision: The Aircraft must be returned to the Lessor in an airworthy condition, free of any liens,
+and in a state suitable for immediate commercial operation, in accordance with the standards of the
+aviation authorities governing its operation.
+Condition: The Aircraftshall be in the same configuration as delivered, subject to normal wear and
+tear. All components, including engines, avionics, landing gear, and interiors, must be operational and
+meet OEM specifications.
+Airframe and Engine Hours/Cycles
+Provision: The Aircraftshall be returned with no more than the following remaining operating limits:
+Airframe: Lessthan 15,000 hourssince last heavy maintenance check.
+Engines: Each engine shall have at least 1,500 flight hours or 750 cyclesremaining before the next
+major overhaul isrequired.
+Landing Gear: At least 1,000 cyclesremaining before the next overhaul.
+Interior Condition
+Provision: The interior of the Aircraft shall be in good condition, clean, and free from any damage
+beyond normal wear and tear. Seats, flooring, lavatories, and other cabin components must be fully
+functional and meet commercial passenger standards.
+Repairs: Any damage to the interior (e.g., torn seats, broken panels) must be repaired at the Lessee’s
+expense before return.
+Maintenance Compliance
+Provision: All scheduled maintenance due during the Lease Term must be completed before the
+Aircraft is returned, with no overdue items or deferred maintenance tasks outstanding. The Aircraft
+must comply with all airworthiness directives (ADs) and service bulletins(SBs) issued by the relevant
+aviation authorities.
+Documents: The Lessee must provide complete maintenance recordsfor the Aircraft, engines, and
+components, including proof of compliance with all applicable ADs and SBs.
+Paint and Livery
+Provision: The Aircraftshall be returned either in the Lessee’slivery (if approved by the Lessor) or
+repainted in a neutral color agreed upon by both parties. Any custom branding applied during the
+Lease Term must be removed prior to return at the Lessee’s cost.
+Condition: The paint must be free of significant defects (e.g., peeling, chipping) and suitable for
+continued commercial service.
+Equipment and Configuration
+Provision: The Aircraftmust be returned with all original equipment and configuration as at the time
+of delivery, including but not limited to:
+Avionicssystems
+F2
+E2
+D2
+Seats and interior components
+Operationalsafety equipment (e.g., oxygenmasks, life vests).
+Missing Items: Any missing equipment or components must be replaced by the Lessee at its own
+expense prior to return.
+Engine and Component Condition
+Provision: All major components, including engines, APU, and landing gear, shall be within the
+operational limitsspecified by the OEM. The engines must be in good operating condition, with no
+major repairsrequired for at least 1,500 hours or 750 cycles. The Aircraft must be returned with no
+engine or APU exceeding 10% of its allowable time between overhaul (TBO).
+Replacement: If any components are beyond the allowed operational limits, the Lessee must replace
+them with parts of equal or better value before returning the Aircraft.
+Fuel and Fluids
+Provision: The Aircraftshall be returned with a minimum fuel quantity sufficient for the ferry flight to
+the agreed return location. All necessary hydraulic, oil, and other fluids must be at operational levels.
+Location: The Aircraft shall be returned to the Lessor’s designated location, which shall be agreed
+upon in writing.
+Test Flight and Inspection
+Provision: The Lessor shall have the right to conduct or observe a post-return test flight to verify the
+condition of the Aircraft. The cost of the test flight shall be borne by the Lessor unless any defects or
+issues are discovered during the test flight, in which case the Lessee shall bear the cost of repairs and
+the flight.
+Inspection: A comprehensive physical and recordsinspection will be conducted by the Lessor or an
+independent third-party inspector prior to acceptance of the returned Aircraft.
+Return Delays and Penalties
+Provision: If the Lessee fails to return the Aircraft by the expiration of the Lease Term, the Lessee
+shall pay a daily penalty for each day the Aircraft is overdue, unless mutually agreed upon in writing.
+Penalty Rate: $12,000 per day.
+Grace Period: A grace period of 5 days may be granted by the Lessor, provided there is a justifiable
+cause for the delay.
+Final Acceptance and Title Transfer
+Provision:Upon satisfactory inspection and acceptance of the Aircraft by the Lessor, the Lessee shall
+provide all necessary documentsfor the transfer of operational control back to the Lessor. The
+Lessee will be released from any further obligations under the Agreement upon the Lessor’s written
+confirmation of acceptance.
+G1
+2E
+2D
+2
+Exhibit G
+Lease Supplement No. 1
+This Lease Supplement No. 1 (“Supplement”) is executed pursuant to the Aircraft Lease Agreement
+dated August 10, 2025, between AeroSky Rentals Ltd. ("Lessor") and BlueJet Airways Corp.
+("Lessee"). The purpose of this Supplement isto provide additional terms and conditionsfor the
+lease of one (1) SkyLiner A350 aircraft bearing Manufacturer’s Serial Number 2098745 and
+Registration Number G12345, and to modify certain provisions of the original Lease Agreement as
+outlined below.
+1. Identification of Aircraft: The Aircraft subject to this Lease Supplement is a SkyLiner A350,
+equipped with two (2) Rolls-Royce Trent XWB engines. The Aircraft has been inspected and
+determined to be in airworthy condition as of the Delivery Date specified in this Supplement.
+The Lessee agrees to lease this specific aircraft in accordance with the terms of the original
+Lease Agreement and the modifications set forth herein.
+2. Modification of Rent Payment: In addition to the Basic Rentspecified in the Lease
+Agreement, the parties agree that an additional maintenance reserve payment of $45,000
+per month shall be made by the Lessee, commencing on the first day of the month following
+the Delivery Date. This payment shall be made to cover future maintenance costs related to
+the Aircraft's engines, airframe, and major components.
+3. Lease Term and Extension: The Lease Term for the Aircraft identified in this Supplementshall
+be 60 months, beginning on August 10, 2025, and ending on August 10, 2029. The Lessee
+shall have the option to extend the Lease Term for an additional 12 months, provided that
+written notice is given to the Lessor no later than 90 days before the expiration of the
+original Lease Term. Any extension of the Lease Term shall be subject to mutually agreed
+terms and conditions.
+4. Additional Terms: The provisions of this Lease Supplementshall be deemed to modify and
+supplement the terms of the original Lease Agreement. In the event of any inconsistency
+between the terms of this Supplement and the Lease Agreement, the terms of this
+Supplement shall prevail. All other provisions of the Lease Agreement remain in full force
+and effect, and the parties hereby confirm their continued agreement to be bound by its
+terms.
+H1
+Exhibit H
+Certificate of Delivery Technical Acceptance
+This Certificate of Delivery Technical Acceptance ("Certificate") is executed on this 10th day of August
+2025, by and between AeroSky Rentals Ltd., a company organized under the laws of Canada
+("Lessor"), and BlueJet Airways Corp., a company organized under the laws of the United Kingdom
+("Lessee"), pursuant to the Aircraft Lease Agreement dated August 10, 2025.
+1. Aircraft Identification and Delivery:
+The Aircraft being delivered under this Certificate is a SkyLiner A350, bearing Manufacturer’s
+Serial Number 2098745 and Registration Number G12345, and equipped with two (2) RollsRoyce Trent XWB engines. The Aircraft has been inspected and meets the specifications set
+forth in the Lease Agreement. The Aircraft is delivered by the Lessor and accepted by the
+Lessee at Toronto Pearson International Airport, Canada, on this date.
+2. Technical Inspection and Acceptance:
+The Lessee has conducted a thorough technical inspection of the Aircraft, including a review
+of the maintenance records, operational performance, and compliance with airworthiness
+directives. Based on this inspection, the Lessee confirms that the Aircraft is in airworthy
+condition and meets the delivery conditions specified in the Lease Agreement. All systems,
+components, and avionics are functional, and no significant defects were identified during
+the inspection process.
+3. Certification of Compliance:
+The Aircraft is certified as compliant with the applicable regulations and airworthiness
+standards of the Transport Canada Civil Aviation (TCCA) and the Federal Aviation
+Administration (FAA). The Lessee acknowledges receipt of all relevant documents, including
+the Certificate of Airworthiness, maintenance logs, service bulletins, and inspection records.
+The Aircraft is delivered with no outstanding airworthiness directives or deferred
+maintenance items.
+4. Acceptance by Lessee:
+The Lessee hereby acknowledges and accepts delivery of the Aircraft in accordance with the
+terms of the Lease Agreement. By signing this Certificate, the Lessee confirms that the
+Aircraft is in satisfactory condition for commercial operations and that all technical
+conditions of the Lease have been met. This Certificate shall serve as evidence of the formal
+delivery of the Aircraft to the Lessee, effective as of August 10, 2025.
+LESSOR: AeroSky Rentals Ltd.
+Name: Emily Johnson
+Title: Chief Financial Officer
+Date: August 10, 2025
+LESSEE: BlueJet Airways Corp.
+Name: Michael Brown
+Title: Vice President of Operations
+Date: August 10, 2025
+I1
+Exhibit I
+Certificate of Redelivery Technical Acceptance
+This Certificate of Redelivery Technical Acceptance ("Certificate") is executed on this 10th day of
+August 2025, by and between AeroSky Rentals Ltd., a company organized under the laws of Canada
+("Lessor"), and BlueJet Airways Corp., a company organized under the laws of the United Kingdom
+("Lessee"), pursuant to the Aircraft Lease Agreement dated August 10, 2025.
+1. AircraftIdentification and Redelivery:
+The Aircraft subject to redelivery under this Certificate is a SkyLiner A350, bearing
+Manufacturer’s Serial Number 2098745 and Registration Number G12345, and equipped
+with two (2) Rolls-Royce Trent XWB engines. The Aircraft has been inspected and returned by
+the Lessee to the Lessor at Toronto Pearson International Airport, Canada, in accordance
+with the redelivery termsspecified in the Lease Agreement.
+2. Technical Inspection and Redelivery Conditions:
+The Lessee has conducted all necessary maintenance, repairs, and inspections prior to
+redelivery, and the Aircraft isreturned in an airworthy condition, free from any liens or
+encumbrances. The Lessor has conducted a technical inspection of the Aircraft, which
+includes:
+o Review of the airframe, engines, and landing gear cycles and hours.
+o Inspection of the Aircraft’s interior, avionicssystems, and other operational
+components.
+o Verification that the Aircraft complies with all relevant airworthiness directives(ADs),
+service bulletins (SBs), and regulatory requirements.
+The Aircraft isfound to be in compliance with the redelivery conditions asstipulated in the Lease
+Agreement.
+3. Certification of Compliance:
+The Aircraft is certified as compliant with the applicable regulations of Transport Canada Civil
+Aviation (TCCA) and the Federal Aviation Administration (FAA). The Lessee has provided all
+necessary documentation, including the updated Certificate of Airworthiness, logbooks,
+maintenance records, service history, and weight and balance reports. No significant defects
+or overdue maintenance items were identified during the redelivery inspection.
+4. Acceptance by Lessor:
+The Lessor hereby acknowledges and acceptsthe redelivery of the Aircraft in accordance
+with the terms of the Lease Agreement. The Aircraft is accepted in satisfactory condition for
+future operations, and all technical and maintenance conditionsrequired for redelivery have
+been met. This Certificate shall serve asformal evidence of the Aircraft’s redelivery to the
+Lessor as of August 10, 2025.
+I2
+AeroSky Rentals Ltd. (Lessor)
+Name: Emily Johnson
+Title: Chief Financial Officer
+Date: August 10, 2025
+BlueJet Airways Corp. (Lessee)
+Name: Michael Brown
+Title: Vice President of Operations
+Date: August 10, 2025
+J1
+Exhibit J
+Deregistration Power of Attorney
+This Deregistration Power of Attorney ("Power of Attorney") is executed on this August 10, 2025, by
+BlueJet Airways Corp., a company organized under the laws of the United Kingdom ("Lessee"), in
+favor of AeroSky Rentals Ltd., a company organized under the laws of Canada ("Lessor").
+1. Appointment and Authority
+The Lessee hereby irrevocably appointsthe Lessor, its directors, officers, and any designated
+representatives, as its true and lawful attorney-in-fact with full power and authority to act in the
+name and on behalf of the Lessee for the sole purpose of effectuating the deregistration of the
+Aircraft described below from the Civil Aviation Authority of Ireland and any other applicable aviation
+registry.
+2. AircraftIdentification
+This Power of Attorney appliesto the following aircraft("Aircraft"):
+ Aircraft Model: SkyLiner A350
+ Manufacturer’s Serial Number: 2098745
+ Registration Number: G12345
+ Engines: Two (2) Pratt & Whitney PW4000 engines
+3. Scope of Powers
+The Lessor is hereby granted full authority to perform any and all acts necessary to deregister the
+Aircraft, including but not limited to:
+ Filing applications, forms, and documents with the relevant civil aviation authorities or
+governmental entities.
+ Executing and delivering any documentsrequired to complete the deregistration process.
+ Taking any actionsreasonably necessary to effectuate the export of the Aircraft, if applicable.
+ Signing any letters, declarations, or certificationsrequired for deregistration.
+4. Effective Date and Duration
+This Power of Attorney shall become effective on the date of execution and shall remain in full force
+and effect until such time asthe Aircraft has been fully deregistered from the applicable aviation
+registry. The Lessee expressly waives any right to revoke this Power of Attorney prior to the
+completion of the deregistration process.
+5. Indemnity
+The Lessee agreesto indemnify and hold harmless the Lessor, its officers, and representativesfrom
+any liabilities, claims, or damages arising out of actions taken in good faith under this Power of
+Attorney in connection with the deregistration of the Aircraft.
+6. Governing Law
+J2
+This Power of Attorney shall be governed by, and construed in accordance with, the laws of UK,
+without regard to its conflicts of law principles.
+BlueJet Airways Corp.(Lessee)
+Name: Michael Brown
+Title: Vice President of Operations
+Date: August 10, 2025
