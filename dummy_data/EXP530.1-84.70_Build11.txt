@@ -1,0 +1,51 @@
+Extracted Text Content:
+==================================================
+EXP530.1-84.70 - R530.1 TCU2 -Build1
+BUILD START DATE   14 Oct 2024
+BUID COMPLETION DATE:  18 Oct 2024
+TEST PACKAGE :
+YES
+BUILD STATUS:  COMPLETED
+SCM CONFIG SPEC:
+"S:\SCM\releases\EXP53x\EXP530.1\TCU\EXP530.1-84.70\config_spec.txt"
+SCM BUILD LOCATION :
+S:\SCM\releases\EXP53x\EXP530.1\TCU\EXP530.1-84.70
+PATCHDB FOLDER:
+BUILD ISSUES
+Type/Problem
+Details
+When /Whom reported ?
+Resolver
+What is the resolution?
+Root cause?
+Status
+BVT STATUS:
+PASS/FAIL
+BVT RESULTS:
+(Please mention, if there is any new PAR raised)
+
+Table 1:
+==================================================
+BUILD START DATE   14 Oct 2024
+BUID COMPLETION DATE:  18 Oct 2024
+TEST PACKAGE :
+YES
+BUILD STATUS:  COMPLETED
+SCM CONFIG SPEC:
+"S:\SCM\releases\EXP53x\EXP530.1\TCU\EXP530.1-84.70\config_spec.txt"
+SCM BUILD LOCATION :
+S:\SCM\releases\EXP53x\EXP530.1\TCU\EXP530.1-84.70
+PATCHDB FOLDER:
+
+Table 2:
+==================================================
+Type/Problem	Details	When /Whom reported ?	Resolver	What is the resolution?	Root cause?	Status
+						
+
+Table 3:
+==================================================
+BVT STATUS:
+PASS/FAIL
+BVT RESULTS:
+(Please mention, if there is any new PAR raised)
+

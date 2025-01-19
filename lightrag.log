@@ -1222,3 +1222,95 @@ AssertionError: Torch not compiled with CUDA enabled
 2025-01-15 14:36:43,960 - lightrag - INFO - Loaded graph from contract_sample_2\graph_chunk_entity_relation.graphml with 846 nodes, 123 edges
 2025-01-15 14:36:44,165 - lightrag - INFO - Loaded document status storage with 1 records
 2025-01-15 14:36:48,774 - lightrag - INFO - Truncate 15 to 3 chunks
+2025-01-18 18:09:49,022 - lightrag - INFO - Logger initialized for working directory: new_index
+2025-01-18 18:09:49,022 - lightrag - INFO - Creating working directory new_index
+2025-01-18 18:09:49,022 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-18 18:09:49,037 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-18 18:09:49,038 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-18 18:09:49,038 - lightrag - INFO - Loaded document status storage with 0 records
+2025-01-18 18:14:30,240 - lightrag - INFO - Logger initialized for working directory: new_index
+2025-01-18 18:14:30,240 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-18 18:14:30,240 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-18 18:14:30,240 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-18 18:14:30,240 - lightrag - INFO - Loaded document status storage with 0 records
+2025-01-18 18:14:40,757 - lightrag - INFO - Processing 1 new unique documents
+2025-01-18 18:14:41,998 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-01-18 18:15:58,188 - lightrag - INFO - Inserting entities into storage...
+2025-01-18 18:15:58,188 - lightrag - INFO - Inserting relationships into storage...
+2025-01-18 18:15:58,203 - lightrag - INFO - Inserting 13 vectors to entities
+2025-01-18 18:16:00,480 - lightrag - INFO - Inserting 14 vectors to relationships
+2025-01-18 18:16:02,643 - lightrag - INFO - Writing graph with 13 nodes, 14 edges
+2025-01-18 19:13:23,726 - lightrag - INFO - Logger initialized for working directory: new_index
+2025-01-18 19:13:23,726 - lightrag - INFO - Creating working directory new_index
+2025-01-18 19:13:23,726 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-18 19:13:23,726 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-18 19:13:23,731 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-18 19:13:23,735 - lightrag - INFO - Loaded document status storage with 0 records
+2025-01-18 19:13:34,114 - lightrag - INFO - Processing 1 new unique documents
+2025-01-18 19:13:35,134 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-18 19:13:49,549 - lightrag - INFO - Inserting entities into storage...
+2025-01-18 19:13:49,560 - lightrag - INFO - Inserting relationships into storage...
+2025-01-18 19:13:49,560 - lightrag - INFO - Inserting 12 vectors to entities
+2025-01-18 19:13:51,831 - lightrag - INFO - Inserting 10 vectors to relationships
+2025-01-18 19:13:54,005 - lightrag - INFO - Writing graph with 12 nodes, 10 edges
+2025-01-18 19:14:31,581 - lightrag - INFO - Processing 1 new unique documents
+2025-01-18 19:14:31,597 - lightrag - INFO - Inserting 15 vectors to chunks
+2025-01-18 19:32:30,441 - lightrag - INFO - Inserting entities into storage...
+2025-01-18 19:32:30,493 - lightrag - INFO - Inserting relationships into storage...
+2025-01-18 19:32:30,504 - lightrag - INFO - Inserting 301 vectors to entities
+2025-01-18 19:33:01,418 - lightrag - INFO - Inserting 100 vectors to relationships
+2025-01-18 19:33:12,768 - lightrag - INFO - Writing graph with 311 nodes, 110 edges
+2025-01-18 19:35:50,893 - lightrag - INFO - Processing 1 new unique documents
+2025-01-18 19:35:50,909 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-01-18 19:36:06,380 - lightrag - INFO - Inserting entities into storage...
+2025-01-18 19:36:06,384 - lightrag - INFO - Inserting relationships into storage...
+2025-01-18 19:36:06,401 - lightrag - INFO - Inserting 15 vectors to entities
+2025-01-18 19:36:08,923 - lightrag - INFO - Inserting 13 vectors to relationships
+2025-01-18 19:36:11,228 - lightrag - INFO - Writing graph with 322 nodes, 123 edges
+2025-01-18 19:41:02,575 - lightrag - INFO - Processing 1 new unique documents
+2025-01-18 19:41:02,608 - lightrag - INFO - Inserting 5 vectors to chunks
+2025-01-18 19:47:03,719 - lightrag - INFO - Inserting entities into storage...
+2025-01-18 19:47:03,744 - lightrag - INFO - Inserting relationships into storage...
+2025-01-18 19:47:03,767 - lightrag - INFO - Inserting 158 vectors to entities
+2025-01-18 19:47:19,769 - lightrag - INFO - Inserting 39 vectors to relationships
+2025-01-18 19:47:25,024 - lightrag - INFO - Writing graph with 415 nodes, 152 edges
+2025-01-18 20:41:39,296 - lightrag - INFO - Logger initialized for working directory: ./new_index
+2025-01-18 20:41:39,298 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-18 20:41:39,319 - lightrag - INFO - Load KV full_docs with 4 data
+2025-01-18 20:41:39,329 - lightrag - INFO - Load KV text_chunks with 22 data
+2025-01-18 20:41:39,350 - lightrag - INFO - Loaded graph from ./new_index\graph_chunk_entity_relation.graphml with 415 nodes, 152 edges
+2025-01-18 20:41:39,425 - lightrag - INFO - Loaded document status storage with 4 records
+2025-01-18 20:41:39,425 - lightrag - INFO - Creating a new event loop in main thread.
+2025-01-18 20:41:41,192 - lightrag - INFO - Truncate 22 to 3 chunks
+2025-01-18 20:42:29,425 - lightrag - INFO - Logger initialized for working directory: ./new_index
+2025-01-18 20:42:29,425 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2025-01-18 20:42:29,430 - lightrag - INFO - Load KV full_docs with 4 data
+2025-01-18 20:42:29,431 - lightrag - INFO - Load KV text_chunks with 22 data
+2025-01-18 20:42:29,439 - lightrag - INFO - Loaded graph from ./new_index\graph_chunk_entity_relation.graphml with 415 nodes, 152 edges
+2025-01-18 20:42:29,491 - lightrag - INFO - Loaded document status storage with 4 records
+2025-01-18 20:42:29,491 - lightrag - INFO - Creating a new event loop in main thread.
+2025-01-18 20:42:30,881 - lightrag - INFO - Truncate 22 to 3 chunks
+2025-01-18 20:43:47,586 - lightrag - INFO - Logger initialized for working directory: ./new_index
+2025-01-18 20:43:47,586 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2025-01-18 20:43:47,592 - lightrag - INFO - Load KV full_docs with 4 data
+2025-01-18 20:43:47,594 - lightrag - INFO - Load KV text_chunks with 22 data
+2025-01-18 20:43:47,604 - lightrag - INFO - Loaded graph from ./new_index\graph_chunk_entity_relation.graphml with 415 nodes, 152 edges
+2025-01-18 20:43:47,669 - lightrag - INFO - Loaded document status storage with 4 records
+2025-01-18 20:43:47,669 - lightrag - INFO - Creating a new event loop in main thread.
+2025-01-18 20:43:49,255 - lightrag - INFO - Truncate 22 to 4 chunks
+2025-01-18 20:57:51,217 - lightrag - INFO - Logger initialized for working directory: ./new_index
+2025-01-18 20:57:51,231 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2025-01-18 20:57:51,262 - lightrag - INFO - Load KV full_docs with 4 data
+2025-01-18 20:57:51,284 - lightrag - INFO - Load KV text_chunks with 22 data
+2025-01-18 20:57:51,321 - lightrag - INFO - Loaded graph from ./new_index\graph_chunk_entity_relation.graphml with 415 nodes, 152 edges
+2025-01-18 20:57:51,467 - lightrag - INFO - Loaded document status storage with 4 records
+2025-01-18 20:57:51,468 - lightrag - INFO - Creating a new event loop in main thread.
+2025-01-18 20:57:53,610 - lightrag - INFO - Truncate 22 to 5 chunks
+2025-01-18 20:58:57,970 - lightrag - INFO - Logger initialized for working directory: ./new_index
+2025-01-18 20:58:57,972 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2025-01-18 20:58:57,974 - lightrag - INFO - Load KV full_docs with 4 data
+2025-01-18 20:58:57,976 - lightrag - INFO - Load KV text_chunks with 22 data
+2025-01-18 20:58:57,988 - lightrag - INFO - Loaded graph from ./new_index\graph_chunk_entity_relation.graphml with 415 nodes, 152 edges
+2025-01-18 20:58:58,046 - lightrag - INFO - Loaded document status storage with 4 records
+2025-01-18 20:58:58,047 - lightrag - INFO - Creating a new event loop in main thread.
+2025-01-18 20:58:59,632 - lightrag - INFO - Truncate 17 to 5 chunks

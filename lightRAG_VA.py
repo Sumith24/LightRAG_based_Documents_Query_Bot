@@ -107,7 +107,7 @@ def query_index(rag, query_text, search_method):
 def main():
     st.title("* Query-Doc-With-LightRAG *")
     
-    indexs_list = ["contract_sample_1", "contract_sample_2", "multi_contracts"]  
+    indexs_list = ["contract_sample_1", "contract_sample_2", "multi_contracts", "new_index"]  
     selected_index = st.sidebar.selectbox("Select-Index", indexs_list) 
 
     # Add a gap (line break)

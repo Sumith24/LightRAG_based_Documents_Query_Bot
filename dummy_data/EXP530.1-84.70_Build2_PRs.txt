@@ -1,0 +1,569 @@
+Extracted Text Content:
+==================================================
+EXP530.1-84.71 - R530.1 TCU2 PRs- Build2
+SCM Notes - for use by SCM builder
+All below patch request submissions due by 7:30 a.m. IST on
+PATCHDB process has been simplified - please see
+PatchDB Process for Developers
+for instruction package.
+Warning: If you are using a Web or Snapshot view, please perform a clean build once in a dynamic view before merging.
+Reason: There is one known issue where the position of include lines in makefiles can cause a dynamic build to fail. Makefile include lines should always be at the end of the file.
+Use double slash "//" to create a date entry and "@" to enter your user name in fields as needed.
+1
+.................................
+Label
+Only 1 label per ro
+...............................
+Submitter
+Date
+.....................................................
+PAR# and Abstract
+or
+Description if New/Other
+..............................................
+Deliverable list
+Guidance
+..........................................
+DB/PatchDB Change needed?
+Guidance
+..............................
+Completed Review ID
+(or justification if no review ID)
+..............................
+Security impact (KW6) field in Siebel
+..............................
+Static code analysis results and Coverity Build Stream ID and Snapshot ID
+Guidance
+.................................
+Impacted product component and Comp Security Advocate
+Guidance
+.............................
+Binary Scan Status (To be updated by Comp Security Advocate)
+Guidance
+.............................
+PS-JIRA affect version issues (To be updated by Comp Security Advocate)
+Guidance
+................................
+Responsible UM
+.........................
+UM Sign off and date
+Guidance
+.....................................
+RM Approval/
+Date
+........................................
+Developer BVT
+/Date
+..............................................................................
+Special Instructions for SCM or Installation
+.................................................
+SCM Notes
+(for use by SCM builder)
+.......................
+Build status
+(From SCM)
+1
+D_CEP204.1-85.0-58
+Phil Hanson
+22 Oct 2024
+RNE-2883 -
+UEA ENIM with single FTE-Green n/w reported connection error when flashed with recovery media and send command failed error with application
+UEA, UVA, EIM
+UOC ,CN100, c300v5 , C300H, C300PM and corresponding virtual environment.
+No
+34460
+SecurityNo
+No new security findings.
+Stream PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA-ELCN_NODE_APP
+Matthew R Schrier
+C300PM/EHPMX
+Eric Ramsdell
+ELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a
+vELCNNODE: Completed; no matches found.
+EIM-EIP:
+Black Duck
+EIM-PNET:
+Black Duck
+EIM-IEC61850:
+Black Duck
+C300PM Artifactory:
+https://artifactory-na.honeywell.com/ui/repos/tree/General/c300pm-generic-stable-local/binaries/C300PM/530.1%20TCU2
+C300PM BDH:
+https://blackduck.swtools.honeywell.com/api/projects/b6e1bfaa-a46b-4e65-83b2-654108555a62/versions/82335ef2-a139-4701-9cdf-3a99a49e046a/components
+EHPMX Artifactory:
+https://artifactory-na.honeywell.com/ui/repos/tree/General/ehpmx-generic-stable-local/binaries/EHPMX/530.1%20TCU2
+EHPMX BDH:
+https://blackduck.swtools.honeywell.com/api/projects/622f2ebb-bb3a-4926-958d-9489bd2e41bb/versions/6429361b-6ba9-47d7-a44e-c7db32fa8492/components
+C300 - Black Duck
+- no issues found
+C300v5 - Black Duck
+- no issues found
+CN100 - Black Duck
+- no issues found
+C300H - Black Duck
+- no issues found
+HCA - Black Duck
+- no issues found
+C300PM: version updates complete
+EHPMX: version updates complete
+Balamurugan Ramakrishnan
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+2
+D_EXP530.1-85.0-627
+James Adams
+RELCN-4392 -
+PAR 1-FX8TL87 (CUSTOMER) - Primary AM failed related to Backup Cleanpoint issue - characterize when LCN-ETH buffers are allocated/deallocated
+ELCNNODE,
+vELCNNODE
+No
+43760
+SecurityNo
+No new issues
+snapshot: 601601
+PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA_ELCN_NODE_APP
+ELCNSEC
+James Adams
+ELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a
+vELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a
+Balamurugan Ramakrishnan
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+3
+D_EXP530.1-85.0-441
+James Adams
+RELCN-4223 Add diagnostics to Monitor Ethernet buffer usage
+ELCNNODE
+vELCNNODE
+No
+40481
+SecurityNo
+No new issues
+snapshot: 601601
+PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA_ELCN_NODE_APP
+ELCNSEC
+James Adams
+ELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a
+vELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a
+HOLD unless reply from Jim
+Not to be stricken from the build. Issue has been getting tracked as a task and not a defect reason for the misalignment in defect scope addition and PR page correlation.  Has been labeled and merged since Aug.  Minimal to no risk but delivers key instrumentation required to better diagnose ELCN AM behaviors and as part of ELCN AM improvements.
+Joe Valencia
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+4
+R530.1 TCU2
+Umadevi Murugan
+23 Oct 2024
+1-G7U1I8V
+-
+UOC OPM from R520.2TCU6 to R530.1 TCU1 fails with blockdatafailure for EIPCOMMODULE
+sysdtleipexplicitdevra_fp.hda
+sysdtleipexplicitdevra.hda
+sysdtleipexplicitdevra_Chart.hda
+No
+1-G7U1I8V by Umadevi-Murugan_HON · Pull Request #146 · HON-IA/exp_et_DetailDisplays
+SecurityNo
+N/A for displays
+CN2R & RM2
+Janardhan Ramachandra
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+5
+D_EXP530.1-85.0-533
+Pravin Yele
+24 Oct 2024
+PAR- 1-G7U1I8V: [M&I] UOC OPM from R520.2TCU6 to R530.1 TCU1 fails with blockdatafailure for EIPCOMMODULE
+UOC/vUOC, UOC-PROCESS, UOC-PNET
+No
+28997,
+29872
+SecurityNo
+Rizwan_coverity_R520.7z
+Rizwan: Desktop Coverity analysis done. Few issues were found and triaged.
+Component:  CEE in UOC
+Security Advocate: @Sameer Gupta
+Satish Chandra
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+6
+D_EXP530.1-85.0-664
+James Adams
+24 Oct 2024
+RELCN-4685 Virtual backup ELCN-AM may occasionally fail due to out-of-sequence redundancy communications
+ELCNNODE
+vELCNNODE
+N0
+44689
+SecurityNo
+No new issues
+snapshot: 601601
+PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA_ELCN_NODE_APP
+ELCNNODEs, SA:
+James Adams
+ELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a
+vELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a
+Balamurugan Ramakrishnan
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+7
+D_EXP530.1-85.0-666
+Kranthi Kumar Paluvadi
+25 Oct 2024
+PAR 1-GDVP9ZR: [SFT]8C-PDIPA1 module works abnormally with 8C-PCNT05 controller
+CEP: C300v5, CN100
+No
+44812
+SecurityNo
+No new findings.
+Snapshot ID: 601602
+Stream: PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-C300V5_PRO
+Matthew R Schrier
+C300 - Black Duck
+- no issues found
+C300v5 - Black Duck
+- no issues found
+CN100 - Black Duck
+- no issues found
+C300H - Black Duck
+- no issues found
+HCA - Black Duck
+- no issues found
+Tracy Xie
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+8
+D_EXP530.1-85.0-682
+Gulam Kanji
+04 Nov 2024
+1-EHV0EVZ-SCM not released after single step change (with Procedure Explorer
+ACE.exe
+C200EFBEE0.dll
+CEEC300FBEE1.dll
+c300app2.pcm
+c300app2_20.pcm
+c300app2_ehb.pcm
+C300app3.pcm
+c300app3_20.pcm
+cee50e.pcm
+UOC, vUOC, C300v5
+No
+45099
+SecurityNo
+No new findings
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+9
+No D label
+Manjunath S
+06 Nov 2024
+1-GPFHRF1 SR deliverables had issue in TCU2 Build 1
+please build all SR deliverables for TCU2 build 02 as this was given for testing team from devlopers build in TCU2 build 1
+please refer to build 01
+41282
+SecurityNo
+SR: Completed, no matches found
+https://blackduck.swtools.honeywell.com/api/projects/4cc35b1f-8713-45ab-9f27-d0257801a26a/versions/a10fd436-92e7-4cc9-8d7f-6de7766bdfe4/components?filter=bomInclusion%3Afalse&filter=bomMatchInclusion%3Afalse&filter=bomMatchReviewStatus%3Areviewed&limit=100&offset=0
+Sanjeev S V
+08 Nov 2024
+please build all SR deliverables from BB
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+10
+D_EXP530.1-85.0-685
+Abrar Hazarika
+06 Nov 2024
+PAR
+1-EXGG0OD
+ver_rev.txt
+No
+NA
+SecurityNo
+NA
+NA as this is a text file change.
+Pulkit Mangla
+is SA for Migration Tools.
+Migrations Tools:
+https://blackduck.swtools.honeywell.com/api/codelocations/bf7d154d-0806-44ef-9685-e8978a40984f
+Sanjeev S V
+08 Nov 2024
+Please use this D labelled version as input to AutoVerRev.exe in case you need to generate ver_rev.txt
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+11
+D_EXP530.1-85.0-692
+Vimal Kant
+Christopher Buonacuore
+08 Nov 2024
+“
+https://psjira.honeywell.com/browse/C300V5SEC-172
+: Assessment: C300v5 EPA : Server connection failed while performing EPA fuzz using Defensics”
+Windows:
+gcl.dll
+Embedded:
+pSOS:
+FTEB, C200E, FIM2, IOLIM
+Integrity:
+C300v2, C300v2-20ms, C300v3, C300v3-20ms, FIM4, FIM8, PGM2, EHPM, EPNI2/ENIM, C300-EHB, EHB
+CEP:
+EIM-RECOVERY,
+EIM-61850, EIM-EIP, EIM-PNET
+ELCNNODE,
+vELCNNODE,
+ELCN bridge
+UOC-RECOVERY,
+UOC-PROCESS, UOC-PNET, vUOC
+CN100-RECOVERY,
+CN100,
+SIM-CN100
+C300v5
+C300PM, EHPMX
+C300H ARM, HCA ARM
+C300H x86, , HCA x86
+No
+43494
+Security Yes
+Coverity – No new issue observed in the modified files.
+Snapshot ID – 609053
+PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-C300_APP
+UOC or C300v5
+Pat Brett
+C300:
+Matthew R Schrier
+ELCNNODE/BRIDGE:
+James Adams
+C300PM/EHPMX:
+Eric Ramsdell
+ELCNNODE:   Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a
+vELCNNODE: Completed; no matches found.
+https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a
+ELCN BRIDGE: Completed; no matches found
+https://blackduck.swtools.honeywell.com/api/codelocations/5f52cbbb-cda0-4dd0-af39-9ebd0c862409
+EIM-EIP:
+Black Duck
+EIM-PNET:
+Black Duck
+EIM-IEC61850:
+Black Duck
+PGM:
+https://blackduck.swtools.honeywell.com/api/projects/8cb954cc-67da-42f3-a69e-dfb63f6b4613
+C300PM Artifactory:
+https://artifactory-na.honeywell.com/ui/repos/tree/General/c300pm-generic-stable-local/binaries/C300PM/530.1%20TCU2
+C300PM BDH:
+https://blackduck.swtools.honeywell.com/api/projects/b6e1bfaa-a46b-4e65-83b2-654108555a62/versions/82335ef2-a139-4701-9cdf-3a99a49e046a/components
+EHPMX Artifactory:
+https://artifactory-na.honeywell.com/ui/repos/tree/General/ehpmx-generic-stable-local/binaries/EHPMX/530.1%20TCU2
+EHPMX BDH:
+https://blackduck.swtools.honeywell.com/api/projects/622f2ebb-bb3a-4926-958d-9489bd2e41bb/versions/6429361b-6ba9-47d7-a44e-c7db32fa8492/components
+C300 - Black Duck
+- no issues found
+C300v5 - Black Duck
+- no issues found
+CN100 - Black Duck
+- no issues found
+C300H - Black Duck
+- no issues found
+HCA - Black Duck
+- no issues found
+FIM2:
+Black Duck
+FIM4:
+Black Duck
+FIM8:
+Black Duck
+C300PM: version updates complete
+EHPMX: version updates complete
+Satish Chandra
+Raj Bandekar
+Sanjeev S V
+08 Nov 2024
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+12
+R530.1 TCU2
+Shanmugaraj Pillarchetty
+19 Nov 2024
+[RBTMGR-4936] Remove PLA from Displays - Jira
+Remove PLA from Displays
+sysdtlpidplaltc.hda
+sysdtlpidplc.hda
+No
+https://github.com/HON-IA/exp_et_DetailDisplays/pull/149
+SecurityNo
+N/A for displays
+PLA
+Janardhan Ramachandra
+Rejected, Unsolicited request
+21 Nov 2024
+Sanjeev S V
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+13
+D_EXP530.1-85.0-722
+Ananthapadmanabha Gujjanadu Krishnamurthy
+21 Nov 2024
+REUCN-8351/REUCN-8349: Node fails with Watchdog error or gets stuck during shutdown
+C300PM, EHPMX
+No
+45994
+SecurityNo
+Only Makefile change and no source code change
+C300PM/EHPMX
+Eric Ramsdell
+C300PM Artifactory:
+https://artifactory-na.honeywell.com/ui/repos/tree/General/c300pm-generic-stable-local/binaries/C300PM/530.1%20TCU2
+C300PM BDH:
+https://blackduck.swtools.honeywell.com/api/projects/b6e1bfaa-a46b-4e65-83b2-654108555a62/versions/82335ef2-a139-4701-9cdf-3a99a49e046a/components
+EHPMX Artifactory:
+https://artifactory-na.honeywell.com/ui/repos/tree/General/ehpmx-generic-stable-local/binaries/EHPMX/530.1%20TCU2
+EHPMX BDH:
+https://blackduck.swtools.honeywell.com/api/projects/622f2ebb-bb3a-4926-958d-9489bd2e41bb/versions/6429361b-6ba9-47d7-a44e-c7db32fa8492/components
+C300PM: version updates complete
+EHPMX: version updates complete
+Balamurugan Ramakrishnan
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+14
+D_CEP204.1-85.0-83
+K Manohar
+26 Nov 2024
+1-EODY1AF [EIM-PN]EIM failure observed during downlink network storm in multimanager case.
+1-FB03IN5 EIM Profinet personality failed after downloading a vpgate. EIM network Storm
+EIM-PNET
+EIM-Recovery
+No
+46360
+SecurityNo
+Snapshot id: 621528
+PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-EIM-PNET
+EIM
+Richa Sachan
+EIM: Completed; no matches found
+Black Duck
+Satish Chandra
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+15
+D_EXP530.1-85.0-731
+K Manohar
+26 Nov 2024
+1-G26JBBL Writing values to Profinet after redundancy failover of EIM not working
+1-G9CYZ4L [EIM-PN]UDS Floatvalue changes to EIM initial sync value after EIM switchover
+1-G8HBPTZ [EIM-PN]AO IOPOINT PARAM profinet UDS output drops during EIM switchover
+EIM-PNET
+EIM-Recovery
+UOC-Procpnet
+UOC-Recovery
+No
+46360
+SecurityNo
+Snapshot id: 621528
+PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-EIM-PNET
+EIM
+Richa Sachan
+EIM: Completed; no matches found
+Black Duck
+Satish Chandra
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+16
+D_EXP530.1-85.0-732
+Vinil Vaithiyam Krishnakumar
+26 Nov 2024
+To fix the PGM build issue by resolving issue in system status page.
+Actual PARs fixed mentioned were delivered in R530.1 TCU2 Build1.
+1-FJ9FKLR -
+[PCT]PGM don't report task overrun alarm when it is overrunning.
+1-3XBNROB - System does not detect and respond to a Series C FIM hardware failure in an effective manner
+PGM,
+Patch DB,
+Clean DB,
+MigrateBlocks\SystemBlocks\BCM\BCMPB\BCMPB.def.xml
+MigrateBlocks\SystemBlocks\BCM\PBLINK\pblink.def.xml
+FIM4, FIM8, RFIM
+db\src\cfim\cFIM.def.xml
+db\src\cfim\cFIM8.def.xml
+db\src\cfim\cFIMs.def.xml
+db\src\cfim\segfb.arr.xml
+Yes
+NA
+Note: PAR fixes were reviewed in R530.1 TCU2 B1. This is done for resolving build issue
+NA
+Note: Coverity for PAR fixes were done in R530.1 TCU2 B1. This is done for resolving build issue
+FIM & PGM
+Jeeva Palani
+PGM: Binary scan completed, no matched were found
+https://blackduck.swtools.honeywell.com/api/projects/8cb954cc-67da-42f3-a69e-dfb63f6b4613
+RFIM:
+Black Duck
+FIM4:
+Black Duck
+FIM8:
+Black Duck
+Satish Chandra
+Completed
+Ayesha Samreen S K
+29 Nov 2024
+
+Table 1:
+==================================================
+SCM Notes - for use by SCM builder
+
+
+Table 2:
+==================================================
+1		Label Only 1 label per ro		Submitter Date		PAR# and Abstract or Description if New/Other		Deliverable list Guidance		DB/PatchDB Change needed? Guidance		Completed Review ID (or justification if no review ID)		Security impact (KW6) field in Siebel		Static code analysis results and Coverity Build Stream ID and Snapshot ID Guidance		Impacted product component and Comp Security Advocate Guidance		Binary Scan Status (To be updated by Comp Security Advocate) Guidance		PS-JIRA affect version issues (To be updated by Comp Security Advocate) Guidance		Responsible UM		UM Sign off and date Guidance		RM Approval/ Date		Developer BVT /Date		Special Instructions for SCM or Installation		SCM Notes (for use by SCM builder)		Build status (From SCM)
+1		D_CEP204.1-85.0-58		Phil Hanson 22 Oct 2024		RNE-2883 - UEA ENIM with single FTE-Green n/w reported connection error when flashed with recovery media and send command failed error with application		UEA, UVA, EIM UOC ,CN100, c300v5 , C300H, C300PM and corresponding virtual environment.		No		34460		SecurityNo		No new security findings. Stream PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA-ELCN_NODE_APP		Matthew R Schrier C300PM/EHPMX Eric Ramsdell		ELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a vELCNNODE: Completed; no matches found. EIM-EIP: Black Duck EIM-PNET: Black Duck EIM-IEC61850: Black Duck C300PM Artifactory: https://artifactory-na.honeywell.com/ui/repos/tree/General/c300pm-generic-stable-local/binaries/C300PM/530.1%20TCU2 C300PM BDH: https://blackduck.swtools.honeywell.com/api/projects/b6e1bfaa-a46b-4e65-83b2-654108555a62/versions/82335ef2-a139-4701-9cdf-3a99a49e046a/components EHPMX Artifactory: https://artifactory-na.honeywell.com/ui/repos/tree/General/ehpmx-generic-stable-local/binaries/EHPMX/530.1%20TCU2 EHPMX BDH: https://blackduck.swtools.honeywell.com/api/projects/622f2ebb-bb3a-4926-958d-9489bd2e41bb/versions/6429361b-6ba9-47d7-a44e-c7db32fa8492/components C300 - Black Duck - no issues found C300v5 - Black Duck - no issues found CN100 - Black Duck - no issues found C300H - Black Duck - no issues found HCA - Black Duck - no issues found		C300PM: version updates complete EHPMX: version updates complete		Balamurugan Ramakrishnan				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+2		D_EXP530.1-85.0-627		James Adams		RELCN-4392 - PAR 1-FX8TL87 (CUSTOMER) - Primary AM failed related to Backup Cleanpoint issue - characterize when LCN-ETH buffers are allocated/deallocated		ELCNNODE, vELCNNODE		No		43760		SecurityNo		No new issues snapshot: 601601 PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA_ELCN_NODE_APP		ELCNSEC James Adams		ELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a vELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a				Balamurugan Ramakrishnan				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+3		D_EXP530.1-85.0-441		James Adams		RELCN-4223 Add diagnostics to Monitor Ethernet buffer usage		ELCNNODE vELCNNODE		No		40481		SecurityNo		No new issues snapshot: 601601 PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA_ELCN_NODE_APP		ELCNSEC James Adams		ELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a vELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a								HOLD unless reply from Jim Not to be stricken from the build. Issue has been getting tracked as a task and not a defect reason for the misalignment in defect scope addition and PR page correlation.  Has been labeled and merged since Aug.  Minimal to no risk but delivers key instrumentation required to better diagnose ELCN AM behaviors and as part of ELCN AM improvements. Joe Valencia 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+4		R530.1 TCU2		Umadevi Murugan 23 Oct 2024		1-G7U1I8V - UOC OPM from R520.2TCU6 to R530.1 TCU1 fails with blockdatafailure for EIPCOMMODULE		sysdtleipexplicitdevra_fp.hda sysdtleipexplicitdevra.hda sysdtleipexplicitdevra_Chart.hda		No		1-G7U1I8V by Umadevi-Murugan_HON · Pull Request #146 · HON-IA/exp_et_DetailDisplays		SecurityNo		N/A for displays		CN2R & RM2						Janardhan Ramachandra				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+5		D_EXP530.1-85.0-533		Pravin Yele 24 Oct 2024		PAR- 1-G7U1I8V: [M&I] UOC OPM from R520.2TCU6 to R530.1 TCU1 fails with blockdatafailure for EIPCOMMODULE		UOC/vUOC, UOC-PROCESS, UOC-PNET		No		28997, 29872		SecurityNo		Rizwan_coverity_R520.7z Rizwan: Desktop Coverity analysis done. Few issues were found and triaged.		Component:  CEE in UOC Security Advocate: @Sameer Gupta						Satish Chandra				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+6		D_EXP530.1-85.0-664		James Adams 24 Oct 2024		RELCN-4685 Virtual backup ELCN-AM may occasionally fail due to out-of-sequence redundancy communications		ELCNNODE vELCNNODE		N0		44689		SecurityNo		No new issues snapshot: 601601 PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-UEA_ELCN_NODE_APP		ELCNNODEs, SA: James Adams		ELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a vELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a				Balamurugan Ramakrishnan				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+7		D_EXP530.1-85.0-666		Kranthi Kumar Paluvadi 25 Oct 2024		PAR 1-GDVP9ZR: [SFT]8C-PDIPA1 module works abnormally with 8C-PCNT05 controller		CEP: C300v5, CN100		No		44812		SecurityNo		No new findings. Snapshot ID: 601602 Stream: PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-C300V5_PRO		Matthew R Schrier		C300 - Black Duck - no issues found C300v5 - Black Duck - no issues found CN100 - Black Duck - no issues found C300H - Black Duck - no issues found HCA - Black Duck - no issues found				Tracy Xie				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+8		D_EXP530.1-85.0-682		Gulam Kanji 04 Nov 2024		1-EHV0EVZ-SCM not released after single step change (with Procedure Explorer		ACE.exe C200EFBEE0.dll CEEC300FBEE1.dll c300app2.pcm c300app2_20.pcm c300app2_ehb.pcm C300app3.pcm c300app3_20.pcm cee50e.pcm UOC, vUOC, C300v5		No		45099		SecurityNo		No new findings												Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+9		No D label		Manjunath S 06 Nov 2024		1-GPFHRF1 SR deliverables had issue in TCU2 Build 1		please build all SR deliverables for TCU2 build 02 as this was given for testing team from devlopers build in TCU2 build 1		please refer to build 01		41282		SecurityNo						SR: Completed, no matches found https://blackduck.swtools.honeywell.com/api/projects/4cc35b1f-8713-45ab-9f27-d0257801a26a/versions/a10fd436-92e7-4cc9-8d7f-6de7766bdfe4/components?filter=bomInclusion%3Afalse&filter=bomMatchInclusion%3Afalse&filter=bomMatchReviewStatus%3Areviewed&limit=100&offset=0								Sanjeev S V 08 Nov 2024				please build all SR deliverables from BB				Completed Ayesha Samreen S K 29 Nov 2024
+10		D_EXP530.1-85.0-685		Abrar Hazarika 06 Nov 2024		PAR 1-EXGG0OD		ver_rev.txt		No		NA		SecurityNo		NA		NA as this is a text file change. Pulkit Mangla is SA for Migration Tools.		Migrations Tools: https://blackduck.swtools.honeywell.com/api/codelocations/bf7d154d-0806-44ef-9685-e8978a40984f								Sanjeev S V 08 Nov 2024				Please use this D labelled version as input to AutoVerRev.exe in case you need to generate ver_rev.txt				Completed Ayesha Samreen S K 29 Nov 2024
+11		D_EXP530.1-85.0-692		Vimal Kant Christopher Buonacuore 08 Nov 2024		“ https://psjira.honeywell.com/browse/C300V5SEC-172 : Assessment: C300v5 EPA : Server connection failed while performing EPA fuzz using Defensics”		Windows: gcl.dll Embedded: pSOS: FTEB, C200E, FIM2, IOLIM Integrity: C300v2, C300v2-20ms, C300v3, C300v3-20ms, FIM4, FIM8, PGM2, EHPM, EPNI2/ENIM, C300-EHB, EHB CEP: EIM-RECOVERY, EIM-61850, EIM-EIP, EIM-PNET ELCNNODE, vELCNNODE, ELCN bridge UOC-RECOVERY, UOC-PROCESS, UOC-PNET, vUOC CN100-RECOVERY, CN100, SIM-CN100 C300v5 C300PM, EHPMX C300H ARM, HCA ARM C300H x86, , HCA x86		No		43494		Security Yes		Coverity – No new issue observed in the modified files. Snapshot ID – 609053 PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-C300_APP		UOC or C300v5 Pat Brett C300: Matthew R Schrier ELCNNODE/BRIDGE: James Adams C300PM/EHPMX: Eric Ramsdell		ELCNNODE:   Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/6d6522e5-6471-4f3d-9368-6d433abf475a vELCNNODE: Completed; no matches found. https://blackduck.swtools.honeywell.com/api/codelocations/4cfc9420-ea1b-4b6b-9a3f-e762925e023a ELCN BRIDGE: Completed; no matches found https://blackduck.swtools.honeywell.com/api/codelocations/5f52cbbb-cda0-4dd0-af39-9ebd0c862409 EIM-EIP: Black Duck EIM-PNET: Black Duck EIM-IEC61850: Black Duck PGM: https://blackduck.swtools.honeywell.com/api/projects/8cb954cc-67da-42f3-a69e-dfb63f6b4613 C300PM Artifactory: https://artifactory-na.honeywell.com/ui/repos/tree/General/c300pm-generic-stable-local/binaries/C300PM/530.1%20TCU2 C300PM BDH: https://blackduck.swtools.honeywell.com/api/projects/b6e1bfaa-a46b-4e65-83b2-654108555a62/versions/82335ef2-a139-4701-9cdf-3a99a49e046a/components EHPMX Artifactory: https://artifactory-na.honeywell.com/ui/repos/tree/General/ehpmx-generic-stable-local/binaries/EHPMX/530.1%20TCU2 EHPMX BDH: https://blackduck.swtools.honeywell.com/api/projects/622f2ebb-bb3a-4926-958d-9489bd2e41bb/versions/6429361b-6ba9-47d7-a44e-c7db32fa8492/components C300 - Black Duck - no issues found C300v5 - Black Duck - no issues found CN100 - Black Duck - no issues found C300H - Black Duck - no issues found HCA - Black Duck - no issues found FIM2: Black Duck FIM4: Black Duck FIM8: Black Duck		C300PM: version updates complete EHPMX: version updates complete		Satish Chandra Raj Bandekar				Sanjeev S V 08 Nov 2024								Completed Ayesha Samreen S K 29 Nov 2024
+12		R530.1 TCU2		Shanmugaraj Pillarchetty 19 Nov 2024		[RBTMGR-4936] Remove PLA from Displays - Jira Remove PLA from Displays		sysdtlpidplaltc.hda sysdtlpidplc.hda		No		https://github.com/HON-IA/exp_et_DetailDisplays/pull/149		SecurityNo		N/A for displays		PLA						Janardhan Ramachandra				Rejected, Unsolicited request 21 Nov 2024 Sanjeev S V								Completed Ayesha Samreen S K 29 Nov 2024
+13		D_EXP530.1-85.0-722		Ananthapadmanabha Gujjanadu Krishnamurthy 21 Nov 2024		REUCN-8351/REUCN-8349: Node fails with Watchdog error or gets stuck during shutdown		C300PM, EHPMX		No		45994		SecurityNo		Only Makefile change and no source code change		C300PM/EHPMX Eric Ramsdell		C300PM Artifactory: https://artifactory-na.honeywell.com/ui/repos/tree/General/c300pm-generic-stable-local/binaries/C300PM/530.1%20TCU2 C300PM BDH: https://blackduck.swtools.honeywell.com/api/projects/b6e1bfaa-a46b-4e65-83b2-654108555a62/versions/82335ef2-a139-4701-9cdf-3a99a49e046a/components EHPMX Artifactory: https://artifactory-na.honeywell.com/ui/repos/tree/General/ehpmx-generic-stable-local/binaries/EHPMX/530.1%20TCU2 EHPMX BDH: https://blackduck.swtools.honeywell.com/api/projects/622f2ebb-bb3a-4926-958d-9489bd2e41bb/versions/6429361b-6ba9-47d7-a44e-c7db32fa8492/components		C300PM: version updates complete EHPMX: version updates complete		Balamurugan Ramakrishnan												Completed Ayesha Samreen S K 29 Nov 2024
+14		D_CEP204.1-85.0-83		K Manohar 26 Nov 2024		1-EODY1AF [EIM-PN]EIM failure observed during downlink network storm in multimanager case. 1-FB03IN5 EIM Profinet personality failed after downloading a vpgate. EIM network Storm		EIM-PNET EIM-Recovery		No		46360		SecurityNo		Snapshot id: 621528 PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-EIM-PNET		EIM Richa Sachan		EIM: Completed; no matches found Black Duck				Satish Chandra												Completed Ayesha Samreen S K 29 Nov 2024
+15		D_EXP530.1-85.0-731		K Manohar 26 Nov 2024		1-G26JBBL Writing values to Profinet after redundancy failover of EIM not working 1-G9CYZ4L [EIM-PN]UDS Floatvalue changes to EIM initial sync value after EIM switchover 1-G8HBPTZ [EIM-PN]AO IOPOINT PARAM profinet UDS output drops during EIM switchover		EIM-PNET EIM-Recovery UOC-Procpnet UOC-Recovery		No		46360		SecurityNo		Snapshot id: 621528 PMT-HPS-TECH-EXP_TCI-R530FIRMWARE-EIM-PNET		EIM Richa Sachan		EIM: Completed; no matches found Black Duck				Satish Chandra												Completed Ayesha Samreen S K 29 Nov 2024
+16		D_EXP530.1-85.0-732		Vinil Vaithiyam Krishnakumar 26 Nov 2024		To fix the PGM build issue by resolving issue in system status page. Actual PARs fixed mentioned were delivered in R530.1 TCU2 Build1. 1-FJ9FKLR - [PCT]PGM don't report task overrun alarm when it is overrunning. 1-3XBNROB - System does not detect and respond to a Series C FIM hardware failure in an effective manner		PGM, Patch DB, Clean DB, MigrateBlocks\SystemBlocks\BCM\BCMPB\BCMPB.def.xml MigrateBlocks\SystemBlocks\BCM\PBLINK\pblink.def.xml FIM4, FIM8, RFIM db\src\cfim\cFIM.def.xml db\src\cfim\cFIM8.def.xml db\src\cfim\cFIMs.def.xml db\src\cfim\segfb.arr.xml		Yes		NA Note: PAR fixes were reviewed in R530.1 TCU2 B1. This is done for resolving build issue				NA Note: Coverity for PAR fixes were done in R530.1 TCU2 B1. This is done for resolving build issue		FIM & PGM Jeeva Palani		PGM: Binary scan completed, no matched were found https://blackduck.swtools.honeywell.com/api/projects/8cb954cc-67da-42f3-a69e-dfb63f6b4613 RFIM: Black Duck FIM4: Black Duck FIM8: Black Duck				Satish Chandra												Completed Ayesha Samreen S K 29 Nov 2024
+
